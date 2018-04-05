@@ -1,0 +1,58 @@
+Tournaments Rated
+ACF
+	05/12/2010  97  6  2010 Australian Schools Teams Championship
+	17/01/2011  36  9  2011 Australian Junior Championships Under 10
+	17/01/2011  14  9  2011 Australian Junior Championships Under 10 Girls
+	23/01/2011  46  9  2011 Australian Junior Championships Under 12
+	23/01/2011  21  9  2011 Australian Junior Championships Under 12 Girls
+	23/01/2011  26  9  2011 Australian Junior Championships Under 14
+	23/01/2011  13  9  2011 Australian Junior Championships Under 16
+	23/01/2011  28  9  2011 Australian Junior Championships Under 18
+	23/01/2011   7  7  2011 Australian Junior Championships Under 18 Girls
+	17/01/2011  15  9  2011 Australian Junior Championships Under 8
+	13/01/2011  85 11  2011 Australian Open
+	08/01/2011  24  7  2011 Australian Open Classic
+	13/01/2011  46 11  2011 Australian Open Minor
+	31/01/2011  56  9  2011 Oceanic Zonal Open
+	31/01/2011  11 11  2011 Oceanic Zonal Women
+ACT
+	16/12/2010  13  5  2010 Christmas Cup
+	08/12/2010  11  7  2010 Griffin King
+NSW
+	05/12/2010  31  6  2010 Country Teams Tournament
+	25/01/2011  47  7  2010/11 St. George Summer Open
+	30/01/2011  74  7  2011 Australia Day Weekender
+	27/07/2010  10  9  Coffs Harbour 60 mins
+	16/11/2010  11 11  Coffs Harbour Club Championship 2010
+	13/12/2010  18  9  Easts Spring Chess Challenge 2010
+	21/10/2010  13  7  Newcastle District Championship 2010
+	13/02/2011  51  6  Newcastle Open 2011
+	01/12/2010  23  6  Ryde Eastwood Classic 2010
+QLD
+	30/12/2010  53  9  2010 Gold Coast Chess Festival
+	27/02/2011  39  6  2011 Powell Suncoast Open
+	30/01/2011  19  7  2011 Qld Australia Day Weekender
+	23/02/2011  18  6  2011 Summer Swiss
+	12/02/2011  57  6  Gold Coast Tin Cup 2011
+	29/11/2010  20  7  Junior Masters A T4 2010
+	14/12/2010  10  9  Ruth Coxhill Memorial 2010
+SA
+	07/09/2010  19  9  City of Adelaide 2010
+VIC
+	12/10/2010  10  9  Australasian Masters
+	08/12/2010  16  7  Ballarat John Holmes Memorial
+	07/12/2010  34  7  Canterbury Summer Swiss
+	29/12/2010  62  7  Canterbury Summer Swiss Weekender
+	26/01/2011  13  7  MCC Australia Day Weekender
+	20/12/2010   6  5  MCC Bob Brooking Round Robin (Group 1)
+	20/12/2010   6  5  MCC Bob Brooking Round Robin (Group 2)
+	20/12/2010   6  5  MCC Bob Brooking Round Robin (Group 3)
+	19/12/2010  16  6  MCC Christmas Swiss
+WA
+	05/12/2010  25  6  2010 Christmas Open
+	09/12/2010  10  9  2010 Metro Respini A
+	09/12/2010  10  9  2010 Metro Respini B
+	09/12/2010   9  9  2010 Metro Respini C
+	09/12/2010   8  7  2010 Metro Respini D
+	20/02/2011  20  6  2011 Kingsley Open
+

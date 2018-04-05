@@ -1,0 +1,99 @@
+Tournaments Rated
+ACT
+	31/05/2009  15  6  2009 ACT Women and Girls' Championship
+	18/03/2009  28  6  2009 ANU Summer Swiss
+	15/03/2009  39  6  2009 Autumn Junior Weekender
+	22/05/2009  13  7  2009 Belconnen CC Championship
+	01/04/2009   9  9  2009 Canberra CC Championship
+	20/05/2009  12  7  2009 Canberra Cup
+	27/03/2009   8  7  2009 Community Centre Cup
+	11/04/2009  27  6  2009 Mind Games Doeberl U1200
+	13/04/2009  68  7  2009 O2C Doeberl Cup - Major
+	13/04/2009  66  7  2009 O2C Doeberl Cup - Minor
+	13/04/2009  76  9  2009 O2C Doeberl Cup - Premier
+	16/03/2009  27  5  2009 Woden Cup
+NSW
+	26/05/2009  16  4  2009 Central Coast Teams Challenge
+	19/04/2009  53  9  2009 Sydney International Challengers
+	19/04/2009 100  9  2009 Sydney International Open
+	30/03/2009  22  7  2009 Wyong Shire Cup
+	10/03/2009  20  9  2009-WGONG-HANDICAP
+	12/05/2009  96  1  Big Boards 1st leg Norths vs Saints May 2009
+	18/05/2009  16  7  Canterbuy Championship 2009
+	29/03/2009  43  6  Dubbo RSL Open 2009
+	06/04/2009  20  9  Easts Summer Chess Challenge 2009
+	28/04/2009   3  3  Gosford Grades 2009 - div Lemurs Part A
+	28/04/2009   3  3  Gosford Grades 2009 - div Lemurs Part B
+	28/04/2009   6  5  Gosford Grades 2009 - div Lions
+	28/04/2009   4  3  Gosford Grades 2009 - div Monkeys Part A
+	28/04/2009   4  3  Gosford Grades 2009 - div Monkeys Part B
+	28/04/2009   6  5  Gosford Grades 2009 - div Tigers
+	10/03/2009  24  6  Gosford Summer Swiss 2009
+	05/05/2009  48  1  Little Board v Manly First Leg 2009
+	12/05/2009  12  1  Little Boards North Sydney vs North Sydney May 2009
+	27/04/2009  12 11  Manly Chess Club Championship Grade A 2009
+	27/04/2009  12 11  Manly Chess Club Championships Grade B 2009
+	06/04/2009  10  9  Manly Chess Club Championships Grade C 2009
+	21/04/2009  12 11  Norths Chess Club Club Championships Candidates Division 2009
+	21/04/2009  12 11  Norths Chess Club Club Championships Championship Division 2009
+	21/04/2009  12 11  Norths Chess Club Club Championships Reserves A Division 2009
+	21/04/2009  12 11  Norths Chess Club Club Championships Reserves B 2009
+	21/04/2009  12 11  Norths Chess Club Club Championships Reserves C 2009
+	21/04/2009  12 11  Norths Chess Club Club Championships Reserves D 2009
+	30/04/2009  43  9  Parramatta Club Championships 2009
+	23/02/2009  28  7  Rooty Hill Autumn Swiss 2009
+	20/05/2009  12 11  Ryde Eastwood Prelim A 2009
+	20/05/2009  12 11  Ryde Eastwood Prelim B 2009
+	20/05/2009  12 11  Ryde Eastwood Prelim C 2009
+	10/03/2009   4  1  St. George CC Miscellaneous Games 2009
+	28/04/2009  10  9  St. George Club Champs 2009 Championship Division
+	28/04/2009  10  9  St. George Club Champs 2009 Division 2
+	28/04/2009  10  9  St. George Club Champs 2009 Division 3
+	28/04/2009  10  9  St. George Club Champs 2009 Division 4
+	28/04/2009  10  9  St. George Club Champs 2009 Division 5
+	07/04/2009   7  7  St. George Club Champs 2009 Division 6
+QLD
+	23/04/2009  37  6  2009 BCC Autumn Swiss
+	12/03/2009  36  6  2009 BCC Summer Swiss
+	06/04/2009  21  7  2009 Kings of chess championship
+	31/05/2009   5  5  2009 Queensland Girls Championship
+	13/04/2009  17  7  2009 Queensland Open
+	13/04/2009  12  7  2009 Queensland Open Under 1200 Division
+	18/05/2009  13  6  2009 SCC Memorial Challenge
+	01/04/2009  12  6  2009 Tal Memorial
+	04/05/2009  37  7  44th Peninsula Open
+	19/04/2009  26  7  Gold Coast Junior Champs 2009
+	30/03/2009  16  8  Junior Masters A T1 2009
+	30/03/2009  12  8  Junior Masters B T1 2009
+SA
+	07/04/2009  20  9  South Australian Candidates 2009
+	07/04/2009  10  9  South Australian Chess Championship 2009
+TAS
+	06/05/2009  13 13  Burnie Chess Club Championship 2009
+	06/05/2009   6 10  Burnie Chess Club Reserves Championship 2009
+	09/03/2009  28  7  Tasmanian Chess Championships 2009
+VIC
+	09/03/2009  91  7  2009 Ballarat Begonia Open
+	04/03/2009   9  7  2009 Ballarat Spielvogel Memorial
+	27/03/2009  80  7  2009 Box Hill Autumn Cup
+	07/04/2009  30  8  2009 Canterbury New Season Swiss
+	29/04/2009  40  5  2009 Dandenong Easter Cup
+	18/03/2009  46  8  2009 Dandenong Summer Swiss
+	21/04/2009  25  5  2009 Hobsons Bay/Yarraville Purdy Cup
+	26/04/2009  22  5  2009 MCC Anzac Day Weekender
+	06/04/2009  34  9  2009 Melbourne Club Championship
+	25/04/2009  29  9  2009 Noble Park Club Championship
+	19/03/2009  15  5  Croydon "The Euwe"
+	05/04/2009  31  5  Croydon "The Khalifman"
+	21/05/2009  18  5  Croydon "The Symslov"
+	19/05/2009  27  5  Ranges Open
+WA
+	14/04/2009  20  6  2009 Gufeld Cup
+	07/05/2009   9  9  2009 Metro Club Championship A division
+	23/04/2009   9  9  2009 Metro Club Championship B division
+	14/05/2009  10  9  2009 Metro Club Championship C division
+	07/05/2009  10  9  2009 Metro Club Championship D division
+	14/05/2009  10  9  2009 Metro Club Championship E division
+	29/03/2009  23  7  2009 WA Open
+	11/04/2009  32  7  Perth Club Championship 2009
+

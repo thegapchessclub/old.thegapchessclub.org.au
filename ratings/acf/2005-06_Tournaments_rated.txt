@@ -1,0 +1,111 @@
+Tournaments Rated
+ACT
+	08/04/2005  48  1  2005 ACT Adults vs Juniors
+	08/04/2005  10  1  2005 ACT Adults vs Juniors Reserves
+	15/05/2005  21  6  2005 ACT Women and Girls
+	06/03/2005  15  6  2005 Autumn Weekender
+	06/03/2005  21  6  2005 Autumn Weekender U1000
+	11/03/2005  51  7  2005 Belconnen Open
+	04/05/2005  24  7  2005 Canberra CC Championship
+	09/03/2005  17  5  2005 Canberra Cup
+	28/03/2005  61  7  2005 Doeberl Cup Major
+	28/03/2005  78  7  2005 Doeberl Cup Minor
+	28/03/2005  66  7  2005 Doeberl Cup Premier
+	23/05/2005  30  7  2005 Tuggeranong CC Championship
+	07/03/2005  21  5  2005 Woden Cup
+	01/04/2005  60  1  ACT North vs South
+NSW
+	16/05/2005  16  7  2005 Canterbury Club Championship
+	10/03/2005  22  9  2005 City of Sydney Open
+	10/03/2005  32  9  2005 City of Sydney Under 1700
+	15/05/2005  34  7  2005 NSWCA May Weekender
+	15/03/2005  19  9  2005 Wollongong-Handicap
+	17/05/2005  76  1  Big Boards First Leg St. George v North Sydney 2005
+	13/03/2005  22  6  Dubbo RSL Open 2005
+	22/05/2005  13  2  Dubbo-Gunnedah Match
+	26/04/2005   2  1  Gosford Numero Cinque 2005
+	26/04/2005   4  3  Gosford Numero Due 2005
+	26/04/2005   3  3  Gosford Numero Quarttro 2005
+	26/04/2005   3  3  Gosford Numero Tre 2005
+	26/04/2005   4  3  Gosford Numero Uno 2005
+	11/04/2005  26  9  Henry Greenfield Cup 2005
+	01/05/2005  28  7  Laurieton May Open 2005
+	03/05/2005  42  1  Little Board North Sydney v Manly 2005
+	17/05/2005  12  1  Little Boards First Leg St. George v St. George 2005
+	24/05/2005  12 11  Manly Club Champs A Grade 2005
+	24/05/2005  12 11  Manly Club Champs B Grade 2005
+	24/05/2005  12 11  Manly Club Champs C Grade 2005
+	29/05/2005  33  6  Mingara May Major 2005
+	02/05/2005  20  1  Mingara Versus the world
+	19/04/2005  11 11  North Sydney 2005 Candidates
+	19/04/2005  12 11  North Sydney 2005 Championship
+	19/04/2005  11 11  North Sydney 2005 Reserves A
+	19/04/2005  11 11  North Sydney 2005 Reserves B
+	19/04/2005  11 11  North Sydney 2005 Reserves C
+	05/04/2005   9  9  North Sydney 2005 Reserves D1
+	05/04/2005   9  9  North Sydney 2005 Reserves D2
+	27/04/2005   9  9  Ryde Eastwood Prelim A 2005
+	13/04/2005   8  7  Ryde Eastwood Prelim B 2005
+	13/04/2005   8  7  Ryde Eastwood Prelim C 2005
+	26/04/2005  10  9  St. George Club Champs 2005 Championship Division
+	26/04/2005  10  9  St. George Club Champs 2005 Division 2
+	03/05/2005  11 11  St. George Club Champs 2005 Division 3
+	03/05/2005  11 11  St. George Club Champs 2005 Division 4
+	03/05/2005   6 10  St. George Club Champs 2005 Division 5
+	03/05/2005   6 10  St. George Club Champs 2005 Division 6
+	28/03/2005  29  7  Sydney Easter Cup 2005
+	05/05/2005  28 10  Sydney WSCP A Division 2005
+	02/05/2005  34 10  Sydney WSCP B Division 2005
+	04/05/2005  44 10  Sydney WSCP C Division 2005
+	18/04/2005  20  7  Wyong Shire Cup 2005
+QLD
+	31/03/2005  33  9  2005 City of Brisbane Championship
+	02/05/2005  51  7  2005 Peninsula Open
+	23/02/2005  15  7  2005 Redcliffe Summer Swiss
+	05/05/2005  24  5  BCC Summer Swiss 2005
+	28/03/2005  43  6  Brisbane Open 2005
+	17/04/2005  49  7  Gold Coast Junior Championships 2005
+	22/03/2005  30  8  Junior Masters 010205
+	08/03/2005  21  6  Presidents Challenge 2005
+	10/04/2005  12  6  Queensland Women's Championship 2005
+SA
+	15/05/2005  21  7  Adelaide Cup 2005
+	22/03/2005  30  7  SA Championship 2005
+TAS
+	14/03/2005  29  7  Tasmanian Championship 2005
+VIC
+	18/03/2005  96  7  2005 Box Hill Autumn Cup
+	31/03/2005  10  5  2005 Croydon Tal Tournament
+	04/05/2005  51  5  2005 Dandenong Easter Cup
+	23/03/2005  52  8  2005 Dandenong Summer Swiss
+	07/04/2005  20  9  2005 Elwood Open
+	19/04/2005  24  5  2005 Hobsons Bay/Yarraville CJS Purdy Cup
+	22/05/2005  25  5  2005 Hobsons Bay/Yarraville Open
+	25/04/2005  24  7  2005 MCC Anzac Day Weekender
+	11/04/2005  34  9  2005 Melbourne Club Championship
+	06/05/2005  16  6  Albury Rated Tournament 2005
+	14/03/2005 105  7  Ballarat Begonia Open 2005
+	10/03/2005  15  7  Ballarat Spielvogel Memorial 2005
+	29/03/2005  38  8  Box Hill New Season Swiss 2005
+	15/05/2005  78  8  Victorian Junior Under 12 Championship 2005
+	01/05/2005  37  8  Victorian Junior Under 18 Championship 2005
+WA
+	05/02/2005   3  3  2004 Fremantle Club Championship 2004 Play-Off part 1
+	05/02/2005   3  3  2004 Fremantle Club Championship 2004 Play-Off part 2
+	01/04/2005   3  2  2004 Womens Championship Part 1
+	01/04/2005   3  2  2004 Womens Championship Part 2
+	11/05/2005   8  1  2005 Harris Shield Final
+	14/04/2005  10  9  2005 Metro Club Championship A Division
+	28/04/2005  12 11  2005 Metro Club Championship B Division
+	28/04/2005  12 11  2005 Metro Club Championship D Division
+	14/04/2005  10  9  2005 Metro Club Championship E Division
+	09/03/2005  15  6  2005 Midland Club Championship
+	28/04/2005  12 11  2005Metro Club Championship C Division
+	28/02/2005  11  7  ChartZylstra 2005
+	25/04/2005  15  6  Gufeld Cup 2005
+	29/04/2005   9  2  Harris 2005 Division A
+	29/04/2005  22  3  Harris 2005 Division B
+	29/04/2005  10  2  Harris 2005 Division C
+	28/03/2005  20  7  Kingsley Open 2005
+	12/03/2005  32  6  South West Open 2005
+

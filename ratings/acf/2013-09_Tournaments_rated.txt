@@ -1,0 +1,94 @@
+Tournaments Rated
+ACT
+	05/06/2013  32  6  2013 ANU Autumn Swiss
+	28/07/2013  29  7  2013 ANU Open
+	28/07/2013  51  7  2013 ANU Under 1600
+	21/08/2013  29  6  2013 ANU Winter Swiss
+	02/07/2013  11  7  2013 Belconnen CC Championship
+	10/07/2013  30  7  2013 Cold Comfort Cup
+NSW
+	03/03/2013   2  2  2012 NSW Girls Championship Playoff
+	12/07/2013  23  9  2013 NSW Junior Championship  -  Under 18
+	12/07/2013  30 10  2013 NSW Junior Championship - Under 12
+	03/08/2013   2  2  2013 NSW Junior Championship - Under 12 Playoff
+	10/06/2013  76  7  2013 NSW Open
+	10/06/2013  44  7  2013 NSW Open U1600
+	31/07/2013  60 10  2013 NSWCA Grade U1500
+	24/07/2013  35  9  2013 NSWCA Grade U1700
+	23/07/2013  37 10  2013 NSWCA Grade U2000
+	25/08/2013  36  7  2013 NSWCA St George Weekender
+	03/06/2013  42  7  2013 Rooty Hill Winter Swiss
+	30/07/2013  58  9  2013 St. George Internal Teams
+	02/07/2013  10  5  2013 WGong Collies - Grading Swiss
+	01/07/2013  10  9  East Sydney Autumn Chess Challenge 2013
+	23/07/2013  18  9  Ford/Greenwood Open Seniors Tournament 2013
+	16/07/2013   8  7  NSW State Championship 2013
+	27/06/2013  19  9  Parramatta Club Championship Division 1 2013
+	27/06/2013  25  9  Parramatta Club Championship Division 2 2013
+QLD
+	27/06/2013  31  4  2013 BCC Tal Memorial
+	15/08/2013  35  7  2013 BCC Winter Swiss
+	18/07/2013  13  5  2013 Mike Dyer Memorial
+	07/07/2013  12  5  2013 Queensland Girls Championship
+	28/06/2013  26  8  2013 Queensland Juniors U12
+	28/06/2013  20  8  2013 Queensland Juniors U18
+	10/06/2013  42  7  48th Peninsula Open
+	28/05/2013  19  7  Gladstone Chess Club Autumn 60+10
+	28/07/2013  34  6  Gladstone Open 2013
+	23/06/2013  41  6  Gold Coast Open 2013
+	23/06/2013  57  7  Gold Coast Open Under 1000 - 2013
+	23/06/2013  41  7  Gold Coast Open Under 1600 - 2013
+	21/07/2013  47  6  Logan City Open 2013
+	11/08/2013  18  6  Mackay Open 2013
+	04/08/2013  14  6  North Queensland Open 2013
+	18/06/2013  12  6  Presidents Challenge
+	18/08/2013  29  6  Queensland Open 2013
+	06/08/2013  12  7  Suncoast Chess Club Championship
+	23/07/2013  11  5  Townsville Winter Swiss 2013
+SA
+	07/07/2013  22  7  Checkmate Challengers 2013
+	07/07/2013  21  7  Checkmate Open 2013
+	25/06/2013  48  9  Inter-club A 2013
+	25/06/2013  56  9  Inter-club B 2013
+	09/08/2013   3  2  Modbury Championship 2013 Playoff
+	19/07/2013  14  8  Modbury Chess Championship 2013
+	09/06/2013  18  6  Queen's Birthday 2013
+TAS
+	26/06/2013  14 13  Burnie Club Championships 2013
+	10/06/2013  15  6  Tas Open 2013
+VIC
+	26/06/2013  12 11  2013 Ballarat Chess Club Championship
+	26/06/2013   7  7  2013 Ballarat Chess Club Reserves Championship
+	14/08/2013   6  5  2013 Bendigo Chess Club Championship Finals
+	21/08/2013   2  1  2013 Bendigo Chess Club Championship Playoff
+	21/06/2013  58  9  2013 Box Hill Club Championship
+	30/08/2013  54  7  2013 Box Hill Friday Grades Tournament
+	11/06/2013  15  7  2013 Canterbury Juniors Tuesday Autumn Swiss
+	14/07/2013  51  5  2013 Croydon Chess Classic
+	12/06/2013   7  7  2013 Dandenong A Grade
+	12/06/2013   8  7  2013 Dandenong B Grade
+	12/06/2013   8  7  2013 Dandenong C Grade
+	12/06/2013   6  5  2013 Dandenong Premier Grade
+	11/06/2013  15  7  2013 Hobsons Bay Cup
+	19/08/2013  21  5  2013 Hobsons Bay Junior McCrakett Cup
+	01/07/2013  23  9  2013 MCC City of Melbourne
+	26/08/2013  30  7  2013 MCC Edwin Malitis Memorial
+	23/06/2013   4  3  2013 MCC Quads Division 1 23 June
+	23/06/2013   4  3  2013 MCC Quads Division 2 23 June
+	04/06/2013  38  7  2013 Ranges Open
+	07/07/2013  55  7  2013 Victoria Juniors U12
+	26/06/2013  12 11  2013 Victorian Championship
+	11/07/2013  11 11  2013 Victorian Championship Reserves
+	12/07/2013  34  9  2013 Victorian Juniors U14&U16&U18
+	30/06/2013  51  7  2013 Victorian Juniors U8&U10
+	10/06/2013  93  7  2013 Victorian Open
+WA
+	01/06/2013  18  6  2013 Foundation Day
+	17/07/2013  22  7  2013 Mary Thomson Cup
+	18/07/2013  36  7  2013 Metro Open
+	16/06/2013  26  6  2013 South West Open
+	08/06/2013   5  5  2013 WA Junior Championship
+	21/08/2013  16  3  Harris A 2013
+	21/08/2013  11  2  Harris C 2013
+	20/08/2013  14  3  Harris C 2013
+

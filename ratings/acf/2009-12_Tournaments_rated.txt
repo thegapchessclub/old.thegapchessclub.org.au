@@ -1,0 +1,109 @@
+Tournaments Rated
+ACF
+	11/10/2009   6 10  2009 Australian Girls Masters
+	11/10/2009   6 10  2009 Australian Junior Masters
+	11/10/2009  10  9  2009 Australian Young Masters
+	28/09/2009  10  9  Solomon Islands International 2009
+ACT
+	30/10/2009  19  9  2009 ACT Championship
+	30/09/2009  54  9  2009 ACT Junior Championship
+	04/11/2009  31  6  2009 ANU Spring Swiss
+	12/08/2009  10  9  2009 Cold Comfort Cup
+	23/11/2009  18  5  2009 Hetherington Memorial
+	21/09/2009  17  7  2009 Murrumbidgee Masters
+	29/11/2009  57  6  2009 Vikings Weekender
+NSW
+	06/09/2009   2  2  2008 City of Sydney Junior Championship - Under 12 Playoff Part 3
+	06/10/2009   2  2  2008 City of Sydney Junior Championship - Under 15
+	12/11/2009  32  9  2009 Parramatta Club Championship
+	10/11/2009  46  9  2009 St. George Swiss
+	24/11/2009  92  1  Big Boards 2nd leg Saints vs Norths 2009
+	13/09/2009  48  6  Blayney Open 2009
+	23/11/2009  19  7  Canterbury Open 2009
+	27/08/2009  10  9  City of Sydney Championships 2009
+	16/10/2009  30  8  City of Sydney Junior Championship - Under 12
+	16/10/2009  16  6  City of Sydney Junior Championship - Under 15
+	16/10/2009  15  6  City of Sydney Junior Championship - Under 18
+	05/10/2009  24  9  Easts Winter Chess Challenge 2009
+	08/11/2009  44  7  Fischer's Ghost Open 2009
+	10/11/2009  89  9  Ford Memorial 2009
+	01/11/2009  32  7  Gosford Open 2009
+	14/10/2009  27  1  Little Board Second Leg
+	24/11/2009  14  1  Little Boards 2nd leg Saints vs Saints 2009
+	17/11/2009  22  9  Manly Spring Tournament
+	28/09/2009  15  7  Mingara Club C'ship 2009
+	09/10/2009  10  5  NSW Girls Championship - Under 18
+	03/10/2009  10  7  Newcastle District Championship 2009
+	30/11/2009   8  7  Rooty Hill CC Div A 2009
+	30/11/2009   8  7  Rooty Hill CC Div B 2009
+	30/11/2009   7  7  Rooty Hill CC Div C 2009
+	30/11/2009  10  7  Rooty Hill CC Div D 2009
+	30/11/2009   6  1  Rooty Hill CC Div E 2009
+	28/09/2009  35  9  Rooty Hill Open 2009
+	25/11/2009  24  5  Ryde Eastwood Classic 2009
+	25/11/2009   5  5  Ryde Eastwood Club Championship Final 2009
+	05/10/2009  72  7  Ryde Eastwood Open 2009
+	04/10/2009  23  6  Western Region Interclub Challenge 2009
+	29/09/2009   8  7  Wollongong Collegians A Grade Champs 2009
+	29/09/2009  17  7  Wollongong Collegians B Grade Champs 2009
+QLD
+	19/11/2009  28  9  2009 BCC Club Championship
+	10/09/2009  15  5  2009 BCC Tal Memorial Division A
+	10/09/2009  13  5  2009 BCC Tal Memorial Division B
+	20/09/2009  49  6  2009 Nell Van Der Graaff Classic
+	08/11/2009   9 10  2009 Queensland Championship
+	08/11/2009  26  7  2009 Queensland Minor Championship
+	29/11/2009   5  5  2009 Queensland Veterans Championship
+	29/11/2009   4  6  2009 Queensland Women's Championship
+	11/11/2009  15  7  2009 Redcliffe Club Championship
+	19/09/2009  10  9  2009 Ruth Coxhill Memorial
+	27/09/2009  42  6  2009 Surfers Paradise Open Paradise Section
+	27/09/2009  27  6  2009 Surfers Paradise Under 1600
+	11/10/2009  40  6  2009 Wendy Terry Memorial
+	07/09/2009  13  8  Junior Masters Term 3 2009 A Grade
+	07/09/2009  10  8  Junior Masters Term 3 2009 B Grade
+	09/10/2009  11 12  The Gap Chess Club - Stuart Wilson Trophy
+SA
+	08/09/2009  25  9  City of Adelaide 2009
+	27/10/2009  41  7  Pennant Division 1 2009
+	27/10/2009  43  7  Pennant Division 2 2009
+TAS
+	21/10/2009  15 15  2009 Robert Isted
+	21/10/2009   5  9  2009 Robert Isted Reserves
+	25/10/2009  21  6  Burnie Shines 2009
+	30/11/2009   9  9  HICC One Hour 2009
+	11/10/2009  11  6  Tas Under 18 Championships
+VIC
+	03/11/2009  52  9  2009 Melbourne Cup
+	29/09/2009  10  9  Box Hill FIDE Rated Tournament (B Division)
+	29/09/2009  10  9  Box Hill Masters
+	30/10/2009  62  7  Box Hill Open
+	01/09/2009  29  6  Canterbury Grades Tournament
+	04/10/2009  36  5  Croydon "The Anand"
+	29/11/2009  18  7  Croydon Club Championship
+	03/09/2009  18  7  Croydon Open
+	21/10/2009   8  7  Elwood Club Championship
+	12/09/2009   4  3  Hobsons Bay/Yarraville Challenger
+	24/11/2009   8  7  Hobsons Bay/Yarraville Club Championship
+	12/09/2009   2 10  Hobsons Bay/Yarraville Junior Club Championship
+	07/11/2009   6  5  Hobsons Bay/Yarraville Junior Reserves Club Championship
+	21/11/2009   4  6  Hobsons Bay/Yarraville Junior Rookie Club Championship
+	24/11/2009  14  7  Hobsons Bay/Yarraville Reserves Club Championship
+	22/09/2009  15  5  Hobsons Bay/Yarraville Teams Championship
+	26/10/2009  25  9  Melbourne Open
+	03/10/2009  13 11  Noble Park Grades Tournament (A Grade)
+	03/10/2009  16 11  Noble Park Grades Tournament (B Grade)
+	28/11/2009  11  5  Noble Park Spring Cup
+	08/09/2009  24  7  Ranges Club Championship
+	15/11/2009  12 11  Victorian Championship
+	15/11/2009  10  9  Victorian Championship Reserves
+	04/10/2009  14  6  Victorian Country Championship
+WA
+	09/09/2009   8  7  2009 Perth Club BRR Division A
+	09/09/2009   7  7  2009 Perth Club BRR Division B
+	09/09/2009   8  7  2009 Perth Club BRR Division C
+	09/09/2009   6  5  2009 Perth Club BRR Division D
+	13/09/2009  10  9  2009 WA Closed Championship
+	06/09/2009   7  7  2009 WA Qualifying
+	11/10/2009  15  6  Willetton Open
+

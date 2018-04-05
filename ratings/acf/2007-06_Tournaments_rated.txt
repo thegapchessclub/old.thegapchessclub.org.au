@@ -1,0 +1,109 @@
+Tournaments Rated
+ACF
+	12/05/2007  14  9  Oceania Womens Zonal 2007
+	12/05/2007  30  9  Oceania Zonal 2007
+ACT
+	09/05/2007  10  5  2007 ANU Fall Tournament
+	18/03/2007  13  6  2007 Autumn Junior Weekender
+	18/03/2007  21  6  2007 Autumn Junior Weekender Reserves
+	30/03/2007  29  8  2007 Belconnen Open
+	28/03/2007  19  7  2007 Canberra CC Championship
+	09/05/2007  14  5  2007 Canberra Cup
+	09/04/2007  44  7  2007 Doeberl Cup - Major
+	09/04/2007  68  7  2007 Doeberl Cup - Minor
+	09/04/2007  72  7  2007 Doeberl Cup - Premier
+	09/04/2007  12  7  2007 Doeberl Cup - Seniors
+	28/05/2007  31  7  2007 Tuggeranong CC Championship
+	12/03/2007  23  5  2007 Woden Cup
+NSW
+	07/12/2006  33  7  2006 Parramatta Club Championship
+	14/05/2007  10  7  2007 C'town Collegians Autumn Club Champs
+	07/05/2007  15  7  2007 Canterbury Championships
+	04/03/2007  21  7  2007 City of Sydney Championship
+	04/03/2007  20  7  2007 City of Sydney Under 1700
+	20/05/2007  30  7  2007 John Kellner Memorial
+	01/05/2007  12 11  2007 Norths Club Championship
+	01/05/2007  12 11  2007 Norths Club Championship Candidates Division
+	01/05/2007  12 11  2007 Norths Club Championships Reserves A Division
+	01/05/2007  12 11  2007 Norths Club Championships Reserves B Division
+	01/05/2007  17 11  2007 Norths Club Championships Reserves C Division
+	30/04/2007  21  9  2007 WSCP Division A
+	30/04/2007  19  9  2007 WSCP Division B
+	10/05/2007  28 10  2007 WSCP Division C
+	01/05/2007  24 10  2007 WSCP Division D
+	13/03/2007  14  9  2007-Wollongong-Handicap
+	15/12/2006   6  5  Albury Major Championship 2006 Part 1
+	15/12/2006   6  5  Albury Major Championship 2006 Part 2
+	15/12/2006   9  9  Albury Minor Championship 2006
+	15/05/2007  82  1  Big Boards North Sydney vs St. George May 2007
+	22/05/2007  27 10  Central Coast InterClub Teams 2007
+	25/03/2007  21  6  Dubbo RSL Open 2007
+	29/04/2007   6  5  Gosford March 2007 All Play All Division 1
+	29/04/2007   6  5  Gosford March 2007 All Play All Division 2
+	27/03/2007  15  6  Gosford Summer Swiss 2007
+	02/04/2007  21  9  Henry Greenfield Cup 2007
+	06/05/2007  17  7  Laurieton May Open 2007
+	15/05/2007   6  1  Little Big Board 1st Leg 2007
+	08/05/2007  26  1  Little Board Norths v Manly  1st Leg 2007
+	07/05/2007  11 11  Manly Club Championships 2007 Grade A
+	07/05/2007  12 11  Manly Club Championships 2007 Grade B
+	07/05/2007  15 11  Manly Club Championships 2007 Grade C
+	27/05/2007  24  6  Mingara Major Open 2007
+	09/05/2007   9  9  Ryde Eastwood Prelim A 2007
+	18/04/2007   8  7  Ryde Eastwood Prelim B 2007
+	18/04/2007   8  7  Ryde Eastwood Prelim C 2007
+	01/05/2007  10  9  St. George Club Champs 2007 Championship Division
+	01/05/2007  10  9  St. George Club Champs 2007 Division 2
+	01/05/2007  10  9  St. George Club Champs 2007 Division 3
+	01/05/2007  12 11  St. George Club Champs 2007 Division 4
+	01/05/2007  10  9  St. George Club Champs 2007 Division 5
+	01/05/2007   6 10  St. George Club Champs 2007 Division 6
+	14/04/2007 143  9  Sydney International Open 2007
+	11/03/2007  20  7  Toukley Open 2007
+	16/04/2007  21  7  Wyong Shire Cup 2007
+QLD
+	19/04/2007  26  6  2007 BCC Autumn Swiss
+	08/03/2007  31  6  2007 BCC Summer Swiss
+	18/03/2007  58  7  2007 March Madness Tournament
+	09/04/2007  31  7  2007 Queensland Open
+	04/04/2007  14  6  2007 Tal Memorial
+	20/05/2007  41  7  2007 Under 1600 Triple Treat
+	07/05/2007  46  7  42 Peninsula Open
+	26/04/2007  12  1  BCC - Bullwinkle 26/04/07
+	26/03/2007   8  7  Gold Coast Junior Masters T1 2007
+	26/03/2007  15  7  Gold Coast Term 1 Gp 2 2007
+	26/03/2007  14  7  Gold Coast Term 1 Gp 3 2007
+	25/05/2007  12  5  The Gap Chess Club - Odd Knights 2007 (Autumn)
+SA
+	03/04/2007  20  9  SA Candidates 2007
+	20/03/2007   8  7  South Australian Chess Championship 2007
+TAS
+	12/03/2007  32  7  Tas Championship 2007
+VIC
+	14/02/2007   2  3  2006 Victorian Championship Play Off
+	12/03/2007 106  7  Ballarat Begonia Open
+	30/03/2007  60  7  Box Hill Autumn Cup
+	27/03/2007  33  6  Canterbury New Season Swiss
+	15/03/2007  11  5  Croydon Alekhine Tournament
+	17/05/2007  11  5  Croydon Lasker Tournament
+	02/05/2007  41  5  Dandenong Easter Cup
+	21/03/2007  44  8  Dandenong Summer Swiss
+	28/04/2007   7  7  Elwood Round Robin
+	17/04/2007  19  5  Hobsons Bay/Yarraville CJS Purdy Cup
+	22/04/2007  12  5  MCC Anzac Day Weekender
+	02/04/2007  33  9  Melbourne Club Championship
+	24/05/2007   2  2  Melbourne Club Championship Play Off
+	28/04/2007  29  9  Noble Park Open
+WA
+	09/04/2007  27  6  2007 Gufeld Cup
+	04/04/2007  21  7  2007 Perth Chess Club Championship
+	18/03/2007  32  6  2007 Perth Open
+	23/03/2007  12  7  Chart Zylstra 2007
+	22/05/2007  10  7  Fremantle Open 2007
+	06/05/2007  26  6  Kingsley Open
+	17/05/2007  12 11  Metro Club Championship A
+	26/03/2007  10  9  Metro Club Championship B
+	17/05/2007  12 11  Metro Club Championship C
+	23/05/2007  12 11  Metro Club Championship D
+	17/05/2007  12 11  Metro Club Championship E
+

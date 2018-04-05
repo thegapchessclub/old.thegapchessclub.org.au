@@ -1,0 +1,109 @@
+Tournaments Rated
+ACT
+	08/03/2004  23  5  2000 Woden Cup
+	02/05/2004  28  6  2004 ACT Under 16
+	18/04/2004  10  9  2004 Australian Young Masters
+	24/03/2004  26  6  2004 Autumn Junior Weekender
+	26/03/2004  15  8  2004 Belconnen Minor
+	26/03/2004  38  8  2004 Belconnen Open
+	12/04/2004  68  7  2004 Doeberl Cup Major Division
+	12/04/2004  80  7  2004 Doeberl Cup Minor Division
+	12/04/2004  75  7  2004 Doeberl Cup Premier Division
+	23/05/2004  19  6  2004 Women & Girls Championship
+	18/04/2004  10  9  Australian Junior Masters 2004
+	28/04/2004  14  7  Canberra Club Championship
+	10/03/2004  17  5  Canberra Cup 2004
+	01/12/2003  23  5  Hetherington Memorial
+	16/04/2004   8  7  NECG Tournament Number 1
+	16/04/2004   8  7  NECG Tournament Number 2
+	17/05/2004  21  7  Tuggeranong Club Championship 2004
+NSW
+	26/04/2004  41  7  2004 Anzac Day Weekender
+	12/05/2004  21  7  2004 Canterbury Club Championship
+	11/05/2004  94  1  Big Board First Leg St. George v North Sydney
+	28/03/2004  47  9  City of Sydney 2004
+	14/03/2004  18  6  Dubbo RSL Open 2004
+	09/03/2004  17  6  Gosford Summer Swiss 2004
+	14/04/2004   4  3  Gosford Summer Swiss 2004 Alphas
+	14/04/2004   4  3  Gosford Summer Swiss 2004 Betas
+	29/03/2004  23  9  Henry Greenfield Cup 2004 Under 1700
+	29/03/2004  14  9  Henry Greenfiled Cup 2004 OPEN
+	04/05/2004  18  1  Knights vs Dragons 2004
+	02/05/2004  22  7  Laurieton May Open
+	10/05/2004  12 11  Manly Championship 2004
+	10/05/2004  11 11  Manly Grade B
+	10/05/2004  12 11  Manly Grade C 2004
+	30/05/2004  40  6  Mingara May Major 2004
+	26/04/2004   8  7  NSWCA Anzac Day FIDE 2004
+	16/05/2004  43  6  NSWCA May (Rose Bay) Weekender
+	18/05/2004  12 11  North Sydney Candidates 2004
+	18/05/2004  11 11  North Sydney Reserve C  2004
+	18/05/2004  12 11  North Sydney Reserves A 2004
+	18/05/2004  11 11  North Sydney Reserves B 2004
+	20/04/2004   9  9  North Sydney Reserves D 1
+	20/04/2004   2  1  North Sydney Reserves D Play Off 1
+	27/04/2004   2  1  North Sydney Reserves D Play Off 2
+	20/04/2004  10  9  North Sydney Reserves D2 2004
+	18/05/2004  12 11  North Sydney championship 2004
+	18/05/2004  10  9  St. George Club Champs 2004 Championship Division
+	18/05/2004  10  9  St. George Club Champs 2004 Division 2
+	18/05/2004  10  9  St. George Club Champs 2004 Division 3
+	18/05/2004  12 11  St. George Club Champs 2004 Division 4
+	18/05/2004   6 10  St. George Club Champs 2004 Division 5
+	17/02/2004   2  1  St. George Club Champs Misc 2004
+	22/02/2004  38  7  Toukley 2004
+	07/05/2004  39 10  WSCP A Division 2004
+	07/05/2004  39 10  WSCP B Division 2004
+	04/05/2004  35 10  WSCP C Division 2004
+	09/12/2003  23  7  Wests Major Championship 2003
+	09/12/2003   8  7  Wests Open Championship 2003
+	19/04/2004  28  7  Wyong Shire Cup 2004
+QLD
+	18/03/2004  32  7  2004 City of Brisbane Championship
+	03/05/2004  50  7  2004 Peninsula Open
+	25/02/2004  22  7  2004 Reedcliffe Summer Swiss
+	23/04/2004  28  8  2004 Tal Memorial
+	29/04/2004  22  5  BCC Summer Swiss 2004
+	24/04/2004  43  7  Gold Coast Junior Championships 2004
+	06/04/2004  25  8  Junior Masters Feb 2004
+	23/05/2004  11  6  Qld Women's Champs 2004
+	05/04/2004  10  9  Ruth Coxhill Memorial
+	18/03/2004  18  6  Suncoast Presidents Challenge 2004
+	14/05/2004  16  7  The Gap Chess Club - One Hour tournament
+	23/04/2004   4  6  Townsville March 04 Double Round Robin
+	23/04/2004   7  7  Townsville March 2004 Round Robin C
+	23/04/2004   6  5  Townsville March 2004 Round Robin D
+	23/04/2004   7  7  Townsville March Round Robin B
+	24/02/2004  24  5  Townsville Summer Swiss
+SA
+	17/05/2004  17  7  Adelaide Cup Weekender 2004
+	06/04/2004  19  9  SA Candidates 2004
+	06/04/2004   6 10  SA Championship 2004
+TAS
+	08/03/2004  23  6  Tasmanian Championship 2004
+VIC
+	30/03/2004  37  7  2004 Box Hill New Season Swiss
+	08/03/2004 118  7  Ballarat Begonia Open
+	04/03/2004  20  7  Ballarat Spielvogel Tournament
+	19/03/2004  93  7  Box Hill Autumn Cup
+	05/05/2004   4 12  Dandenong Club Championship Playoff
+	05/05/2004  51  5  Dandenong Easter Cup
+	24/03/2004  48  7  Dandenong Summer Swiss
+	03/04/2004  18  7  Elwood Open
+	20/04/2004  23  5  Hobsons Bay CJS Purdy Cup
+	30/05/2004  64  8  Victorian Junior Championship (Under 12)
+	30/05/2004  33  8  Victorian Junior Championship (Under 18)
+	23/04/2004  10  9  Victorian Masters
+WA
+	04/12/2003   9  9  Bunbury Summer Rated 2003
+	11/09/2003  10  6  Bunbury Winter Rated 2003
+	03/03/2004   8  6  C/Z 2004
+	11/04/2004  19  6  Gufeld Cup 2004
+	05/05/2004   6  5  Midland Challengers A
+	05/05/2004   6  5  Midland Challengers B
+	05/05/2004  10  9  Midland Masters 2004
+	05/04/2004  16  7  Perth Club Championship
+	08/02/2004  16  6  Perth Open
+	14/03/2004  29  6  SW Open 2004
+
+

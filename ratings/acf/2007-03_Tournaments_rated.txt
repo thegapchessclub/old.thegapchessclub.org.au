@@ -1,0 +1,67 @@
+Tournaments Rated
+ACF
+	12/12/2006  18  6  2006 ASTC - Girls Secondary
+	12/12/2006  27  5  2006 ASTC - Open Secondary
+	06/01/2007   8  7  2006-07 Australian Seniors
+	26/01/2007  22 11  2007 Australian Juniors Under 12 Girls
+	26/01/2007  78 11  2007 Australian Juniors Under 12 Open
+	26/01/2007  25 11  2007 Australian Juniors Under 18 Girls
+	26/01/2007  85 11  2007 Australian Juniors Under 18 Open
+	06/01/2007  22  6  Australian Major 2006-07
+	31/12/2006  24  6  Australian Minor 2006-07
+	09/01/2007  58 11  Australian Open 2006-07
+ACT
+	06/12/2006  12  7  2006 Charity Cup
+	27/11/2006  22  5  2006 Hetherington Memorial
+	03/12/2006  35  6  2006 Vikings Weekender
+NSW
+	28/01/2007  62  7  Australia Day Weekend Tournament 2007
+	11/12/2006  18  9  Berger Cup 2006
+	04/12/2006  21  7  Canterbury 2006 Open
+	12/12/2006  13 13  Coffs Harbour Chess Club Championship 2006
+	05/12/2006  11  6  Gosford Championship 2006
+	18/12/2006  29  9  Manly Spring Tournament 2006
+	03/12/2006  20  5  NSW Country Teams 2006
+	28/02/2007  37  6  Newcastle Open 2007
+	30/01/2007  47  7  St. George Summer Open 2006-07
+QLD
+	20/02/2007  15  6  2007 Redcliffe Summer Swiss
+	04/12/2006  18  8  Junior Masters T4 2006
+	04/12/2006  15  8  Super Junior Masters T4 2006
+	18/02/2007  66  6  Tin Cup 2007
+SA
+	12/08/2006  11  7  Modbury Chess Club Championship 2006
+	01/09/2006   2  2  Modbury Chess Club Championship Playoff 2006
+TAS
+	11/12/2006  14 13  HIJCC Championship 2006
+	28/01/2007  23  6  Launceston Australia Day Weekender 2007
+VIC
+	23/12/2006  13 11  Australian Masters 2006
+	23/12/2006  10  9  Australian Masters Reserves 2006
+	15/12/2006  39  5  Box Hill Christmas Swiss
+	07/01/2007  74  6  Canterbury Summer Open 2007
+	19/12/2006  23  4  Canterbury Summer Swiss
+	06/12/2006  45  9  Dandenong Club Championship 2006
+	09/12/2006   7  7  Elwood Club Championship
+	12/12/2006   8  7  Hobsons Bay/Yarraville Club Championship
+	17/12/2006   8  7  Hobsons Bay/Yarraville Junior Club Championship
+	12/12/2006  12  7  Hobsons Bay/Yarraville Reserves Club Championship
+	28/01/2007  26  7  MCC Australia Day Weekender 2007
+	17/12/2006  26  5  MCC Christmas Swiss 2006
+	12/01/2007  12 11  MCC FIDE Invitational 2007
+	11/12/2006   6  5  MCC Fitzroy Open (Group 1)
+	11/12/2006   6  5  MCC Fitzroy Open (Group 2)
+	11/12/2006   5  5  MCC Fitzroy Open (Group 3)
+	11/12/2006   6  5  MCC Fitzroy Open (Group 4)
+WA
+	07/12/2006  12 11  2006 Metro Respini B
+	07/12/2006  12 11  2006 Metro Respini C
+	07/12/2006  10  9  2006 Metro Respini D
+	03/12/2006  22  6  2006 Xmas Open
+	05/12/2006  14  7  City of Fremantle
+	10/10/2006  10  7  Fremantle Club Championship 2006
+	03/12/2006  47  6  Harris Edwardes Interclub
+	06/12/2006   8  7  Perth Club Best Results A
+	06/12/2006   8  7  Perth Club Best Results B
+	06/12/2006   6  5  Perth Club Best Results C
+

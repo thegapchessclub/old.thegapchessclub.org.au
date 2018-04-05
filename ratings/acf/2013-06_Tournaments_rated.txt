@@ -1,0 +1,99 @@
+Tournaments Rated
+ACF
+	10/05/2013  38  9  Oceania Open Zonal 2013
+	10/05/2013  14  9  Oceania Womens Zonal 2013
+ACT
+	12/12/2012  20  6  2012 Hetherington Memorial
+	17/04/2013  10  9  2013 ANU Masters
+	20/03/2013  26  6  2013 ANU Summer Swiss
+	22/05/2013  27  9  2013 Canberra CC Championship
+	01/04/2013  70  7  2013 Doeberl Major
+	01/04/2013  50  7  2013 Doeberl Minor
+	01/04/2013  72  9  2013 Doeberl Premier
+	30/03/2013  48  6  2013 Doeberl Under 1200
+	14/05/2013  10  7  2013 Murphy Memorial
+	20/05/2013  23  9  2013 Tuggeranong CC Championship
+	26/03/2013  13  7  2013 University Cup [UC-BCC]
+	11/03/2013  22  7  2013 Woden Cup
+NSW
+	14/05/2013  88  1  2013 Big Boards Saints v Norths first Leg
+	14/05/2013  12  1  2013 Little Boards Saints v Saints
+	01/04/2013  36  7  2013 Rooty Hill Club Teams
+	07/05/2013  68  9  2013 Sydney International Open
+	07/04/2013  32  9  2013 Sydney international Challengers
+	07/05/2013  10  5  2013 WGong Apr Swiss-1
+	12/03/2013  14  7  2013 WGong Handicap
+	06/05/2013  13  7  Canterbury Championship 2013
+	21/03/2013  54  7  City of Sydney 2013
+	17/03/2013  46  6  Dubbo Open 2013
+	15/04/2013  16  9  East Sydney Summer Chess Challenge 2013
+	14/05/2013  18  5  Gosford April 2013
+	02/04/2013   6  5  Gosford March 2013 Grades A
+	02/04/2013   6  5  Gosford March 2013 Grades B
+	02/04/2013   6  5  Gosford March 2013 Grades C
+	13/05/2013   8  7  Harbord Diggers Club Championships Grade A 2013
+	13/05/2013   8  7  Harbord Diggers Club Championships Grade B 2013
+	07/05/2013  12 11  Norths Club Candidates 2013
+	07/05/2013  12 11  Norths Club Championships 2013
+	07/05/2013  12 11  Norths Club Reserves A 2013
+	07/05/2013  11 11  Norths Club Reserves B 2013
+	07/05/2013  12 11  Norths Club Reserves C 2013
+	07/05/2013   9  9  Norths Club Reserves D1
+	07/05/2013   8  7  Norths Club Reserves D2
+	07/05/2013  36  1  Norths V Harbord Diggers Little Board First Leg 2013
+	08/05/2013   9  9  Ryde Eastwood Prelim A 2013
+	24/04/2013   8  7  Ryde Eastwood Prelim B 2013
+	08/05/2013   9  9  Ryde Eastwood Prelim C 2013
+	07/05/2013  10  9  St. George Club Champs 2013 Championship Division
+	21/05/2013  10  9  St. George Club Champs 2013 Division 2
+	21/05/2013  10  9  St. George Club Champs 2013 Division 3
+	21/05/2013  10  9  St. George Club Champs 2013 Division 4
+	21/05/2013  10  9  St. George Club Champs 2013 Division 5
+	21/05/2013   6 10  St. George Club Champs 2013 Division 6
+	24/03/2013  19  7  UNSW Open 2013
+QLD
+	09/05/2013  38  7  2013 BCC Autumn Swiss
+	21/03/2013  35  7  2013 BCC Summer Swiss
+	22/05/2013   5  5  2013 Club Championships A Grade
+	19/05/2013   5  5  2013 Club Championships B Grade
+	19/05/2013   5  5  2013 Club Championships C Grade
+	31/03/2013  43  6  2013 Queensland Minor
+	26/03/2013  15  6  2013 SCC Memorial
+	10/04/2013  19  5  2013 Tal Memorial
+	17/05/2013   8  9  2013 The Gap Chess Club - Flood Cup
+	16/04/2013   9  5  2013 Townsville Autumn Swiss
+	05/03/2013  10  5  2013 Townsville Summer Swiss
+	29/05/2013  18  6  2013 Viv Greenelsh Memorial
+	19/05/2013  55  6  Wilde Weekender
+SA
+	26/03/2013  14  9  South Australian Candidates 2013
+	26/03/2013  10  9  South Australian Chess Championship 2013
+TAS
+	11/03/2013  19  7  Tasmanian Championship 2013
+VIC
+	11/03/2013 127  7  2013 Ballarat Begonia Open
+	06/03/2013  17  7  2013 Ballarat Spielvogel Memorial
+	22/03/2013  69  7  2013 Box Hill Autumn Cup
+	26/03/2013  13  5  2013 Canterbury Tuesday New Season Swiss
+	16/05/2013  18  7  2013 Croydon Open
+	17/04/2013  31  7  2013 Dandenong Easter Cup
+	05/03/2013  14  5  2013 Hobsons Bay Honourable Bob
+	16/04/2013  18  5  2013 Hobsons Bay Purdy Cup
+	28/04/2013  42  7  2013 MCC ANZAC Day
+	15/04/2013  38  9  2013 Melbourne Chess Club Championship
+	21/03/2013  11  7  2013 Mentone Club Championship
+	27/04/2013  51  9  2013 Noble Park Club Championship
+	24/03/2013  28  5  2013 Ranges Knox Chess Cup
+	19/03/2013  19  5  2013 Ranges New Year Classic Chess Swiss
+WA
+	07/04/2013  13  6  2013 Gufeld Cup
+	24/02/2013  21  6  2013 Kingsley Open
+	16/05/2013  10  9  2013 Metro Club Championship A
+	16/05/2013  10  9  2013 Metro Club Championship B
+	16/05/2013  10  9  2013 Metro Club Championship C
+	16/05/2013  10  9  2013 Metro Club Championship D
+	16/05/2013  10  9  2013 Metro Club Championship E
+	24/04/2013  32  7  2013 Perth Club Championship
+	14/04/2013  39  6  2013 Perth Open
+	14/04/2013  15  7  2013 WA Open
+

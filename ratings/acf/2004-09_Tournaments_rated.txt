@@ -1,0 +1,104 @@
+Tournaments Rated
+ACT
+	16/07/2004  44  9  2004 ACT Juniors
+	25/07/2004  86  7  2004 ANU Open
+	27/08/2004  10  9  2004 Belconnen First Division
+	27/08/2004  10  9  2004 Belconnen Premier
+	27/08/2004  10  9  2004 Belconnen Second Division
+	27/08/2004  10  9  2004 Belconnen Third Division
+	18/06/2004  50  3  2004 Ginninderra Cup Finals
+	27/08/2004  13  5  2004 Voldemort Goblet
+	29/08/2004  26  6  ACT U14 Championship 2004
+	16/06/2004  15  7  Cold Comfort Cup
+	28/05/2004  27  7  Ginninderra Cup qualifiers group 1
+	28/05/2004  27  7  Ginninderra Cup qualifiers group 2
+	16/07/2004  13  4  Swanson Sprint
+	26/07/2004  29  7  brindabella snows
+NSW
+	11/07/2004  46  6  2004 Fairfield Winter Cup
+	04/08/2004  63 11  2004 NSW Grade Matches U1600
+	21/07/2004  48  9  2004 NSW Grade Matches U1800
+	22/07/2004  52  9  2004 NSW Grade Matches U2000
+	14/06/2004  52  7  2004 NSW Open Champs
+	14/06/2004  30  7  2004 NSW Open Under 1600
+	01/08/2004  50  7  2004 NSWCA August Weekender
+	29/06/2004  19 10  2004 WGONG COLLIES KO
+	20/06/2004  16  7  CCLCCC District Championship 2004
+	04/07/2004   8  7  CJS Purdy Div 2
+	04/07/2004   8  7  CJS Purdy Div 3
+	04/07/2004   4  6  CJS Purdy Div 4
+	20/05/2004  40 15  Central Coast InterClub Teams 2004
+	08/08/2004  29  7  Coal City Open 2004
+	29/06/2004   9  9  Coffs Harbour 1hr
+	27/06/2004  17  7  Common Man 2004
+	10/07/2004   7  7  Ettalong Winter Round Robin 2004
+	14/05/2004   4  3  Gosford April Gammas 2004
+	05/07/2004  10  9  Hakoah Cup 2004 Open
+	05/07/2004  22  9  Hakoah Cup 2004 Under 1700
+	20/06/2004  12  7  Mid North Coast Open
+	27/07/2004  29 10  NSW 2004 Grade Matches Open
+	27/07/2004  39 10  NSW 2004 Grade Matches U1400
+	16/07/2004  44 10  NSW JUNIOR CHAMPIONSHIP - UNDER 12
+	16/07/2004  39  9  NSW JUNIOR CHAMPIONSHIP - UNDER 18
+	04/07/2004   8  7  NSW Masters
+	02/05/2004   2  1  NSW Masters Miscellaneous
+	14/06/2004   8  7  NSW Womens Champs 2004
+	21/07/2004   9  9  Ryde Eastwood Prelim A
+	21/07/2004   9  9  Ryde Eastwood Prelim B
+	21/07/2004   9  9  Ryde Eastwood Prelim C
+	12/04/2004  32  7  Sydney Easter Cup
+QLD
+	29/07/2004  22  5  2004 BCC Winter Swiss
+	04/07/2004  94  7  2004 Caloundra Open
+	14/06/2004  25  7  2004 Darling Downs Open
+	27/06/2004  35  7  2004 Gold Coast Open
+	27/06/2004  65  7  2004 Gold Coast Under 1600
+	03/06/2004  25  5  BCC Autumn Swiss 2004
+	05/05/2004  16  8  Bruce Harris Trophy 2004
+	25/07/2004   8  7  Gold Coast Women's and Girls 2004
+	17/05/2004  16  1  Gold Coast v Bullwinkle 170504
+	15/06/2004  21  8  Junior Masters 270404
+	01/08/2004  14  7  Mackay Open
+	08/08/2004  17  7  North Qld Open 2004
+	02/07/2004  26  8  Qld Under 14,16,18 2004
+	25/07/2004   6  5  Qld Vets and Disabled 2004
+	18/07/2004  60  7  Queensland Open 2004
+	15/03/2004  10  6  Ruth Coxhill Reserves 2004
+	15/06/2004  23  5  Townsville Swiss April
+	03/08/2004  24  7  Townsville Swiss June 2004
+	16/06/2004  25  7  Viv Greenelsh Memorial
+SA
+	13/06/2004  14  6  2004 QUEEN'S BIRTHDAY
+	22/06/2004  99  9  2004 SACA Grade matches
+	16/07/2004  19  8  SA Junior Championships
+	11/07/2004  89  7  University Open 2004
+TAS
+	01/06/2004   7  7  Burnie Club Champs A 2004
+	01/06/2004   7  7  Burnie Club Champs B 2004
+	28/07/2004   7  7  Robert Isted Memorial 2004
+	14/06/2004  24  6  Tasmanian Open
+VIC
+	02/06/2004  18  6  Albury Rating Tournament
+	14/08/2004  12 11  Australian Masters
+	12/08/2004  14 13  Ballarat Club Championship
+	12/08/2004   7 16  Ballarat Club Championship Reserves
+	16/04/2004 100  9  Box Hill Club Championship
+	27/04/2004  10  9  Box Hill FIDE Rated Tournament (April)
+	04/05/2004  30  9  Box Hill Winter Swiss
+	28/06/2004  32  9  City of Melbourne Open
+	30/06/2004  50  7  Dandenong Autumn Open
+	10/07/2004  22  7  Elwood Round Robin
+	16/06/2004  25  7  Hobsons Bay Cup
+	25/04/2004  12  5  MCC Anzac Day Weekender
+	07/04/2004   6 10  MCC Raipalis Memorial (Group B)
+	05/05/2004  10  9  Melbourne Autumn Round Robin
+	05/04/2004  42  9  Melbourne Club Championship
+	04/04/2004   6 10  Preliminary Qualifier for Australian Masters
+	13/06/2004  97  7  Victorian Open
+WA
+	07/06/2004  18  6  2004 Foundation Day Tournament
+	29/08/2004  46  9  2004 West Australian State Championship
+	15/06/2004  12  7  Fremantle Open
+	24/06/2004  50  7  Metro Open 2004
+	23/06/2004  12  6  Midland Club Championship
+

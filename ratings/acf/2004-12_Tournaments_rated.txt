@@ -1,0 +1,94 @@
+Tournaments Rated
+ACT
+	29/10/2004  57  7  2004 Belconnen Club Championships
+	29/09/2004  25 11  ACT Open Championship 2004
+	27/09/2004  22  7  Murrimbidgee Masters
+NSW
+	29/11/2004  17  7  2004 Canterbury Open
+	08/10/2004  20  8  2004 City of Sydney Junior Championship - Under 15
+	08/10/2004  11  8  2004 City of Sydney Junior Championship - Under 18
+	14/11/2004  55  7  2004 Coffs Harbour Open
+	26/10/2004   6  5  2004 Collies Champs Prelim A
+	26/10/2004   6  5  2004 Collies Champs Prelim B
+	27/10/2004   2  1  2004 Collies Champs Prelim B - Playoff
+	26/10/2004   6  5  2004 Collies Champs Prelim C
+	27/09/2004  18  7  2004 Mingara Chess Club Championships
+	01/10/2004  10  5  2004 NSW Girls Championship - Under 18
+	08/11/2004  36  9  2004 St George Swiss
+	07/09/2004  18  9  2004 Wollongong Handicap
+	30/11/2004 112  1  Big Boards Second Leg North Sydney v St. George
+	07/09/2004  13  6  CCLCCC  Winter 2004
+	30/11/2004  18  7  CCLCCC Championship 2004
+	07/11/2004  38  7  CCLCCC Gosford Open 2004
+	30/10/2004   8  7  Ettalong Spring 2004
+	06/11/2004   2  2  Ettalong Spring 2004 Playoff
+	03/10/2004  17  9  Fairfield RSL Chess Club
+	22/11/2004  20  7  Fishers Ghost 2004
+	20/09/2004  14  9  Hakoah Chess Club Championship 2004 Open
+	20/09/2004  19  9  Hakoah Chess Club Championship 2004 Under 1700
+	29/11/2004  21  5  Hetherington Memorial 2004
+	14/10/2004  46  7  Interleagues Premiership 2004
+	23/11/2004  69  9  John Ford Memorial 2004
+	31/10/2004  18  7  Laurieton Spring Open
+	31/10/2004  16  9  NSW State Championship 2004
+	31/10/2004  26  9  NSW State Championship 2004 U1600
+	31/10/2004  29  9  NSW State Championship 2004 U2000
+	02/08/2004   6  5  Newcastle Club 2004
+	30/11/2004   2  1  Nth Sydney Little Board
+	21/11/2004  49  6  Ralph Seberry Memorial Weekender
+	22/11/2004   8  7  Rooty Hill Club Championship Division A 2004
+	22/11/2004   8  7  Rooty Hill Club Championship Division B 2004
+	22/11/2004   8  7  Rooty Hill Club Championship Division C 2004
+	22/11/2004   8  7  Rooty Hill Club Championship Division D 2004
+	22/11/2004   6  5  Rooty Hill Club Championship Division E 2004
+	27/09/2004  39  7  Rooty Hill Open 2004
+	04/10/2004  71  7  Ryde Eastwood Open 2004
+	21/11/2004  11  6  Western Teams
+QLD
+	01/10/2004  38  6  2004 Australian Clubs' Teams Championship
+	12/09/2004  12  6  2004 Brisbane Junior Masters
+	28/11/2004  22  7  2004 Qld Under 1850 Ch
+	24/11/2004  21  8  2004 Redcliffe CC Championship
+	03/10/2004  35  6  2004 Redcliffe Challenge
+	26/08/2004  20  4  BCC Steinitz Memorial 2004
+	04/11/2004  17  4  BCC Tal Memorial 2004
+	07/10/2004  23  6  Brisbane Chess Club Championship 2004
+	15/09/2004  10  9  Hardys FIDE Rated Classic 2004
+	06/09/2004  27  8  Junior Masters 190704
+	08/09/2004  22  7  Lou Wilkinson Memorial
+	19/09/2004  76  7  Nell van de Graaff Classic 2004
+	26/09/2004  12  7  Queensland Girls Champiosnhips 2004
+	25/09/2004  14 13  The Gap CC - One Hour 2004
+SA
+	19/10/2004  89  9  2004 Pennant
+	23/08/2004  30  7  City of Adelaide Chess Championship 2004
+	03/10/2004  14  7  Labour Day 2004
+TAS
+	06/10/2004  16 15  HICC Club Champs 2004
+	31/10/2004  27  7  Hobart  Weekender 2004
+	12/09/2004  19  7  Launceston Weekender 2004
+VIC
+	29/10/2004 118  7  Box Hill Open
+	17/08/2004  29  6  Box Hill Rainbow Championships
+	26/10/2004  33  7  Box Hill Spring Swiss
+	10/09/2004 132  8  CV Winter Interclub (Eastern Zone)
+	21/10/2004  16  1  CV Winter Interclub (Interzone Finals)
+	08/09/2004  46  7  CV Winter Interclub (Western Zone)
+	01/09/2004  45  7  Dandenong Grades Tournament
+	14/11/2004  26  5  Hobsons Bay Best in the West
+	16/10/2004   4  3  Hobsons Bay Invitational
+	27/10/2004  19  5  Hobsons Bay Koshnitsky Cup
+	13/07/2004  10  9  Latrobe Valley Club Championship
+	19/10/2004  13 13  Latrobe Valley Winter Championship
+	25/10/2004  33  9  Melbourne Open
+	03/10/2004  11 11  Victorian Championship
+	03/10/2004  10  9  Victorian Qualifying Tournament #1
+	03/10/2004   6 10  Victorian Qualifying Tournament #2
+	03/10/2004  10  9  Victorian Reserves Championship
+WA
+	26/10/2004  12  7  2004 Fremantle Club Championship
+	24/11/2004  12  7  2004 Midland Open
+	25/09/2004  14  7  2004 WA Junior Chess Championship - Open
+	25/09/2004  13  7  2004 WA Junior Chess Championship - Under 14
+	12/09/2004  13  6  Willetton Open
+

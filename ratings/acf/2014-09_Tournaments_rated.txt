@@ -1,0 +1,92 @@
+Tournaments Rated
+ACT
+	24/08/2014  16  6  2014 ACT Womens & Girls Championship
+	04/07/2014  18  6  2014 ANU Autumn Swiss
+	27/07/2014  19  7  2014 ANU Open
+	27/07/2014  42  7  2014 ANU Under 1600
+	20/08/2014  23  6  2014 ANU Winter Swiss
+	22/07/2014  10  7  2014 Belconnen/UC Club Championship
+	09/07/2014  24  7  2014 CCC Cold Comfort Cup
+	17/07/2014  38  7  2014 Olympiad Boot Camp Main Tournament
+NSW
+	13/08/2014  21  7  2014 City of Newcastle Championship
+	05/08/2014  10  9  2014 NSW Championship
+	11/07/2014  54 10  2014 NSW Junior Championship - Under 12
+	11/07/2014  20  9  2014 NSW Junior Championship - Under 18
+	03/08/2014   2  4  2014 NSW Junior Champiosnhip Playoff - Under 12
+	09/06/2014  72  7  2014 NSW Open
+	09/06/2014  56  7  2014 NSW Open Under 1600
+	29/07/2014  47 10  2014 NSWCA Grade 1700
+	30/07/2014  55 10  2014 NSWCA Grade U1500
+	16/06/2014  43  7  2014 Rooty Hill Club Winter Swiss
+	25/08/2014  55  9  2014 Rooty Hill Open
+	29/07/2014  56  9  2014 St. George Internal Teams
+	24/08/2014  30  7  2014 St. George Weekender
+	22/07/2014  15  7  2014 WGong Collies - Championship
+	25/08/2014  10  7  Canterbury Winter Swiss 2014
+	30/07/2014  19  9  Ford Greenwood Seniors Open Tournament 2014
+	17/07/2014  12  7  Gosford CCLC District Champ 2014
+	22/07/2014  10  1  Gosford Vs The World 2014
+	06/07/2014  38  7  Oceania Seniors 2014
+	27/08/2014   8  6  USyd Cup Finals 2014
+QLD
+	09/06/2014  24  7  2014 49th Peninsula Open
+	26/06/2014  24  4  2014 BCC Tal Memorial
+	14/08/2014  32  7  2014 BCC Winter Swiss
+	29/06/2014  38  6  2014 Gold Coast Open
+	29/06/2014  44  7  2014 Gold Coast Under 1000
+	29/06/2014  29  7  2014 Gold Coast Under 1600
+	20/08/2014  10  6  2014 Lou Wilkinson
+	15/06/2014  18  6  2014 Mackay Open
+	24/08/2014  33  6  Bundaberg Weekender August 2014
+	17/08/2014  10  9  Kangaroo Point Classic 2014
+	17/08/2014   3  6  Queensland Junior Championship Playoff 2014
+	11/07/2014  16  8  Queensland Junior U12 2014
+	11/07/2014  22  8  Queensland Junior U18 2014
+	27/07/2014  40  6  Queensland Open 2014
+	12/08/2014  14  7  SCC Club Championship 2014
+	06/06/2014  13  7  The Gap Chess Club - Flood Cup 2014
+SA
+	24/06/2014  44  9  Inter-club A Grade 2014
+	24/06/2014  55  9  Inter-club B Grade 2014
+	06/07/2014  26  7  Lidums Checkmate Challengers 2014
+	06/07/2014  36  7  Lidums Checkmate Open 2014
+	25/07/2014  19  9  Modbury Chess Championship 2014
+	08/06/2014  24  6  Queen's Birthday Weekender 2014
+TAS
+	21/05/2014  10  9  Burnie Club Championship 2014
+	09/06/2014  20  6  Tasmanian Open 2014
+VIC
+	03/08/2014  20  1  2014 Balarat Fletcher Morrow
+	18/06/2014  12 11  2014 Ballarat Chess Club Championship
+	18/06/2014   9  9  2014 Ballarat Chess Club Championship Reserves
+	02/07/2014   2  3  2014 Ballarat Chess Club Reserve Champion Playoff
+	22/08/2014  28  5  2014 Box Hill Chronological Swiss
+	27/06/2014  61  8  2014 Box Hill Club Championship
+	30/06/2014  35  9  2014 City of Melbourne Open
+	13/07/2014  49  5  2014 Croydon Chess Classic
+	18/06/2014  10  7  2014 Dandenong A Grade
+	18/06/2014   8  7  2014 Dandenong Premier Grade
+	18/06/2014  18  7  2014 DandenongB Grade
+	27/06/2014  24  7  2014 Glen Eira Qualifier 2
+	21/03/2014  33  7  2014 Glen Eira Winter Rated
+	16/06/2014  20  7  2014 Hobsons Bay Cup
+	23/08/2014  32  5  2014 Hobsons Bay McCrakett Cup
+	25/08/2014  28  7  2014 MCC Edward Malitis Memorial
+	30/08/2014  31  9  2014 Noble Park Challengers
+	30/08/2014  10  9  2014 Noble Park Masters
+	26/06/2014  47  7  2014 Noble Park Open
+	30/06/2014  27  6  2014 Ranges Open
+	06/07/2014  43  7  2014 Vic Junior U12
+	10/07/2014  35  7  2014 Vic Junior U14 & 16
+	29/06/2014  62  7  2014 Vic Junior U8 & 10
+	26/06/2014  12 11  2014 Victorian Championships
+	10/06/2014  81  7  2014 Victorian Open
+WA
+	03/07/2014  29  7  2014 Metro Open
+	04/06/2014   8  7  2014 Perth Chess Club Group A
+	04/06/2014   8  7  2014 Perth Chess Club Group B
+	04/06/2014   8  7  2014 Perth Chess Club Group C
+	04/06/2014   9  7  2014 Perth Chess Club Group D
+	15/06/2014  23  6  2014 South West Open
+	03/08/2014  23  6  2014 Willetton Open

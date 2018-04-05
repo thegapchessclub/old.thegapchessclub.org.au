@@ -1,0 +1,106 @@
+Tournaments Rated
+ACF
+	02/10/2005  32  7  2005 Ergas Training Squad Tournament
+ACT
+	16/09/2005  45 11  2005 ACT Championship
+	15/10/2005  28  7  2005 ACT Under 14 Championship
+	18/11/2005  52  9  2005 Belconnen Club Championship
+	21/09/2005  15  5  2005 Charity Cup
+	02/11/2005  16  5  2005 City Club Open
+	10/10/2005  28  7  2005 Murrumbidgee Masters
+NSW
+	13/11/2005  56  7  2005 Coffs Harbour Open
+	08/11/2005  38  9  2005 St George Swiss
+	04/10/2005   8  7  2005 Wgong Collies Champs - A Grade
+	04/10/2005  12  7  2005 Wgong Collies Champs - B Grade
+	29/11/2005  96  1  Big Boards Second Leg North Sydney v St. George
+	29/11/2005  15  7  CCLCCC Gosford Championship 2005
+	07/10/2005  28  8  City of Sydney Junior Championship  -  Under 15
+	07/10/2005  21  8  City of Sydney Junior Championship  -  Under 18
+	07/10/2005  63 11  City of Sydney Junior Championship - Under 12
+	31/10/2005  12 11  Coffs Harbour Chess Club 60 min 2005
+	21/11/2005  27  7  Fishers Ghost Open 2005
+	15/11/2005  69  9  Ford Memorial Tournament
+	06/11/2005  27  7  Gosford Open 2005
+	19/09/2005  28  9  Hakoah Chess Club Championship 2005
+	19/10/2005  42  7  Interleagues Premiership 2005
+	30/10/2005  31  7  Laurieton 'Spring Open'  2005
+	29/11/2005  10  1  Little Boards Second Leg North Sydney v North Sydney
+	26/09/2005  18  7  Mingara Championship 2005
+	30/10/2005  10  9  NSW Championship 2005
+	30/10/2005  10  9  NSW Championship Reserves 2005
+	30/09/2005  16  6  NSW Girls Championship  -  Under 18
+	30/10/2005  25  9  NSWCA Championship U1600 2005
+	24/11/2005  16  7  Parramatta Club Championships
+	20/11/2005  56  6  Ralph Seberry Memorial 2005
+	21/11/2005   8  7  Rooty Hill Club Champioship 2005 Div A
+	21/11/2005   8  7  Rooty Hill Club Champioship 2005 Div B
+	21/11/2005   9  7  Rooty Hill Club Champioship 2005 Div C
+	21/11/2005   8  7  Rooty Hill Club Champioship 2005 Div D
+	21/11/2005  10  7  Rooty Hill Club Champioship 2005 Div E
+	26/09/2005  41  7  Rooty Hill Open 2005
+	30/11/2005   5  5  Ryde Eastwood Club Champ Final 2005
+	03/10/2005  37  7  Ryde Eastwood Open 2005
+	05/11/2005  10  9  Spectacular Spring Ettalong 2005
+	09/08/2005  15  7  Wgong 2005 Grading Swiss
+QLD
+	06/11/2005   5  5  2005 CAQ November Weekend Open Division
+	06/11/2005  11  6  2005 CAQ November Weekender Under 1600 Division
+	10/05/2005  20  6  2005 Easter Round Robin
+	09/10/2005  60  7  2005 Queensland High Schools Championship
+	06/10/2005  25  6  BCC Championship 2005
+	03/11/2005  21  4  BCC Tal Memorial 2005
+	05/09/2005  35  8  Gold Coast Junior Masters Term 3, 2005
+	10/09/2005  55  7  Nell Van De Graaff Classic
+	25/09/2005  14  7  Qld Girls Champs 2005
+	14/09/2005  10  9  Ruth Coxhill Memorial 2005
+	09/09/2005  16  8  The Gap Chess Club - One Hour 2005
+	30/10/2005  50  6  Wendy Terry Memorial
+SA
+	02/10/2005  13  7  Labour Day Weekender 2005
+	11/10/2005  38  7  Pennant A 2005
+	11/10/2005  43  7  Pennant B 2005
+TAS
+	28/09/2005  15 15  HICC Champs 2005
+	18/09/2005  22  7  Hobart Weekender 2005
+	07/11/2005  20  7  Launceston Weekender 2005
+	20/10/2005  17 17  Robert Isted Memorial Tournament 2005
+VIC
+	07/10/2005   6 10  Albury Club Championship Major
+	16/09/2005   8  7  Albury Club Championship Minor
+	26/08/2005   6  5  Albury Junior Club Championship
+	28/07/2005  14 13  Ballarat Club Championship
+	28/10/2005 103  7  Box Hill Open
+	25/10/2005  36  7  Box Hill Spring Swiss
+	26/08/2005 119  7  CV Winter Interclub (Eastern Zone)
+	06/09/2005  52  8  CV Winter Interclub (Western Zone)
+	08/10/2005   8  1  CV Winter Interclub Interzone Final (B Grade)
+	02/09/2005  22  1  CV Winter Interclub Zone Finals (Eastern Zone)
+	04/10/2005  24  2  CV Winter Interclub Zone Finals (Western Zone)
+	24/11/2005   8  7  Croydon Club Championship
+	01/09/2005  17  5  Croydon Kasparov Tournament
+	24/11/2005   6  5  Croydon Reserves Club Championship
+	14/09/2005   8  7  Dandenong Grades Tournament (Premier Grade)
+	01/11/2005  86  7  Elwood Bendigo Bank Championship
+	13/10/2005  23  7  Frankston Club Championship
+	02/10/2005  36  6  Geelong Open
+	06/11/2005  35  5  Hobsons Bay/Yarraville Best in the West
+	18/10/2005  19  5  Hobsons Bay/Yarraville Koshnitsky Cup
+	24/10/2005  34  9  Melbourne Open
+	16/10/2005  11 11  Victorian Championship
+	16/10/2005  11 11  Victorian Championship Qualifying Tournament No.1
+	16/10/2005   6 10  Victorian Championship Qualifying Tournament No.2
+	16/10/2005  11 11  Victorian Championship Reserves
+	16/10/2005  16  6  Victorian Country Championship
+WA
+	23/11/2005   8  7  2005 Midland Open
+	06/11/2005  15  6  2005 Willetton Open
+	11/10/2005   9  7  Fremantle Club Championship 2005
+	24/11/2005  10  9  Metro Respini A
+	24/11/2005  10  9  Respini B
+	24/11/2005  10  9  Respini C
+	24/11/2005  10  9  Respini D
+	24/11/2005  10  9  Respini E
+	08/09/2005   3  2  Respini Extra
+	23/09/2005   5  5  WA State Junior Championship Open
+

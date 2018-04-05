@@ -1,0 +1,99 @@
+Tournaments Rated
+ACT
+	30/09/2010  47  9  2010 ACT Junior Championship
+	05/09/2010  27  6  2010 ACT Open School Playoff
+	31/10/2010  26  6  2010 ACT Under 14 Championship
+	03/11/2010  26  6  2010 ANU Spring Swiss
+	23/09/2010  14  7  2010 B-UC CC Tournament 2
+	20/10/2010  10  9  2010 Charity Cup
+	11/11/2010  10  7  2010 Floriade Dark Knights
+	29/11/2010  16  7  2010 Hetherington Memorial
+	13/09/2010  22  7  2010 Murrumbidgee Masters
+	21/11/2010  57  7  2010 Vikings Weekender
+NSW
+	29/09/2010  10  9  2010 Australian Young Masters
+	23/11/2010  96  1  2010 Big Boards Saints v Norths
+	08/10/2010  27 11  2010 City of Sydney Junior Championship - Under 12
+	08/10/2010  23  8  2010 City of Sydney Junior Championship - Under 15
+	08/10/2010   9  9  2010 City of Sydney Junior Championship - Under 18
+	01/10/2010   7  7  2010 NSW Girls Championship - Under 18
+	29/11/2010   8  7  2010 Rooty Hill Club Championship Div A
+	29/11/2010   8  7  2010 Rooty Hill Club Championship Div B
+	29/11/2010   8  7  2010 Rooty Hill Club Championship Div C
+	29/11/2010  12  7  2010 Rooty Hill Club Championship Div D
+	09/11/2010  49  9  2010 St. George Swiss
+	20/07/2010  11  7  Central Coast District Championship 2010
+	20/09/2010  20  9  Easts Winter Chess Challenge 2010
+	07/11/2010  46  7  Fisher's Ghost 2010
+	09/11/2010  71  9  Ford Memorial Open Tournament 2010
+	30/11/2010  16  7  Gosford Club Championship 2010
+	17/10/2010  30  7  Gosford Open 2010
+	31/08/2010  12  6  Gosford Winter Swiss
+	22/11/2010  21  9  Harbord Diggers H'cap
+	12/10/2010  32  1  Little Board Norths V Harbord Diggers Second Leg 2010
+	13/10/2010  34  9  NSW State Championship 2010
+	25/11/2010  25  9  Parrramatta RSL Club Swiss 2010
+	29/09/2010  37  9  Rooty Hill Open 2010
+	24/11/2010   6  5  Ryde Eastwood Club Championship Final 2010
+	04/10/2010  63  7  Ryde Eastwood Open 2010
+	28/09/2010  10  9  Wgong A Grade 2010
+	19/10/2010  12 11  Wgong B Grade 2010
+QLD
+	18/11/2010  21  9  2010 BCC Club Championship
+	09/09/2010  16  5  2010 BCC Tal Memorial Division A
+	09/09/2010  13  5  2010 BCC Tal Memorial Division B
+	19/09/2010  53  6  2010 Nell Van De Graaff Classic
+	03/10/2010  10  6  2010 Qld Veterans Championship
+	03/10/2010   6  5  2010 Qld Womens Championship
+	10/11/2010  18  7  2010 Redcliffe Club Championship
+	10/10/2010  56  6  2010 Wendy Terry Memorial
+	06/09/2010  12  8  Junior Masters A T3 2010
+	06/09/2010  14  8  Junior Masters B T3 2010
+	10/08/2010  25  7  SCC Championships
+	05/11/2010  14 14  The Gap Chess Club - Stuart Wilson Trophy
+SA
+	03/10/2010  14  6  Labour Day 2010
+	26/10/2010  35  7  SA Interclub Pennant B 2010
+	26/10/2010  36  7  SA Pennant Matches A Grade 2010
+TAS
+	24/10/2010  13  6  Burnie Shines 2010
+	29/11/2010   7  7  HICC Champs 2010 Part 1
+	29/11/2010   7  7  HICC Champs 2010 Part 2
+	29/09/2010  14 13  Robert Isted Memorial Tournament 2010
+	05/09/2010   6  5  U18 TJCC 2010
+VIC
+	05/10/2010  10  9  Box Hill Masters
+	19/11/2010  43  6  Box Hill Spring Grades
+	07/09/2010  26  7  Canterbury July Swiss
+	10/09/2010  55  9  Canterbury Open
+	16/09/2010  14  5  Croydon "The Frost"
+	25/11/2010  16  7  Croydon Club Championship
+	03/10/2010  38  5  Croydon Guy West Classic
+	24/11/2010  35  9  Dandenong Club Championship
+	01/09/2010   8  7  Dandenong Grades Tournament (A Grade)
+	01/09/2010   8  7  Dandenong Grades Tournament (B Grade)
+	01/09/2010   8  7  Dandenong Grades Tournament (C Grade)
+	01/09/2010   8  7  Dandenong Grades Tournament (Premier Grade)
+	23/11/2010   8  7  Hobsons Bay/Yarraville Club Championship
+	13/11/2010   6  5  Hobsons Bay/Yarraville Junior Club Championship
+	13/11/2010   3  6  Hobsons Bay/Yarraville Junior Reserves Club Championship
+	23/11/2010  10  7  Hobsons Bay/Yarraville Reserves Club Championship
+	21/09/2010  13  6  Hobsons Bay/Yarraville Teams Championship
+	02/11/2010  64  9  MCC Cup Weekender
+	08/11/2010  24  9  Melbourne Open
+	20/11/2010   9  9  Noble Park Challengers
+	20/11/2010  10  9  Noble Park Masters
+	07/09/2010  33  7  Ranges Club Championship
+	19/09/2010  35  6  Ranges Spring Break Weekender
+	03/10/2010  17  6  Victorian Country Championship
+	21/11/2010  40  7  Victorian Teams Championship (Division 1)
+	21/11/2010 103  7  Victorian Teams Championship (Division 2)
+WA
+	16/09/2010   8  1  2010 Harris Edwardes 'B' Final
+	20/10/2010   7  7  2010 Perth Chess Club BRR 'A' division
+	20/10/2010   8  7  2010 Perth Chess Club BRR 'B' division
+	20/10/2010   6  5  2010 Perth Chess Club BRR 'C' division
+	29/08/2010  10  9  2010 WA Closed Chess Championship
+	22/08/2010   8  7  2010 WA Qualifying/Reserves
+	03/10/2010  22  6  2010 Willetton Open
+

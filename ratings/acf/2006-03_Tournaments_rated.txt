@@ -1,0 +1,62 @@
+Tournaments Rated
+ACF
+	24/02/2006 193 10  Queenstown Classic 2006
+ACT
+	05/12/2005  30  4  2005 Hetherington Memorial
+	04/12/2005  45  7  2005 Tuggeranong Vikings Weekender
+NSW
+	05/12/2005  20  7  2005 Canterbury Open
+	11/12/2005  22  5  2005 National Schools Finals Primary Girls Division
+	11/12/2005  25  5  2005 National Schools Finals Primary Open Division
+	11/12/2005  21  5  2005 National Schools Finals Secondary Girls Division
+	11/12/2005  27  5  2005 National Schools Finals Secondary Open Division
+	05/02/2006  47  7  2006 Newcastle Open
+	28/01/2006  76  7  Australia Day Weekender 2006
+	12/12/2005  24  9  Berger Cup 2005
+	16/01/2006  32 11  Manly Spring Tournament 2005
+	22/12/2005   2  4  NSW Championship Playoff 2005
+	04/12/2005  50  7  NSW Country Teams Individual 2005
+	09/01/2006   9  9  Newcastle District 2005
+	29/11/2005   4  6  Smithfield Club Championship 2005
+	31/01/2006  50  7  St. George Summer Open 2005-2006
+	12/02/2006  38  7  Toukley Open 2006
+QLD
+	09/01/2006  30 11  2005-2006 Australian Championships
+	09/01/2006  62 11  2005-2006 Australian Major
+	09/01/2006  19 11  2006 Australian Girls Championships
+	09/01/2006  15 11  2006 Australian Girls Under 12 Championships
+	09/01/2006  79 11  2006 Australian Junior Championships
+	09/01/2006  55 11  2006 Australian Minor
+	09/01/2006  59 11  2006 Australian Under 12 Championships
+	19/02/2006  72  6  Gold Coast Tin Cup 2006
+	04/10/2005  24  7  Spring Swiss Townsville
+	13/12/2005   4  6  Townsville 2005 Summer RR A
+	13/12/2005   4  6  Townsville 2005 Summer RR B
+	13/12/2005   4  6  Townsville 2005 Summer RR C
+	13/12/2005   4  6  Townsville 2005 Summer RR D
+TAS
+	29/01/2006  30  7  Aussie Weekender Launceston
+	08/02/2006  10  9  Hobart International Chess Club One Hour
+VIC
+	09/12/2005  57  5  Box Hill Christmas Swiss
+	13/12/2005  38  6  Box Hill Summer Swiss
+	07/12/2005  55  9  Dandenong Club Championship
+	19/02/2006  41  7  Drouin Open
+	03/12/2005  22  7  Elwood Club Championship
+	13/12/2005   8  7  Hobsons Bay/Yarraville Club Championship
+	03/12/2005   4  6  Hobsons Bay/Yarraville Junior Club Championship
+	13/12/2005  12  7  Hobsons Bay/Yarraville Reserves Club Championship
+	24/01/2006   5 10  Latrobe Valley Grades Tournament (Premier Grade)
+	24/01/2006   6 10  Latrobe Valley Grades Tournament (Second Grade)
+	22/01/2006  28  5  MCC Australia Day Weekender
+	18/12/2005  50  5  MCC Christmas Swiss
+	19/12/2005  10  7  MCC Fitzroy Open (Group A)
+	19/12/2005  12  7  MCC Fitzroy Open (Group B)
+	08/01/2006  16  7  Mind Sports Weekender
+WA
+	25/01/2006   6  5  2005 Perth Club Group A
+	25/01/2006   6  5  2005 Perth Club Group B
+	25/01/2006   8  7  2005 Perth Club Group C
+	04/12/2005  20  6  2005 Xmas Open
+	06/12/2005  21  7  City of Fremantle 2005
+

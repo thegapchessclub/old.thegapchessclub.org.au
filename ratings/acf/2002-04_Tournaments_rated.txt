@@ -1,0 +1,89 @@
+Tournaments Rated
+ACT
+	14/12/2001  36  8  2001 Ginninderra Cup
+	15/12/2001  30 12  2001 Norths Junior CC Term 4
+	9/12/2001  31  7  2001 Vikings Weekender
+	10/03/2002  20  6  2002 Autumn Junior Weekender
+	15/03/2002  44  7  2002 Belconnen Open
+	11/03/2002  20  5  2002 Woden Cup
+	27/07/2001  13  7  ANU Chess Club Championship
+	29/08/2001  20  7  Charity Cup
+NSW
+	11/12/2001  12 11  2001 Collies Champs - A-Grade
+	11/12/2001  11 11  2001 Collies Champs - B-Grade
+	27/01/2002  49  7  2002 Australia Day Weekender
+	24/01/2002  20 11  2002 Australian Junior  Championships Under 12 Girls
+	24/01/2002  58 11  2002 Australian Junior  Championships Under 12 Open
+	24/01/2002  13 13  2002 Australian Junior  Championships Under 18 Girls
+	24/01/2002  74 11  2002 Australian Junior  Championships Under 18 Open
+	10/12/2001  10  9  Berger Cup -2001 Open
+	10/12/2001  24  9  Berger Cup 2001 Under 1750
+	27/11/2001  76  1  Big Boards St George vs North Sydney Second Leg
+	10/12/2001  20  7  Canterbury Bankstown Swiss
+	4/12/2001  16  7  Central Coast Leagues Chess Club Champs 2001
+	1/12/2001   8 14  Dubbo Chess Club Championship 2001
+	17/03/2002  21  6  Dubbo RSL Open 2002
+	16/12/2001  56  6  Fairfield RSL Summer Cup
+	19/11/2001  44  7  Fishers Ghost
+	23/12/2001  22 11  JEVC Liverpool Xmas Cup
+	3/12/2001  35  9  Manly Spring Tournamant
+	15/12/2001  12 11  Newcastle District 2001
+	10/02/2002  51  7  Newcastle Open
+	2/12/2001  46  7  NSW Country Teams 2001 (Central Coast Leagues)
+	3/12/2001   8  7  Rooty Hill Club Championship Division 1
+	3/12/2001   8  7  Rooty Hill Club Championship Division 2
+	3/12/2001  16  7  Rooty hill Club Championship Division 3
+	28/11/2001   6  5  Ryde Eastwood Club Champ Final
+	29/01/2002  44  7  St. George Summer Open 2001/2002
+	17/02/2002  24  7  Taree Summer Open 2002
+	3/03/2002  58  7  Toukley White Knights U2000
+NT
+	28/02/2002   6  5  All Rounder 60 mins
+QLD
+	28/10/2001  18  6  2001 Qld Veterans & Disabled Players Championships
+	25/11/2001  34  5  2001 Queensland Under 1850 Championship
+	10/03/2002  46  7  2002 Hervey Bay Open
+	16/12/2001  18  6  Aust Schools Chps, High School Girls
+	16/12/2001  27  5  Aust Schools Chps, High Schools Open
+	25/10/2001   9  4  BCC Steinitz Memorial 2001
+	10/02/2002 105  6  GOLD COAST TIN CUP 2002
+	27/02/2002  20  7  Redcliffe Summer Swiss
+	27/11/2001  18  7  Val Valentine Club Championship
+SA
+	14/08/2001  30  7  City of Adelaide 2001
+TAS
+	11/03/2002  15  8  Labour Day Weekender
+	11/02/2002   6  5  Sandy Bay one hour 2001
+VIC
+	16/11/2001   6  5  Albury Club Championship
+	20/01/2002  10  9  All Seasons FIDE Rated Tournament
+	9/01/2002  32 11  Australian Championship
+	9/01/2002 114 11  Australian Reserves Championship
+	9/01/2002  21 11  Australian Senior Championship
+	11/03/2002  78  7  Ballarat Begonia Open
+	20/01/2002  10  9  Black Opal Masters
+	14/12/2001  99  8  Box Hill Christmas Swiss (Friday)
+	18/12/2001  28  6  Box Hill Christmas Swiss (Tuesday)
+	5/12/2001  47  9  Dandenong Club Championship
+	20/03/2002  53  7  Dandenong Summer Swiss
+	21/03/2002  24  5  Frankston Valentine's Open
+	12/12/2001  20  7  Hobsons Bay Club Championship
+	10/12/2001  22  5  MCC Fitzroy Open
+	13/12/2001  11  5  Mentone Club Championship
+	17/12/2001  32  7  VCA Christmas Swiss
+	29/08/2001  28  6  VCA Winter Interclub - Western Zone
+	1/12/2001  11 11  Victorian Championship
+	1/12/2001  12 11  Victorian Reserves Championship
+WA
+	2/12/2001  29  6  Christmas Open 2001
+	1/11/2001  22  6  Kingsley Open
+	7/12/2001  16  5  Midland Christmas 2001
+	24/02/2002  26  6  Perth Open
+	6/12/2001   8  7  Respini A
+	6/12/2001   8  7  Respini B
+	6/12/2001  10  9  Respini C
+	6/12/2001   8  7  Respini D
+	6/12/2001   8  7  Respini E
+	4/12/2001  20  7  The 2001 City of Fremantle
+
+

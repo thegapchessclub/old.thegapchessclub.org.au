@@ -1,0 +1,103 @@
+Tournaments Rated
+?
+	30/11/2011  14  7  2011 Rooty Hill Club Championship  Div D
+ACT
+	07/11/2011  53  9  2011 ACT Junior Championship
+	29/10/2011  13  3  2011 ACT Primary Schools Playoff Day One
+	30/10/2011  13  3  2011 ACT Primary Schools Playoff Day Two
+	29/10/2011  12  3  2011 ACT Secondary Schools Playoff Day One
+	30/10/2011  12  3  2011 ACT Secondary Schools Playoff Day Two
+	13/11/2011  23  6  2011 ACT Under 14 Championship
+	02/11/2011  27  6  2011 ANU Spring Swiss
+	14/09/2011  20  7  2011 Charity Cup
+	01/11/2011  17  7  2011 Floriade Dark Knights
+	02/11/2011  18  7  2011 Griffin King
+	13/09/2011  17  7  2011 Korda Chess Classic
+	26/09/2011  16  9  2011 Murrumbidgee Masters
+	20/11/2011  56  7  2011 Vikings Weekender
+NSW
+	22/11/2011   8  1  2011 Big Boards Second Leg Norths v Norths
+	22/11/2011 102  1  2011 Big Boards Second Leg Norths v Saints
+	30/09/2011   9  9  2011 NSW Girls Championship - Under 18
+	30/11/2011   8  7  2011 Rooty Hill Club Championship  A div
+	30/11/2011   8  7  2011 Rooty Hill Club Championship  B div
+	30/11/2011   8  7  2011 Rooty Hill Club Championship  C div
+	08/11/2011  53  9  2011 St. George Swiss
+	01/11/2011  12  6  2011 Wgong Collies October Swiss
+	21/11/2011  23  7  Canterbury Open 2011
+	12/09/2011  22  7  Canterbury Winter Swiss 2011
+	18/07/2011   8  7  City of Newcastle 2011
+	07/10/2011  15 11  City of Sydney Junior Championship - Under 12
+	07/10/2011  25  8  City of Sydney Junior Championship - Under 15
+	07/10/2011  11  7  City of Sydney Junior Championship - Under 18
+	09/09/2011   9  9  Coffs Harbour 60 mins 2011
+	19/09/2011  18  9  Easts Winter Chess Challenge 2011
+	08/09/2011   9  6  Ettalong Championship 2011
+	08/11/2011  71  9  Ford Memorial Open Tournament 2011
+	29/11/2011  17  7  Gosford Championship 2011
+	11/09/2011  32  7  Gosford Open 2011
+	13/09/2011  14  6  Gosford Winter Swiss 2011
+	07/11/2011  21  9  Harbord Diggers Chess Club Spring Tournament 2011
+	10/10/2011  40  1  Littrle Board Second Leg 2011
+	26/09/2011  13  7  Newcastle District 2011
+	19/10/2011  37  9  Parramatta Spring Cup Minor 2011
+	19/10/2011  18  9  Parramatta Spring Cup Open 2011
+	29/09/2011  42  9  Rooty Hill Open 2011
+	30/11/2011   7  2  Rooty Hill rated games 2011
+	23/11/2011  19  7  Ryde Eastwood Classic 2011
+	09/11/2011   6  5  Ryde Eastwood Club Championship Final 2011
+	05/10/2011  84  7  Ryde Eastwood Open 2011
+QLD
+	07/11/2011  25  7  2011 BCC Championship
+	29/09/2011  25  5  2011 BCC Tal Memorial
+	30/10/2011  45  6  2011 Brisbane Open
+	27/11/2011  49  6  2011 Caloundra Open
+	09/11/2011  17  7  2011 Redcliffe Club Championship
+	09/10/2011  55  6  2011 Wendy Terry Memorial
+	05/09/2011  22  8  Junior Masters T3 2011
+	13/11/2011  15  7  Junior Masters Term 4 2011
+	18/09/2011  70  6  Nell van de Graaff Classic 2011
+SA
+	20/09/2011  16  9  City of Adelaide 2011
+	02/10/2011  15  6  Labour Day Weekender 2011
+	08/11/2011  49  7  Pennant A 2011
+	08/11/2011  36  7  Pennant B 2011
+TAS
+	23/10/2011  10  6  Burnie Shines 2011
+	28/11/2011   7  7  HICC Club Champs 2011 Top Div 1
+	28/11/2011   7  7  HICC Club Champs 2011 Top Div 2
+VIC
+	05/10/2011  20  7  Ballarat Arthur Teters Memorial
+	25/11/2011  55  7  Box Hill Grades
+	27/09/2011  10  9  Box Hill Masters
+	23/09/2011  59  7  Box Hill Open
+	20/09/2011  26  8  Canterbury Spring Swiss
+	14/11/2011  42  9  City of Melbourne Open
+	22/09/2011  12  5  Croydon "The President's Cup"
+	27/11/2011  18  7  Croydon Open
+	23/11/2011  32  9  Dandenong Club Championship
+	25/11/2011   9  9  Geelong Club Championship
+	22/11/2011   7  7  Hobsons Bay/Yarraville Club Championship
+	19/11/2011   8  5  Hobsons Bay/Yarraville Junior Club Championship
+	03/09/2011   8  5  Hobsons Bay/Yarraville McCrakett Cup
+	22/11/2011   7  7  Hobsons Bay/Yarraville Reserves Club Championship
+	27/09/2011  18  6  Hobsons Bay/Yarraville Teams Championship
+	01/11/2011  43  9  MCC Melbourne Cup Weekender
+	12/11/2011  19  9  Noble Park Challengers
+	12/11/2011  10  9  Noble Park Masters
+	13/09/2011  47  7  Ranges Club Championship
+	09/10/2011  18  6  Victorian Country Championship
+	27/11/2011  41  7  Victorian Teams Championship (Division 1)
+	27/11/2011  62  7  Victorian Teams Championship (Division 2)
+	27/11/2011  21  4  Victorian Teams Championship (Division 3)
+WA
+	19/10/2011  35  4  2011 Harris
+	25/11/2011   9  9  2011 Metro Respini B
+	24/11/2011   9  9  2011 Metro Respini C
+	05/10/2011   6  5  2011 Perth Chess Club Group A
+	03/11/2011   6  5  2011 Perth Chess Club Group B
+	03/11/2011   8  7  2011 Perth Chess Club Group C
+	18/09/2011  10  9  2011 WA Closed Chess Championship
+	18/09/2011  10  9  2011 WA Qualifying
+	09/10/2011  22  6  2011 Willetton Open
+

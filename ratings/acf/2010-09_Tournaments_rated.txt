@@ -1,0 +1,90 @@
+Tournaments Rated
+ACF
+	10/07/2010  31  7  JETS 2010
+ACT
+	02/06/2010  33  6  2010 ANU Autumn Swiss
+	25/07/2010  42  7  2010 ANU Minor
+	25/07/2010  35  7  2010 ANU Open
+	18/08/2010  31  6  2010 ANU Winter Swiss
+	17/06/2010   9  6  2010 Belconnen Uni of Canberra CC Championship
+	26/07/2010  22  7  2010 Brindabella Snows
+	16/06/2010   9  9  2010 Canberra Cup
+	18/08/2010  10  9  2010 Cold Comfort Cup
+	29/07/2010  16  6  2010 Murphy Memorial
+NSW
+	04/08/2010  18  7  2010 Grading Swiss
+	16/07/2010  39 10  2010 NSW Junior Championship  -  Under 12
+	16/07/2010  42  9  2010 NSW Junior Championship  -  Under 18
+	06/08/2010  55 10  2010 NSWCA Grade Matches Under 1400
+	06/08/2010  63 10  2010 NSWCA Grade Matches Under 1600
+	20/07/2010  31  9  2010 NSWCA Grade Matches Under 1800
+	20/07/2010  32  9  2010 NSWCA Grade Matches Under 2150
+	01/06/2010  16  8  2010 Wollongong KO
+	10/05/2010  19  7  Canterbury Open Championship 2010
+	07/07/2010   5  5  City of Newcastle 2010
+	28/06/2010  21  9  Easts Autumn Chess Challenge 2010
+	14/06/2010  66  7  NSW Open 2010
+	14/06/2010  82  7  NSW Open U1600
+	14/07/2010  31  7  Rooty Hill Winter Swiss 2010
+	09/03/2010  23  9  W'gong Club H'cap 2010
+QLD
+	03/06/2010  14  5  2010 BCC Lasker Memorial Division A
+	03/06/2010   8  5  2010 BCC Lasker Memorial Division B
+	05/08/2010  28  6  2010 BCC Winter Swiss
+	22/08/2010  33  6  2010 Bundaberg Weekend Tournament
+	27/06/2010  26  7  2010 Gold Coast Open
+	27/06/2010  51  7  2010 Gold Coast Under 1000
+	27/06/2010  36  7  2010 Gold Coast Under 1600
+	08/06/2010  20  7  2010 Kings of chess championship
+	01/08/2010   8  9  2010 Queensland Championship
+	29/06/2010  22  7  2010 Queensland Junior Championships U12
+	03/07/2010  21  8  2010 Queensland Junior Championships U14,16,18
+	01/08/2010  28  7  2010 Queensland Minor Championship
+	29/08/2010  22  6  Cairns Open 2010
+	15/08/2010   8  7  Mackay Open 2010
+	08/08/2010  14  6  North Queensland Open
+	04/06/2010  11  8  The Gap Chess Club - Flood Cup 2010
+SA
+	29/06/2010  45  9  Inter-Club A 2010
+	29/06/2010  38  9  Inter-Club B 2010
+	29/06/2010  12  4  Interclub 2010 Forfeit Tournament
+	04/07/2010  28  7  Lidums Checkmate Challengers 2010
+	04/07/2010  30  7  Lidums Checkmate Open 2010
+	30/07/2010  14  9  Modbury Chess Championship 2010
+	13/06/2010  21  6  QUEEN'S BIRTHDAY 2010
+TAS
+	14/06/2010  25  6  2010 Tasmanian Open
+	15/08/2010  16  6  Hobart Weekender 2010
+VIC
+	21/07/2010   9  9  Ballarat Club Championship
+	21/07/2010  12 11  Ballarat Reserves Club Championship
+	11/08/2010   6  5  Bendigo Club Championship Finals
+	25/06/2010  65  9  Box Hill Club Championship
+	22/06/2010  25  7  Canterbury Autumn Swiss
+	05/07/2010  33  9  City of Melbourne Open
+	10/06/2010  18  7  Croydon Open
+	30/06/2010  34  7  Dandenong Autumn Open
+	19/07/2010  13  5  Geelong 5 Round Swiss T5
+	22/08/2010  22  5  Hobsons Bay/Yarraville Best in the West
+	15/06/2010  20  7  Hobsons Bay/Yarraville Cup
+	27/07/2010  18  5  Hobsons Bay/Yarraville Koshnitsky Cup
+	30/08/2010  18  7  MCC Edwin Malitis Memorial
+	01/06/2010   8  7  MCC Novice Championship
+	17/06/2010   9  7  Mentone Club Championship
+	21/08/2010   8  7  Noble Park Grades Tournament (A Grade)
+	21/08/2010   8  7  Noble Park Grades Tournament (B Grade)
+	26/06/2010  20  9  Noble Park Open
+	28/08/2010  12 11  Victorian Championship
+	28/08/2010  10  9  Victorian Championship Reserves
+	27/06/2010  79  7  Victorian Junior Under 12 Championship
+	01/07/2010  44  9  Victorian Junior Under 18 Championship
+	14/06/2010  89  7  Victorian Open
+WA
+	07/06/2010  15  6  2010 Foundation Day Tournament
+	23/06/2010  22  1  2010 Harris Edwardes
+	04/08/2010  19  7  2010 Mary Thomson Cup
+	03/06/2010   9  9  2010 Metro Club Championship C division
+	03/06/2010   7  7  2010 Metro Club Championship E division R2
+	19/06/2010  30  6  2010 Perth Open
+	07/08/2010  31  7  Metro Open 2010
+

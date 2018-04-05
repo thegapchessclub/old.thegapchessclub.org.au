@@ -1,0 +1,102 @@
+Tournaments Rated
+ACT
+	07/09/2007  20  9  2007 ACT Championship
+	28/10/2007  39  7  2007 ACT Under 14 Championship
+	17/10/2007  13  6  2007 ANU Spring Tournament
+	09/11/2007  18  9  2007 Belconnen CC Championship
+	27/10/2007   7  7  2007 City Club Open
+	26/11/2007  25  5  2007 Hetherington Memorial
+	01/10/2007  15  7  Murrumbidgee Masters 2007
+NSW
+	09/09/2007  34  6  2007 Blayney Open
+	12/10/2007  44 11  2007 City of Sydney Junior Championship - Under 12
+	12/10/2007  27  8  2007 City of Sydney Junior Championship - Under 15
+	12/10/2007  16  8  2007 City of Sydney Junior Championship - Under 18
+	05/10/2007  12  5  2007 NSW Girls Championship - Under 18
+	06/11/2007  53  9  2007 St. George Swiss
+	02/10/2007   8  7  2007 Wgong Collies Champs - A Grade
+	02/10/2007   8  7  2007 Wgong Collies Champs - B Grade
+	10/11/2007  40  7  4th Coffs Harbour Open 2007
+	27/11/2007  72  1  Big Boards St. George vs North Sydney November 2007
+	26/11/2007  24  7  Canterbury Open 2007
+	19/11/2007  18  7  Fisher's Ghost 2007
+	13/11/2007  65  9  Ford Memorial Open 2007
+	04/11/2007  24  7  Gosford Open 2007
+	17/09/2007  21  9  Hakoah Chess Club Championship 2007
+	27/11/2007  16  1  Little Boards St. George vs St. George November 2007
+	14/10/2007   8  7  NSW State Championship 2007
+	14/10/2007  10  7  NSW State Championship Major 2007
+	14/10/2007  16  7  NSW State Championships Minor 2007
+	22/11/2007   8  7  Parramatta Club Championships 2007
+	22/11/2007  20  9  Parramatta Club Minor 2007
+	22/11/2007   8  7  Parramatta Club Open 2007
+	19/11/2007   8  7  Rooty Hill Club Championship Division 1
+	19/11/2007   8  7  Rooty Hill Club Championship Division 2
+	19/11/2007   8  7  Rooty Hill Club Championship Division 3
+	19/11/2007  10  7  Rooty Hill Club Championship Division 4
+	24/09/2007  33  9  Rooty Hill Open 2007
+	21/11/2007   6  5  Ryde Eastwood Club Championship Final 2007
+	01/10/2007  51  7  Ryde Eastwood Open 2007
+QLD
+	15/11/2007  35  7  2007 BCC Championship
+	27/09/2007  34  4  2007 BCC Steinitz Memorial
+	30/08/2007  27  5  2007 BCC Winter Swiss
+	18/11/2007  32  7  2007 QWCL November Weekender
+	14/10/2007  71  7  2007 Queensland High Schools Championship
+	14/10/2007  88  7  2007 Queensland Primary Schools Championship
+	30/09/2007  10  5  2007 Queensland Women's Championship
+	14/11/2007  15  7  2007 Redcliffe Club Championship
+	28/10/2007  34  7  2007 Surfers Paradise Open Division
+	28/10/2007  28  7  2007 Surfers Paradise Under 1000 Division
+	28/10/2007  32  7  2007 Surfers Paradise Under 1600 Division
+	07/10/2007  53  6  2007 Wendy Terry Memorial
+	11/11/2007  35  6  Darling Downs Gold Cup
+	10/09/2007  15  8  Gold Coast Junior Masters A Grade T3 2007
+	10/09/2007  16  8  Junior Masters B Grade T3 2007
+	22/09/2007  58  6  Nell van de Graaff Classic 2007
+	14/09/2007  12 11  The Gap CC - One Hour 2007
+	29/08/2007  10  5  Toowoomba Chess Club Winter Swiss
+SA
+	30/10/2007  50  7  2007 A Grade Pennant
+	30/10/2007  34  7  2007 B Pennant Matches
+	11/09/2007  16  9  City Adelaide Minor 2007
+	11/09/2007  10  9  City of Adelaide Major 2007
+	30/09/2007  18  7  Labour Day Weekend 2007
+	03/08/2007  12  9  Modbury Chess Championship 2007
+TAS
+	04/11/2007  29  6  2007 Burnie Shines Weekender
+	16/09/2007  14  6  Hobart Weekender 2007
+	14/11/2007  17 17  Robert Isted Memorial 2007
+	09/09/2007  11  7  TJCC 07 U18
+VIC
+	31/08/2007   6  5  Box Hill Grades Tournament (A Grade)
+	31/08/2007   6  5  Box Hill Grades Tournament (B Grade)
+	31/08/2007   6  5  Box Hill Grades Tournament (C Grade)
+	31/08/2007  16  5  Box Hill Grades Tournament (D Grade)
+	02/11/2007  66  7  Box Hill Open
+	29/11/2007  15  7  Croydon Club Championship
+	17/11/2007   8  3  Croydon Day-Night Tournament (Division 1)
+	17/11/2007   4  3  Croydon Day-Night Tournament (Division 2)
+	13/09/2007  16  7  Croydon Open
+	06/11/2007  86  7  Elwood Bendigo Bank Championship
+	03/11/2007   4  6  Elwood Club Championship
+	29/11/2007  21  7  Frankston Club Championship
+	27/11/2007   8  7  Hobsons Bay/Yarraville Club Championship
+	27/11/2007   4  6  Hobsons Bay/Yarraville Junior Club Championship
+	25/09/2007  17  5  Hobsons Bay/Yarraville Koshnitsky Cup
+	27/11/2007  10  7  Hobsons Bay/Yarraville Reserves Club Championship
+	22/10/2007  34  9  Melbourne Open
+	10/11/2007  12 11  Noble Park Grades Tournament (A Grade)
+	10/11/2007   9  9  Noble Park Grades Tournament (B Grade)
+	25/11/2007  10  9  Victorian Championship
+	25/11/2007  10  9  Victorian Championship Reserves
+	07/10/2007  17  6  Victorian Country Championship
+WA
+	09/10/2007   8  6  2007 Fremantle Club Championship
+	29/11/2007  10  9  2007 Metro Respini A
+	29/11/2007  12 11  2007 Metro Respini B
+	29/11/2007  10  9  2007 Metro Respini C
+	29/11/2007  10  9  2007 Metro Respini D
+	29/11/2007   9  9  2007 Metro Respini E
+	30/09/2007  35  9  2007 WA State Championships
+

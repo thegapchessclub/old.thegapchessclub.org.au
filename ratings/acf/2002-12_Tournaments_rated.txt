@@ -1,0 +1,134 @@
+Tournaments Rated
+ACF
+	15/09/2002  20  1  Dorothy Dibley ACT V SA
+	21/07/2002  19  1  Dorothy Dibley ACT V WA
+	18/08/2002  19  1  Dorothy Dibley NSW V ACT
+	15/09/2002  18  1  Dorothy Dibley NSW V QLD
+	23/06/2002  19  1  Dorothy Dibley QLD V SA
+	21/07/2002  18  1  Dorothy Dibley QLD V VIC
+	28/07/2002  18  1  Dorothy Dibley SA V NSW
+	18/08/2002  10  1  Dorothy Dibley SA V VIC
+	16/06/2002  17  1  Dorothy Dibley VIC V ACT
+	15/09/2002  10  1  Dorothy Dibley VIC V WA
+	16/06/2002  20  1  Dorothy Dibley WA V NSW
+	18/08/2002  20  1  Dorothy Dibley WA V QLD
+ACT
+	22/09/2002  35  7  2002 ACT Under 14
+	28/07/2002  53  7  2002 ANU Open
+	20/09/2002  27  8  2002 NJCC term 3
+	16/10/2002  36 11  ACT Open Champ 2002
+	06/09/2002  52  7  Com Cen Cup 02
+	27/10/2002  32  6  Development Squad Cup
+	22/11/2002  52  4  Ginnenderra Cup - Finals
+	01/11/2002  30  7  Ginninderra Cup - qualifying group 1
+	01/11/2002  29  7  Ginninderra Cup - qualifying group 2
+	30/09/2002  19  7  Murrumbidgee Masters
+	29/07/2002  18  7  brindabella snows
+NSW
+	04/08/2002  61  7  2002 August Weekender
+	04/10/2002   6  5  2002 NSW Championships Under 18 Girls
+	05/11/2002  31  9  2002 St. George Swiss
+	20/08/2002  17  6  CCLCCC Winter Cup 2002
+	18/04/2002   8  7  Cardiff Club Championship 2002
+	31/07/2002  22  1  Central Coast Leagues CC Versus Central Coast 2002
+	01/10/2002  17  5  Central coast Leagues Club Chess Club Spring Swiss 2002
+	24/06/2002   8  7  City of Newcastle Championship 2002
+	11/10/2002  32  8  City of Sydney Junior Championships - October 2002 - Under 1
+	11/10/2002  14  8  City of Sydney Junior Championships - October 2002 - Under 1
+	11/08/2002  26  6  Coal City Open
+	15/09/2002  12  2  Dubbo vs Gunnedah Match
+	20/10/2002  40  7  Gosford 2002
+	01/08/2002  41 10  Grade 2002 Under 1400
+	23/09/2002  25  9  Hakoah Championship 2002 Under 1750
+	23/09/2002  12  9  Hakoah Chess Club Championship 2002 OPEN
+	16/10/2002  56  7  Interleagues 2002
+	12/11/2002  63  9  Joihn Ford 2002
+	07/10/2002  84  7  Koala Open 2002
+	03/11/2002  17  7  Lauteron Spring Open 2002
+	23/09/2002  19  7  Mingara Club Championships 2002
+	01/08/2002  45 10  NSW Grade Match 2002  Under 1600
+	01/08/2002  47  9  NSW Grade Match 2002  Under 1800
+	30/07/2002  30 10  NSW Grade Match 2002  Under 2000
+	01/08/2002  40 10  NSW Grade Match 2002 Open Division
+	27/10/2002  14  9  NSW State Championship - OPEN Division (FIDE)
+	27/10/2002  39  9  NSW State Championship - U1600
+	27/10/2002  29  9  NSW State Championship - U2000
+	24/11/2002  61  6  NSWCA November Weekender
+	10/10/2002  12  7  Newcastle District Championship 2002
+	30/09/2002  36  7  Rooty Hill Open 2002
+	18/08/2002   8  7  St Joseph's Invitational
+	17/11/2002  23  7  Taree Spring Open 2002
+	03/11/2002   5 10  UNSW Chess Club Championship 2002
+QLD
+	06/10/2002  51  6  12 th. Redcliffe Challenge
+	22/09/2002  98  7  2002 Gold Coast Classic
+	04/08/2002  33  7  2002 Mackay Open
+	11/08/2002  18  7  2002 NQ Championship
+	27/10/2002  10  6  2002 Qld Veterans and Disabled Championship
+	29/09/2002   9  7  2002 Queensland Girls' Championships
+	21/07/2002  44  7  2002 Queensland Open Championship
+	13/10/2002  75  7  2002 Tweed Heads Open
+	29/08/2002  16  5  BCC CHAMPIONSHIP 2002
+	27/06/2002  12  4  BCC WINTER SWISS 2002
+	27/09/2002  11 11  The Gap Chess Club - One Hour 2002
+	20/08/2002  27  7  Winter Woolies Tournament
+SA
+	01/06/2002  56 10  A Grade 2002
+	01/06/2002  37 10  B Grade 2002
+	01/08/2002  32  7  City of Adelaide Chess Championship 2002
+	05/10/2002  34  7  Lidums Cup 2002
+	01/09/2002   8  7  Modbury Open Chess Championship 2002
+	30/09/2002  16  7  Thorne Youth 2002
+TAS
+	10/07/2002   9 18  Burnie Chess Club Champs 02
+	23/10/2002  15 15  HICC Champs 2002
+	08/09/2002  14  5  Launceston weekender
+	10/10/2002   9  9  Robert Isted Memorial 2002
+	11/11/2002  26  6  Tasmanian Open
+VIC
+	05/07/2002   9  5  Albury Rated Tournament
+	27/07/2002  10  9  Ballarat Club Championship - A Grade
+	27/07/2002  10  9  Ballarat Club Championship - B Grade
+	08/11/2002 105  9  Box Hill Open
+	29/10/2002  32  9  Box Hill Phil's Venture
+	27/08/2002  13  6  Box Hill Rainbow Championships (Blue Group)
+	27/08/2002   6  5  Box Hill Rainbow Championships (Green Group)
+	27/08/2002   6  5  Box Hill Rainbow Championships (Orange Group)
+	27/08/2002   6  5  Box Hill Rainbow Championships (Red Group)
+	27/08/2002   5  5  Box Hill Rainbow Championships (Yellow Group)
+	15/07/2002  31  9  City of Melbourne Open
+	28/08/2002  42  7  Dandenong Grades
+	28/09/2002  24  7  Elwood Club Championship
+	03/08/2002  25  7  Elwood Open
+	25/05/2002  22  7  Elwood Under 1800
+	10/07/2002  25  5  Hobsons Bay Cup Finals
+	05/06/2002  26  5  Hobsons Bay Cup Preliminaries
+	16/10/2002  28  5  Hobsons Bay G Koshnitsky Cup
+	10/11/2002  23  7  Hobsons Bay Open
+	07/07/2002  10  4  MCC Basta Memorial
+	01/08/2002  10  7  Mentone Open
+	06/09/2002 169  8  VCA Winter Interclub (Eastern Zone)
+	04/09/2002  37  7  VCA Winter Interclub (Western Zone)
+	19/10/2002  12 11  Victorian Championship
+	19/10/2002  12 11  Victorian Championship Qualifying
+	19/10/2002  11 11  Victorian Championship Reserves
+	06/10/2002  24  6  Victorian Country Championship
+	07/07/2002  39  8  Victorian Junior Championhip
+	19/10/2002   5 10  Victorian Senior Championship
+WA
+	20/06/2002  14  8  Bubnury Club Championship 2002
+	21/01/2002  12  7  Bunbury Summer Rated 2001
+	10/07/2002  13  6  Chart-Zylstra Challenge
+	27/09/2002  16  7  Harris Edwardes Division A
+	27/09/2002  37  6  Harris Edwardes Division B
+	27/09/2002  23  7  Harris Edwardes Division C
+	27/10/2002  21  6  Kingsley Open 2002
+	04/07/2002  39  7  Metro Open 2002
+	04/10/2002   6  5  Midland Winter A
+	04/10/2002   7  5  Midland Winter B
+	04/10/2002   5  4  Midland Winter C
+	21/08/2002  15  7  Perth Club Championship
+	07/08/2002  36  9  State Championship 2002
+	08/09/2002  24  6  Willetton Open 2002
+
+

@@ -1,0 +1,100 @@
+Tournaments Rated
+ACT
+	25/05/2008  21  7  2008 ACT Women and Girls
+	09/03/2008  10  6  2008 ACTJCL Autumn Weekender
+	09/03/2008  28  6  2008 ACTJCL Autumn Weekender U1000
+	19/03/2008  25  6  2008 ANU Summer Swiss
+	02/05/2008  13  7  2008 Belconnen CC Championship
+	26/03/2008   7  7  2008 Canberra CC Championship
+	21/05/2008   8  7  2008 Canberra Cup
+	29/02/2008  17  5  2008 Community Centre Cup
+	22/03/2008  31  6  2008 Mind Games Doeberl Cup U1200
+	24/03/2008  49  7  2008 O2C Doeberl Cup Major
+	24/03/2008  67  7  2008 O2C Doeberl Cup Minor
+	24/03/2008  82  9  2008 O2C Doeberl Cup Premier
+	26/05/2008  26  7  2008 Tuggeranong CC Championship
+	12/03/2008  23  5  2008 Woden Cup
+NSW
+	29/03/2008  43  9  2008 Sydney International Challengers
+	29/03/2008 106  9  2008 Sydney International Open
+	11/03/2008  22  9  2008-WGONG-HANDICAP
+	07/12/2007  12 11  Albury Championship 2007
+	13/05/2008  80  1  Big Boards St. George vs North Sydney May 2008
+	12/05/2008  20  7  Canterbury 2008 Championships
+	13/04/2008  30  6  Dubbo RSL Open 2008
+	29/03/2008   6  5  Gosford Grades 2008 Division 1
+	24/04/2008  16  6  Gosford Summer 2008
+	07/04/2008  20  9  Henry Greenfield Cup 2008
+	04/05/2008  17  7  Laurieton May Open 2008
+	13/05/2008   8  1  Little Boards St. George vs St. George May 2008
+	21/04/2008  10  9  Manly Club Championships 2008 Grade A
+	21/04/2008   9  9  Manly Club Championships 2008 Grade C
+	21/04/2008  10  9  Manly Club Championships 22008 Grade B
+	18/05/2008  23  7  Mingara Open 2008
+	22/04/2008  11 11  Norths Chess Club Championships 2008 Candidates
+	22/04/2008  11 11  Norths Chess Club Championships 2008 Reserves A
+	22/04/2008  12 11  Norths Chess Club Championships 2008 Reserves B
+	22/04/2008  12 11  Norths Chess Club Championships 2008 Reserves C
+	08/04/2008  10  9  Norths Chess Club Championships 2008 Reserves D
+	22/04/2008  12 11  Norths Chess Club Club Championships 2008 Title
+	01/05/2008  34  1  Norths v Manly little board
+	14/04/2008  26  7  Rooty Hill Autumn Swiss 2008
+	12/05/2008  48  2  Rooty Hill v Parramatta Big Boards
+	30/04/2008   9  9  Ryde Eastwood Prelim A 2008
+	30/04/2008   9  9  Ryde Eastwood Prelim B 2008
+	30/04/2008   9  9  Ryde Eastwood Prelim C 2008
+	29/04/2008  10  9  St. George Club Champs 2008 Championship Division
+	29/04/2008  10  9  St. George Club Champs 2008 Division 2
+	29/04/2008  10  9  St. George Club Champs 2008 Division 3
+	29/04/2008  10  9  St. George Club Champs 2008 Division 4
+	29/04/2008  10  9  St. George Club Champs 2008 Division 5
+	29/04/2008   6 10  St. George Club Champs 2008 Division 6
+	25/02/2008  18  7  Wyong Shire Cup 2008
+QLD
+	24/04/2008  35  6  2008 BCC Autumn Swiss
+	13/03/2008  34  6  2008 BCC Summer Swiss
+	22/05/2008  27  4  2008 BCC Tal Memorial
+	02/03/2008  34  7  2008 March Madness Open Division
+	02/03/2008   8  7  2008 March Madness Under 1000 Division
+	24/03/2008   8  7  2008 Queensland Open Division
+	23/03/2008  13  7  2008 Queensland Open Under 1000 Division
+	24/03/2008  16  7  2008 Queensland Open Under 1600 Division
+	19/02/2008   6  5  2008 Summer Round Robin
+	02/04/2008  16  6  2008 Tal Memorial
+	08/04/2008  12  5  2008 Townsville Autumn Swiss
+	05/05/2008  43  7  43rd Peninsula Open
+	16/05/2008  35  7  Club Championship 2008
+	09/03/2008  36  6  Darling Downs Open 2008
+	20/04/2008  36  7  Gold Coast Junior Championships 2008
+	31/03/2008  16  7  Junior Masters A T1
+	31/03/2008  11  7  Junior Masters B T1
+	31/03/2008  14  7  Junior Masters C T1
+	30/05/2008  16  7  The Gap Chess Club - Flood Cup 2008
+SA
+	01/04/2008  26  9  SA Candidates 2008
+	02/05/2008   2  2  South Australian Ch Playoff 2008
+	15/04/2008  11 11  South Australian Chess Championship 2008
+TAS
+	10/03/2008  29  7  Tasmanian Chess Championship 2008
+VIC
+	10/03/2008  96  7  Ballarat Begonia Open
+	06/03/2008  10  7  Ballarat Spielvogel Memorial
+	04/04/2008  62  7  Box Hill Autumn Cup
+	01/04/2008  32  7  Canterbury New Season Swiss
+	15/05/2008  16  5  Croydon Capablanca Tournament
+	13/03/2008  11  5  Croydon Steinitz Tournament
+	30/04/2008  32  5  Dandenong Easter Cup
+	19/03/2008  36  8  Dandenong Summer Swiss
+	29/04/2008  19  5  Hobsons Bay/Yarraville CJS Purdy Cup
+	27/04/2008  16  7  MCC Anzac Day Weekender
+	14/04/2008  32  9  Melbourne Club Championship
+	19/04/2008  20  9  Noble Park Club Championship
+WA
+	23/03/2008  24  6  2008 Gufeld Cup
+	12/03/2008  17  7  2008 Perth Chess Club Championship
+	25/04/2008   7  7  2008 WA Junior
+	25/03/2008  11  7  ChartZylstra2008
+	27/05/2008   9  7  FreoOpen2008
+	08/05/2008  10  9  Metro Club Championship C
+	18/05/2008  16  6  South West Open 2008
+

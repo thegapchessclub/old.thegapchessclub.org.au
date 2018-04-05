@@ -1,0 +1,98 @@
+Tournaments Rated
+ACF
+	26/06/2009  73  9  2009 Oceanic Zonal Open
+	26/06/2009  18  9  2009 Oceanic Zonal Women
+	11/07/2009  29  7  Junior Elite Training Squad 2009
+ACT
+	30/08/2009  32  7  2009 ACT Under 14 Championship
+	01/07/2009  32  6  2009 ANU Autumn Swiss
+	26/07/2009  45  7  2009 ANU Minor
+	26/07/2009  36  7  2009 ANU Open
+	19/08/2009  30  6  2009 ANU Winter Swiss
+	03/08/2009  22  7  2009 Brindabella Snows
+	31/07/2009   7  7  2009 Murphy Memorial
+	01/06/2009  25  7  2009 Tuggeranong CC Championship
+NSW
+	24/07/2009  36 10  2009 NSW Junior Championship - Under 12
+	24/07/2009  48  9  2009 NSW Junior Championship - Under 18
+	23/07/2009  63  9  2009 NSWCA Grade Matches Under 1400
+	06/08/2009  56 10  2009 NSWCA Grade Matches Under 1600
+	28/07/2009  45 10  2009 NSWCA Grade Matches Under 1800
+	11/08/2009  17  7  Central Coast District Champ 2009
+	01/07/2009   6  5  City Of Newcastle 2009
+	19/07/2009  21  7  Coffs Harbour Open 2009
+	06/07/2009  23  9  Easts Autumn Chess Challenge 2009
+	25/07/2009  16  7  Ettalong Championship 2009
+	08/06/2009  59  7  NSW Open 2009
+	08/06/2009  65  7  NSW Open U1600 2009
+	20/07/2009  33  7  Rooty Hill WINTER Swiss 2009
+	04/08/2009  19  7  Wollongong Collegians Grading Swiss 2009
+	03/08/2009  16  7  canterbury winter swiss
+QLD
+	04/06/2009  11  5  2009 BCC Lasker Memorial - Group A
+	04/06/2009  18  5  2009 BCC Lasker Memorial - Group B
+	06/08/2009  32  6  2009 BCC Winter Swiss
+	07/06/2009  36  6  2009 Broadbeach Cup
+	02/08/2009  16  6  2009 Bundaberg Open
+	04/07/2009  28  6  2009 CAQ Teams Event Open Division
+	04/07/2009  20  6  2009 CAQ Teams Event Second Division
+	28/07/2009  22  7  2009 Gold Coast Beach Championship
+	28/06/2009  51  7  2009 Gold Coast Open
+	28/06/2009  25  7  2009 Gold Coast Under 1000
+	28/06/2009  42  7  2009 Gold Coast Under 1600
+	16/08/2009  11  7  2009 North Queensland Open
+	03/07/2009  19  8  2009 Queensland Junior Championship
+	03/07/2009  14  8  2009 Queensland Junior Championship Under 10 Division
+	03/07/2009  14  8  2009 Queensland Junior Championship Under 12 Division
+	22/06/2009  16  6  Junior Masters A T2 2009
+	22/06/2009  10  6  Junior Masters B T2 2009
+	18/08/2009  16  6  Suncoast Chess Club Championship 2009
+	19/06/2009  10  9  The Gap Chess Club - Flood Cup
+	21/04/2009   6  5  Townsville Chess Club A Grade Autumn Round Robin
+	21/04/2009  10  5  Townsville Chess Club B Grade Autumn Round Robin
+	02/06/2009  13  5  Townsville Chess Club Summer Swiss
+SA
+	05/07/2009  45  7  Freytag Checkmate Challenge 2009
+	05/07/2009  40  7  Freytag Checkmate Open 2009
+	30/06/2009  52  9  Interclub A Grade 2009
+	30/06/2009  33  9  Interclub B Grade 2009
+	31/07/2009  19  9  Modbury Chess Championship 2009
+	07/06/2009  20  6  QUEEN'S BIRTHDAY 2009
+TAS
+	24/08/2009  13 13  HICC Champs 2009
+	16/08/2009  25  6  Hobart Weekender 2009
+	08/06/2009  24  6  Tasmanian Open 2009
+VIC
+	05/08/2009  11 11  Ballarat Club Championship
+	05/08/2009   4  6  Ballarat Club Championship Reserves
+	26/06/2009  62  9  Box Hill Club Championship
+	28/08/2009  60  7  Box Hill Grades Tournament
+	16/06/2009  26  7  Canterbury Autumn Swiss
+	22/06/2009  40  9  City of Melbourne Open
+	25/06/2009  10  5  Croydon "The Petrosian"
+	24/06/2009  40  7  Dandenong Autumn Open
+	26/08/2009   8  7  Dandenong Grades Tournament (A Grade)
+	26/08/2009   8  7  Dandenong Grades Tournament (B Grade)
+	26/08/2009   8  7  Dandenong Grades Tournament (C Grade)
+	26/08/2009   7  7  Dandenong Grades Tournament (D Grade)
+	26/08/2009   8  7  Dandenong Grades Tournament (Premier Grade)
+	19/07/2009  36  6  Geelong Open
+	16/06/2009  21  7  Hobsons Bay/Yarraville Cup
+	28/07/2009  17  5  Hobsons Bay/Yarraville Koshnitsky Cup
+	07/07/2009   7  6  MCC Challenge Tournament
+	24/08/2009  12 11  MCC Kon Raipalis Memorial
+	07/07/2009   8  7  MCC Novices Tournament
+	17/08/2009  17  7  Melbourne Under 2000
+	11/06/2009   7  7  Mentone Club Championship
+	11/07/2009  26  9  Noble Park Open
+	28/06/2009  62  7  Victorian Junior Under 12 Championship
+	02/07/2009  38  9  Victorian Junior Under 18 Championship
+	08/06/2009  96  7  Victorian Open
+WA
+	01/06/2009  19  6  2009 Foundation Day Tournament
+	05/07/2009  10  9  2009 Huntingdale Masters
+	01/07/2009  30  7  2009 Mary Thomson Cup
+	24/05/2009   7  7  2009 WA State Junior Championship
+	11/06/2009  24  1  Harris Edwardes 2009
+	09/07/2009  32  7  Metro Open 2009
+

@@ -1,0 +1,76 @@
+Tournaments Rated
+ACT
+	08/12/2002  25  6  2002 NJCC term 4
+	30/11/2002  30  2  Development Squad Cup no 2
+	04/12/2002  23  7  Griffin Tournament -- Canberra CC
+	05/12/2002  20  5  Hetherington Memorial
+	10/12/2002  55  6  Vikings Weekender
+NSW
+	03/09/2002  14  9  2002 Wollongong Collies - Handicap
+	19/11/2002  17  9  2002 Wollongong Collies Championship
+	10/01/2003  13  7  2003 Australian Classic
+	10/01/2003  38 11  2003 Australian Minor
+	10/01/2003 111 11  2003 Australian Open
+	03/01/2003  12  5  2003 Australian Week 1
+	26/01/2003  62  7  Australia Day Weekender
+	16/12/2002  35  9  Berger Cup 2002
+	15/12/2002  16  7  Canterbury Open
+	03/12/2002  19  6  Central Coast Leagues CC championship 2002
+	09/12/2002  44  7  Country Teams Individuals
+	15/12/2002  60  6  Fairfield Summer Cup 2002
+	25/11/2002  27  7  Fishers Ghost 2002
+	22/12/2002  20  7  Koala Masters 2002
+	02/12/2002  33  9  Manly Warringah Spring
+	08/01/2003  93  9  NSWJCL New Year Tournament 2003
+	09/02/2003  56  7  Newcastle Open 2003
+	15/12/2002   2  1  North Sydney Candidates Playoff 1
+	15/12/2002   2  1  North Sydney Candidates Playoff 2
+	03/12/2002   8  7  Rooty Hill Club Championship Division 1
+	03/12/2002   7  7  Rooty Hill Club Championship Division 1
+	03/12/2002   8  7  Rooty Hill Club Championship Division 3
+	03/12/2002   8  7  Rooty Hill Club Championship division 4
+	16/02/2003  22  7  Taree RSL Summer Open 2003
+	28/01/2003  44  7  st George Summer Open 2002/2003
+QLD
+	31/10/2002  12  5  2002 BCC Steinitz Memorial
+	24/11/2002  17  6  2002 Queensland Under 1850 Championship
+	27/11/2002  20  8  2002 Redcliffe Club Championship
+	26/01/2003  16  6  2003 Arthur Phillip Memorial Open
+	19/11/2002  29  7  Buderim "Val Valentine" Club Championship 2002
+	09/02/2003  84  6  Gold Coast Tin Cup 2003
+SA
+	24/01/2003  15 11  Australian Juniors 2003 U12 Girls Championships
+	24/01/2003  52 11  Australian Juniors 2003 U12 Open Championships
+	24/01/2003  17 11  Australian Juniors 2003 U18 Girls Championships
+	24/01/2003  80 11  Australian Juniors 2003 U18 Open Championships
+	24/01/2003  20  9  Evelyn Koshnitsky Open 2003
+	09/09/2002  61  7  Pennant Matches SA 2002
+TAS
+	29/01/2003  10  9  HICC One Hour Tourney 2002
+	04/12/2002   6 10  Lton Winter Tournament
+	04/12/2002   8  7  Qg3 90 min tournament
+VIC
+	29/11/2002  10  9  Albury Club Championship
+	05/12/2002  13  6  Ballarat Summer Swiss
+	20/12/2002  73  6  Box Hill Xmas Swiss (Friday)
+	17/12/2002  29  6  Box Hill Xmas Swiss (Tuesday)
+	04/12/2002  49  9  Dandenong Club Championship
+	05/12/2002  17  7  Frankston Club Championship
+	11/12/2002  26  7  Hobsons Bay Club Championship
+	15/12/2002   8  7  John McNab Memorial
+	02/12/2002  28  9  Melbourne Chess Club Open
+	16/09/2002   8  7  Melbourne Chess Club Under 1600
+	16/09/2002  22  7  Melbourne Chess Club Under 2000
+	28/07/2002  10  9  Melbourne FIDE Rating Tournament (July)
+	12/12/2002  15  5  Mentone Club Championship
+	22/12/2002  38  7  VCA Christmas Swiss
+	26/11/2002   8  1  VCA Winter Interclub - B Grade Final
+WA
+	05/12/2002   9  9  Respini A
+	05/12/2002  10  9  Respini B
+	05/12/2002  10  9  Respini C
+	05/12/2002   8  7  Respini D
+	05/12/2002   8  7  Respini E
+	01/12/2002  26  6  Xmas Open 2002
+
+

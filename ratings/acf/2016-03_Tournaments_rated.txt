@@ -1,0 +1,73 @@
+Tournaments Rated
+ACF
+	06/12/2015  29  5  2015 ASTC Primary Girls
+	06/12/2015  26  5  2015 ASTC Primary Open
+	06/12/2015  28  5  2015 ASTC Secondary Girls
+	06/12/2015  28  5  2015 ASTC Secondary Open
+	12/01/2016  34 11  2016 Australian Championships
+	24/01/2016  19  8  2016 Australian Junior Championship Under 08 & 10 Girls
+	18/01/2016  16  9  2016 Australian Junior Championship Under 08 Open
+	18/01/2016  52  9  2016 Australian Junior Championship Under 10 Open
+	24/01/2016  18  9  2016 Australian Junior Championship Under 12 & 14 Girls
+	24/01/2016  70  9  2016 Australian Junior Championship Under 12 Open
+	24/01/2016  39  9  2016 Australian Junior Championship Under 14 Open
+	24/01/2016   9  9  2016 Australian Junior Championship Under 16 & 18 Girls
+	24/01/2016  31  9  2016 Australian Junior Championship Under 16 Open
+	24/01/2016  13  9  2016 Australian Junior Championship Under 18 Open
+	12/01/2016 149 11  2016 Australian Reserves
+ACT
+	02/12/2015  27  6  2015 CCC Hellenic Cup
+	07/12/2015  25  7  2015 TCC Hetherington Memorial
+	08/12/2015  20  6  2015 UC Swiss Festive Fun
+	21/02/2016  33  9  2016 ACT Championship
+	13/01/2016  48  7  2016 January Holiday Bootcamp Longtime
+NSW
+	06/12/2015  48  6  2015 NSWCA Country Teams Championship
+	09/06/2015  23  7  2015 Newcastle City Championship
+	15/09/2015  27  7  2015 Newcastle District Championship
+	07/12/2015  10  9  2015 Rooty Hill Club Championship Div B
+	07/12/2015  10  9  2015 Rooty Hill Club Championship Div C
+	07/12/2015  20  9  2015 Rooty Hill Club Championship Div D
+	07/12/2015  10  9  2015 Rooty Hill Club Championships Div A
+	26/01/2016  49  7  2015-16 St George Summer Open
+	24/01/2016  69  7  2016 Australia Day Weekender
+	14/02/2016  48  6  2016 Newcastle Open
+	09/02/2016  14  5  2016 WGong Collies January Swiss
+QLD
+	24/11/2015  13  6  2015 Buderim Springs
+	01/11/2015  23  7  2015 Nudgee Jnr Invitational
+	01/12/2015   9  5  2015 Townsville Club Championship
+	14/02/2016  75  6  2016 Gold Coast Tin Cup
+	31/01/2016  10  9  2016 Kangaroo Point Challenge
+	21/02/2016  24  6  2016 Mackay Open
+	24/02/2016  22  6  2016 Redcliffe Summer Swiss
+TAS
+	07/12/2015  11  6  2015 Davenport DOP Classic
+	08/02/2016   8  7  2016 Royal Hobart Regatta Weekender (Classical)
+VIC
+	20/12/2015  10  9  2015 Australasian Masters GM Norm Event
+	20/12/2015  10  9  2015 Australasian Masters IM Norm Event
+	04/01/2016   8  7  2015 Ballarat Koelle A
+	04/01/2016  11  7  2015 Ballarat Koelle B
+	10/09/2015  22  7  2015 Ballarat Teters Memorial
+	11/12/2015  43  9  2015 Box Hill Open
+	06/12/2015  44  6  2015 Box Hill Sunday Arvo T4
+	30/12/2015  55  7  2015 Canterbury Summer Swiss
+	02/12/2015  27  7  2015 Dandenong Memorial Tournament
+	03/12/2015  11 11  2015 Hobson Bay Junior Championship
+	03/12/2015   9  9  2015 Hobson Bay Junior Reserves
+	01/12/2015   8  7  2015 Hobsons Bay Club Championship
+	01/12/2015   8  7  2015 Hobsons Bay Reserves
+	07/12/2015   6  5  2015 MCC Bob Brooking Group A
+	07/12/2015   6  5  2015 MCC Bob Brooking Group B
+	07/12/2015   6  5  2015 MCC Bob Brooking Group C
+	07/12/2015   6  5  2015 MCC Bob Brooking Group D
+	07/12/2015   6  5  2015 MCC Bob Brooking Group E
+	07/12/2015   5  5  2015 MCC Bob Brooking Group F
+	06/12/2015  42  6  2015 MCC Christmas Swiss
+	22/01/2016   6 10  2016 Australian Women's Master's Reserves
+	22/01/2016  10  9  2016 Australian Women's Masters
+	17/02/2016  26  5  2016 Dandenong Summer Swiss
+	26/01/2016  42  7  2016 MCC Australia Day Weekender
+WA
+	21/02/2016  19  6  2016 Perth Open

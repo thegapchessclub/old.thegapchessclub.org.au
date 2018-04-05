@@ -1,0 +1,78 @@
+Tournaments Rated
+ACF
+	07/12/2014  28  5  2014 ASTC Primary Girls Individual
+	07/12/2014  27  5  2014 ASTC Primary Open Individual
+	07/12/2014  22  5  2014 ASTC Secondary Girls Individual
+	07/12/2014  28  5  2014 ASTC Secondary Open Individual
+	19/01/2015  24  9  2015 Australian Junior Championship Under 08 Open
+	19/01/2015  52  9  2015 Australian Junior Championship Under 10 Open
+	19/01/2015  16  9  2015 Australian Junior Championship Under 10/08 Girls
+	25/01/2015  68  9  2015 Australian Junior Championship Under 12 Open
+	25/01/2015  39  9  2015 Australian Junior Championship Under 14 Open
+	25/01/2015  21  9  2015 Australian Junior Championship Under 14&12 Girls
+	25/01/2015  25  9  2015 Australian Junior Championship Under 16 Open
+	25/01/2015  14  9  2015 Australian Junior Championship Under 18 Open
+	25/01/2015  12  8  2015 Australian Junior Championship Under 18/16 Girls
+	11/01/2015  44 11  2015 Australian Minor
+	11/01/2015 106 11  2015 Australian Open
+ACT
+	02/12/2014  32  6  2014 CCC Hellenic Cup
+	07/12/2014  26  7  2014 Hetherington Memorial
+	26/02/2015  30  7  2015 CCC Canberra Cup
+NSW
+	26/11/2014  11  7  2014 Central Ccoast Club Championship
+	26/09/2014  13  6  2014 NSW Girls Championship - Under 18
+	08/12/2014  10  9  2014 Rooty Hill Club Championships Div C
+	08/12/2014  18  9  2014 Rooty Hill Club Championships Div D
+	08/12/2014   9  9  2014 Rooty Hill FIDE rated Club Championships A
+	08/12/2014  10  9  2014 Rooty Hill RSL Chess Club Championship Div B
+	03/12/2014  21  7  2014 Ryde Eastwood Classic
+	16/12/2014  12  5  2014 WGong Collies - December Swiss
+	27/01/2015  40  7  2014-15 St. George Summer Open
+	03/10/2014  43 11  2015 City of Sydney Junior Championship - Under 12
+	28/12/2014   2  6  2015 City of Sydney Junior Championship - Under 12 Playoff
+	03/10/2014  27  8  2015 City of Sydney Junior Championship - Under 15
+	03/10/2014   7  7  2015 City of Sydney Junior Championship - Under 18
+	25/01/2015  40  7  2015 NSWCA Australia Day Weekender
+	15/02/2015  45  6  2015 Newcastle Open
+	10/02/2015  14  5  2015 WGong Collies - January Swiss
+	01/12/2014  19  9  Harbord Diggers Chess Club Spring Tournament
+QLD
+	28/11/2014  12  7  2014 Redcliffe Club Championship
+	26/01/2015  32  7  2015 Australia Day Open
+	01/02/2014  40  6  2015 Gold Coast Tin Cup
+	22/02/2015  20  6  2015 Mackay Open
+SA
+	15/12/2014  20  7  2014 Lidums Australian Junior Masters
+	15/12/2014  24 10  2014 Lidums Australian Junior Masters U1600
+	15/12/2014   8  7  2014 Lidums Australian Young Masters
+TAS
+	14/12/2014  22  8  2014 Neville Ledger
+VIC
+	21/12/2014  10  9  2014 Australasian Masters GM Norm Tournament
+	21/12/2014  10  9  2014 Australasian Masters IM Norm Tournament
+	13/12/2014  54  9  2014 Box Hill OPEN
+	07/09/2014  24  7  2014 Box Hill Sunday Arvo Swiss T1
+	07/12/2014  19  7  2014 Box Hill Sunday Arvo Swiss T2
+	30/12/2014  77  7  2014 Canterbury Summer Swiss
+	03/12/2014  27  7  2014 Dandenong Mirko Kudric Memorial
+	29/11/2014   8  7  2014 Hobsons Bay Cadets
+	02/12/2014   8  7  2014 Hobsons Bay Club Championship
+	02/12/2014  11  7  2014 Hobsons Bay Club Reserves
+	29/11/2014   9  9  2014 Hobsons Bay Junior Championship
+	29/11/2014   8  7  2014 Hobsons Bay Junior Reserves
+	17/11/2014   6  5  2014 MCC Bob Brooking Group A
+	17/11/2014   6  5  2014 MCC Bob Brooking Group B
+	17/11/2014   6  5  2014 MCC Bob Brooking Group C
+	17/11/2014   6  5  2014 MCC Bob Brooking Group D
+	17/11/2014   6  5  2014 MCC Bob Brooking Group E
+	17/11/2014   6  5  2014 MCC Bob Brooking Group F
+	17/11/2014   6  5  2014 MCC Bob Brooking Group G
+	07/12/2014  47  6  2014 MCC Christmas Swiss
+	18/12/2014   8  5  2014 Mentone Open
+	20/01/2015  10  9  2015 Australian Women's Masters
+	18/02/2015  28  5  2015 Dandenong Summer Swiss
+	26/01/2015  55  7  2015 MCC Australia Day Weekender
+WA
+	07/12/2014  22  6  2014 XMAS Open
+	15/02/2015  28  6  2015 Perth Open

@@ -1,0 +1,60 @@
+Tournaments Rated
+ACF
+	02/12/2007  30  5  2007 ASTC Primary Girls Championship
+	02/12/2007  28  5  2007 ASTC Primary Open Championship
+	02/12/2007  29  5  2007 ASTC Secondary Girls Championship
+	02/12/2007  29  5  2007 ASTC Secondary Open Championship
+	11/01/2008  38 11  2007-2008 Australian Championships
+	11/01/2008  64 11  2007-2008 Australian Major
+	11/01/2008  37 11  2007-2008 Australian Minor
+	25/01/2008  19 11  2008 Australian Juniors Under 12 Girls
+	25/01/2008  55 11  2008 Australian Juniors Under 12 Open
+	25/01/2008  13 13  2008 Australian Juniors Under 18 Girls
+	25/01/2008  81 11  2008 Australian Juniors Under 18 Open
+ACT
+	05/12/2007  12  7  2007 Charity Cup
+	02/12/2007  48  6  2007 Vikings Weekender
+NSW
+	27/01/2008  56  7  Australia Day Weekender 2008
+	10/12/2007  13  9  Berger Cup 2007
+	12/02/2008  10  9  Coffs Harbour Club Championship 2007
+	14/12/2007  16  7  Gosford Championship 2007
+	03/12/2007  39  9  Manly Spring Tournament 2007
+	02/12/2007  41  5  NSW Country Teams Chapionship 2007
+	17/02/2008  24  7  Newcastle Open 2008
+	29/01/2008  39  7  St. George Summer Open 2007-08
+	10/02/2008  28  7  Toukley Open 2008
+QLD
+	18/12/2007   4  6  2007 Townsville Round Robin Division One
+	18/12/2007   3  6  2007 Townsville Round Robin Division Three
+	18/12/2007   4  6  2007 Townsville Round Robin Division Two
+	28/01/2008  10  9  2008 Australia Day Weekender Division 1
+	28/01/2008  10  9  2008 Australia Day Weekender Division 2
+	20/02/2008  14  6  2008 Redcliffe Summer Swiss
+	03/12/2007  10  9  Junior Masters A T4 2007
+	03/12/2007  10  8  Junior Masters B T4 2007
+	03/12/2007  15  8  Junior Masters C T4 2007
+	17/02/2008  61  6  Tin Cup 2008
+TAS
+	18/02/2008  13 13  HICC One Hour 2007
+	21/12/2007   9  9  Launceston Round Robin
+	10/02/2008  24  6  Launceston Weekender 2008
+VIC
+	15/02/2008   2  2  2007 Noble Park Club Championship Playoff
+	14/12/2007  33  5  Box Hill Christmas Swiss
+	18/12/2007  35  7  Canterbury Summer Swiss
+	08/01/2008  62  7  Canterbury Summer Swiss Weekender
+	05/12/2007  41  9  Dandenong Club Championship
+	18/12/2007  10  5  Latrobe Valley Summer Swiss
+	28/01/2008  22  7  MCC Australia Day Weekender
+	16/12/2007  34  5  MCC Christmas Swiss
+	17/12/2007   8  7  MCC Fitzroy Open (Group 1)
+	17/12/2007   8  7  MCC Fitzroy Open (Group 2)
+	17/12/2007   8  7  MCC Fitzroy Open (Group 3)
+WA
+	05/12/2007   8  7  2007 Perth Club BRR A Division
+	05/12/2007   8  7  2007 Perth Club BRR B Division
+	09/12/2007  24  6  2007 Xmas Open
+	17/02/2008  32  6  2008 Kingsley Open
+	04/12/2007  10  7  City of Fremantle 2007
+

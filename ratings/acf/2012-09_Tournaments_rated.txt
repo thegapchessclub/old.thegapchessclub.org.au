@@ -1,0 +1,94 @@
+Tournaments Rated
+ACT
+	06/06/2012  36  6  2012 ANU Autmn Swiss
+	29/07/2012  52  7  2012 ANU Open
+	29/07/2012  36  7  2012 ANU Under 1600
+	22/08/2012  41  6  2012 ANU Winter Swiss
+	30/07/2012  19  7  2012 Brindabella Snows
+	18/07/2012  24  7  2012 Cold Comfort Cup
+	03/07/2012  19  7  2012 Uni of Canberra / Belconnen CC Championship
+NSW
+	25/04/2012   2  2  2011 City of Sydney Junior Championships Playoffs - U12
+	07/05/2012   2  4  2011 City of Sydney Junior Championships Playoffs - U15
+	19/05/2012   4  3  2011 City of Sydney Junior Championships Playoffs - U18
+	11/06/2012  92  7  2012 Integra NSW Open
+	11/06/2012  52  7  2012 Integra NSW Open U1600
+	13/07/2012  24 10  2012 NSW Junior Championship - Under 12
+	13/07/2012  31  9  2012 NSW Junior Championship - Under 18
+	24/07/2012  10  9  2012 NSW State Championship
+	30/07/2012  37 10  2012 NSWCA Grade 1400
+	01/08/2012  28  9  2012 NSWCA Grade 1600
+	31/07/2012  53 10  2012 Saints Internal Teams Individual
+	07/06/2012  26  9  Asian Amateur Championship 2012
+	07/06/2012  24  9  Asian Seniors Championship 2012
+	24/07/2012  12  1  Central Coast V Rest 2012
+	02/07/2012  10  6  City of Newcastle 2012
+	21/06/2012  18  9  East Sydney Autumn Chess Challenge 2012
+	24/07/2012  12  7  Gosford District 2012
+	31/07/2012  18  9  Norths Open Seniors Tournament 2012
+	02/08/2012  38  9  Parramatta Club Swiss 2012
+	10/07/2012  36  7  Rooty Hill Winter Swiss 2012
+	26/08/2012  39  7  St. George Weekender 2012
+	31/07/2012  10  7  Wgong 2012 Club Championship
+	05/06/2012  11  5  Wgong 2012 Grading Swiss
+QLD
+	28/06/2012  19  5  2012 BCC Lasker Memorial
+	16/08/2012  28  7  2012 BCC Winter Swiss
+	19/08/2012  33  6  2012 Bundaberg Open
+	24/06/2012  57  6  2012 Gold Coast Open
+	24/06/2012  39  7  2012 Gold Coast Open Under 1000
+	24/06/2012  41  7  2012 Gold Coast Open Under 1600
+	22/08/2012  14  6  2012 Lou Wilkinson Memorial
+	12/08/2012  14  6  2012 Mackay Open
+	05/08/2012  14  6  2012 North Queensland Open
+	29/06/2012  33  7  2012 Qld Juniors U12
+	29/06/2012  25  8  2012 Qld Juniors U18/16/14
+	11/06/2012  33  6  2012 Queensland Minor
+	24/07/2012  17  7  2012 Sunshine Coast Chess Championship
+	01/06/2012   9  9  2012 The Gap Chess Club - Flood Cup
+SA
+	08/07/2012  20  7  Checkmate Challengers 2012
+	08/07/2012  18  7  Checkmate Open 2012
+	26/06/2012  60  9  Inter-club A 2012
+	26/06/2012  44  9  Inter-club B 2012
+	27/07/2012  20  9  Modbury Chess Championship 2012
+	10/06/2012  19  6  Queen'S Birthday 2012
+TAS
+	30/05/2012  10  9  Burnie Club Championships 2012
+	11/06/2012  16  6  Tasmanian Open 2012
+VIC
+	18/07/2012   9  9  2012 Ballarat Chess Club Championship
+	18/07/2012  10  9  2012 Ballarat Club Championship Reserves
+	22/06/2012  58  7  2012 Box Hill Friday Grades tournament
+	19/06/2012  18  6  2012 Canterbury Juniors Autumn SWISS
+	15/07/2012  51  5  2012 Croydon Chess Classic
+	22/06/2012  31  7  2012 Dandenong Autumn Open
+	20/08/2012   8  7  2012 Dandenong Grades A Grade
+	13/08/2012   8  7  2012 Dandenong Grades B Grade
+	13/08/2012   8  7  2012 Dandenong Grades C Grade
+	13/08/2012   4  6  2012 Dandenong Grades Premier Grade
+	16/06/2012  16  7  2012 Hobson Bay Cup
+	19/08/2012  49  5  2012 Hobsons Bay Best in the West
+	16/08/2012   6  5  2012 Hobsons Bay Teams Championship - Board 1
+	16/08/2012   5  5  2012 Hobsons Bay Teams Championship - Board 2
+	16/08/2012   5  5  2012 Hobsons Bay Teams Championship - Board 3
+	16/08/2012   6  1  2012 Hobsons Bay Teams Championship - Final
+	02/07/2012  31  9  2012 MCC City of Melbourne Open
+	23/08/2012   2  4  2012 Melbourne Chess Club Championship Playoff
+	27/08/2012  28  7  2012 Melbourne Chess Club Edwin Malitis Memorial
+	23/06/2012  35  7  2012 Noble Park Open
+	05/06/2012  24  7  2012 Ranges Open
+	01/07/2012 121  7  2012 Vic Juniors U12 Championships
+	13/07/2012  54  9  2012 Vic Juniors Under 18
+	11/06/2012  85  7  2012 Vic Open Championship
+	26/06/2012  12 11  2012 Victorian Championships
+	01/07/2012  22  9  2012 Victorian Reserves
+WA
+	04/06/2012  19  6  2012 Foundation Day Tournament
+	06/06/2012  22  1  2012 Harris-Edwardes Interclub part 2
+	16/08/2012   6  1  2012 Harris-Edwardes Interclub part 2
+	08/08/2012  21  7  2012 Mary Thomson Cup
+	02/08/2012  34  7  2012 Metro Open
+	17/06/2012  29  6  2012 South West Open
+	06/05/2012   5  5  2012 WA Junior Championship U18
+

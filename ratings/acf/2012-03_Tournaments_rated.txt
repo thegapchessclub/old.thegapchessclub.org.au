@@ -1,0 +1,60 @@
+Tournaments Rated
+ACF
+	04/12/2011  19  6  2011 National Schools Finals Primary Girls
+	04/12/2011  28  5  2011 National Schools Finals Primary Open
+	04/12/2011  24  5  2011 National Schools Finals Secondary Girls
+	04/12/2011  29  5  2011 National Schools Finals Secondary Open
+	08/01/2012  30 11  2011-12 Australian Championship
+	08/01/2012  76 11  2011-12 Australian Reserves
+	16/01/2012  60  9  2012 Australian Junior Under 10 Championships
+	22/01/2012  68  9  2012 Australian Junior Under 12 Championships
+	22/01/2012  18  9  2012 Australian Junior Under 14 & 12 Girls Championships
+	22/01/2012  43  9  2012 Australian Junior Under 14 Championships
+	22/01/2012  12 11  2012 Australian Junior Under 16 Championships
+	22/01/2012   8 10  2012 Australian Junior Under 16 and 18 Girls
+	22/01/2012  21  9  2012 Australian Junior Under 18 Championships
+	16/01/2012  27  9  2012 Australian Junior Under 8 Championships
+	16/01/2012  20  9  2012 Australian Junior Under 8 and 10 Girls
+	23/01/2012 148  9  Queenstown 2012
+ACT
+	07/12/2011  20  5  2011 Hellenic Cup
+	12/12/2011  17  7  2011 Hetherington Memorial
+	13/12/2011  12  6  2011 Swiss Festive Fun
+	26/02/2012  31  9  2012 ACT Championship
+NSW
+	04/12/2011  44  6  2011 Country Teams Tournament
+	24/01/2012  42  7  2011/12 St. George Summer Open
+	26/02/2012  39  6  2012 Hornsby Weekender
+	21/02/2012  12  7  2012-WGong-Handicap
+	29/01/2012  74  7  Australia Day Weekender 2012
+	12/12/2011  18  9  Easts Spring Chess Challenge 2011
+	12/02/2012  43  6  Newcastle Open 2012
+QLD
+	06/12/2011  11  7  2011 Townsville Championships
+	19/02/2012  50  6  2012 Bill Powell Open
+	12/02/2012  60  6  Gold Coast Tin Cup 2012
+	13/12/2011  10  9  Ruth Coxhill Memorial 2011
+	22/02/2012  17  6  Summer Swiss
+SA
+	11/12/2011  10  9  Lidums Australian Girls Masters
+	11/12/2011  10  9  Lidums Australian Junior Masters 2011
+	11/12/2011  10  9  Lidums Australian Young Masters 2011
+	11/12/2011  10  9  Lidums South Australian Junior Masters 2011
+TAS
+	14/12/2011  13 13  2011 Robert Isted
+VIC
+	18/12/2011  10  9  1112 Australasian masters
+	12/12/2011  64  6  2011 Canterbury Day Nighter
+	19/12/2011   6  5  Bob Brooking Round Robin 1
+	19/12/2011   6  5  Bob Brooking Round Robin 2
+	19/12/2011   6  5  Bob Brooking Round Robin 3
+	29/01/2012  25  7  MCC Australia Day Weekender
+	18/12/2011  28  6  MCC Christmas Swiss
+	04/12/2011  28  5  Mildura Open
+	06/12/2011  40  6  Ranges Christmas Hamper 2011
+WA
+	04/12/2011  22  6  2011 Christmas Open
+	08/12/2011  10  9  2011 Metro Respini A
+	08/12/2011  12 11  2011 Metro Respini D
+	19/02/2012  16  6  2012 Kingsley Open
+

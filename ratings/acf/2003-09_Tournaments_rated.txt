@@ -1,0 +1,89 @@
+Tournaments Rated
+ACT
+	16/07/2003  39  9  2003 ACT Junior Championships
+	20/07/2003  87  7  2003 ANU Open
+	20/06/2003  10  9  2003 Belconnen First Division
+	20/06/2003  10  9  2003 Belconnen Fourth Division
+	20/06/2003  10  9  2003 Belconnen Premier
+	20/06/2003  10  9  2003 Belconnen Second Division
+	20/06/2003  10  9  2003 Belconnen Third Division
+	27/06/2003  29  8  2003 NJCC Term 2
+	20/06/2003  15  6  2003 Voldemort Goblet
+	04/06/2003  26  7  Canberra Cup 2003
+	23/07/2003  16  7  Cold Comfort Cup 2003
+	02/06/2003  22  9  Tuggeranong Club Championship
+	28/07/2003  22  7  brindabella snows
+NSW
+	15/06/2003  17  7  2001 RSL June Open
+	13/07/2003  55  6  2003 Fairfield Winter Cup
+	24/04/2003  13  6  Cardiff Championship 2003
+	15/07/2003  17  7  Central Coast District Championship 2003
+	22/07/2003  18  1  Central Coast Versus the Rest 2003
+	23/06/2003  14  7  City of Newcastle 2003
+	12/08/2003  44  7  Coal City Open
+	10/06/2003   9  9  Coffs Harbour 60 Minute
+	30/06/2003  25  9  Hakoah Cup 2003
+	28/07/2003  17  7  JEVC Memorial Swiss
+	17/08/2003  42  6  Lajos Steiner Memorial
+	22/07/2003  27  9  NSW Grade Match 2003 Open Division
+	02/08/2003  50 10  NSW Grade Match 2003 Under 1400 Division
+	24/07/2003  49  9  NSW Grade Match 2003 Under 1600 Division
+	06/08/2003  67 11  NSW Grade Match 2003 Under 1800 Division
+	28/07/2003  36 10  NSW Grade Match 2003 Under 2000 Division
+	18/07/2003  48 10  NSW Junior Championship - Under 12  2003
+	18/07/2003  40  9  NSW Junior Championship - Under 18   2003
+	09/06/2003  80  7  NSW Open Champs 2003
+	06/08/2003  12 11  Ryde Eastwood Club Championship Prelim A
+	23/07/2003  10  9  Ryde Eastwood Club Championship Prelim B
+	06/08/2003  12 11  Ryde Eastwood Club Championship Prelim C
+	29/06/2003  38  7  Wollongong - 2003 - Common Man
+	10/06/2003  18 10  Wollongong Collies - 2003 KO
+QLD
+	09/06/2003  30  6  2003 Darling Downs Open
+	22/06/2003  31  7  2003 Gold Coast Open
+	22/06/2003  71  7  2003 Gold Coast Under 1600
+	20/07/2003   8  7  2003 Queensland Championship
+	04/07/2003  19  8  2003 Queensland Junior Championship
+	13/07/2003  27  6  2003 Queensland Reserve Championship
+	04/07/2003  23  8  2003 Queensland Under 14 Championship
+	29/05/2003  22  5  BCC Autumn Swiss 2003
+	03/07/2003  20  5  BCC Winter Swiss 2003
+	29/06/2003  85  7  Caloundra Open 2003
+	30/05/2003  16  8  Flood Cup 2003
+	03/08/2003  14  7  Mackay Open 2003
+SA
+	18/07/2003  27  8  2003 State U18 Championship
+	01/07/2003  84 10  Grade Matches 2003
+	13/07/2003  74  7  University Open 2003
+TAS
+	04/06/2003   7  7  BCC_Champ03A
+	04/06/2003   7  7  BCC_Champ03B
+	31/03/2003   7  7  Lton Summer03A
+	31/03/2003   7  7  Lton Summer03B
+	09/06/2003  31  6  Tasmanian Championship 2003
+VIC
+	11/07/2003  16  5  Albury Rated Tournament
+	12/07/2003  13 11  Australian Masters
+	13/06/2003  97 10  Box Hill Club Championship
+	08/07/2003  10  9  Box Hill FIDE Rating Tournament (April)
+	24/06/2003  24  8  Box Hill Winter Swiss
+	07/07/2003  38  9  City of Melbourne Open
+	25/06/2003  55  7  Dandenong Autumn Open
+	19/06/2003  19  7  Hobsons Bay Qualifying
+	17/06/2003  10  9  Latrobe Valley Club Champiosnhip
+	12/06/2003  16  6  Mentone Club Championship
+	19/06/2003  17  7  Ripponlea Club Championship
+	09/06/2003  66  7  Victorian Open Championship
+WA
+	06/08/2003  26  9  2003 West Australian Chess Championships
+	06/07/2003  14  6  Bob Pilgrim Cup
+	24/04/2003  10  9  Metro B
+	24/04/2003  12 11  Metro C
+	24/04/2003  10  9  Metro D
+	10/05/2003  47  7  Metro Open 2003
+	20/05/2003  14  6  Midland Club
+	02/05/2003   8  7  State Junior 2003
+	01/05/2003  13  7  The Fremantle Open 2003
+	02/06/2003  23  6  foundation day
+
+

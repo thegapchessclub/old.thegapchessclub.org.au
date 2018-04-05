@@ -1,0 +1,69 @@
+Tournaments Rated
+ACF
+	05/12/2004  25  5  2004 National Schools Finals Primary Girls Division
+	05/12/2004  27  5  2004 National Schools Finals Primary Open Division
+	05/12/2004  25  5  2004 National Schools Finals Secondary Girls Division
+	05/12/2004  30  5  2004 National Schools Finals Secondary Open Division
+	21/01/2005   4  3  2005 Australian Junior Under 12 Girls Finals Division 1
+	21/01/2005   4  3  2005 Australian Junior Under 12 Girls Finals Division 2
+	17/01/2005   8  7  2005 Australian Junior Under 12 Girls Prelim
+	21/01/2005  59  9  2005 Australian Junior Under 12 Open
+	21/01/2005  17 11  2005 Australian Junior Under 18 Girls
+	21/01/2005  86 11  2005 Australian Junior Under 18 Open
+	09/01/2005  75 11  2005 Lidums Australian Open
+	05/01/2005  12  8  2005 Mt Buller Minor
+	04/02/2005  60  9  2005 Oceania Zonal Open
+	04/02/2005  17  9  2005 Oceania Zonal Womens
+ACT
+	07/12/2004  18  5  2004 Griffin Tournament
+	05/12/2004  29  6  2004 Tuggeranong Vikings Weekender
+NSW
+	07/12/2004   6  5  2004 Collies Champs 01-06
+	07/12/2004   6  5  2004 Collies Champs 07-12
+	07/12/2004   6  5  2004 Collies Champs 13-18
+	12/12/2004  58  7  2004 Fairfield Summer Cup
+	04/11/2004  10  6  2004 Newcastle District Championship
+	06/12/2004  23  9  Berger Cup 2004
+	07/12/2004  10  9  Coffs Harbour Club Championship 2004
+	06/12/2004  33 11  Manly Spring Tournament
+	05/12/2004  39  7  NSW Country Teams 2004
+	30/01/2005  77  7  NSWCA Australia Day Weekender 2005
+	06/01/2005  73  9  NSWJCL New Year Tournament - 4-6/1/2005
+	06/02/2005  36  7  Newcastle Open 2005
+	01/12/2004   5  5  Ryde Eastwood Club Champ Final 2004
+	01/02/2005  39  7  St. George Summer Open 2004-2005
+	20/02/2005  48  7  Toukley 2005
+QLD
+	11/10/2004  21  8  Gold Coast Junior Masters Term 4
+	13/02/2005  87  6  Gold Coast Tin Cup 2005
+SA
+	29/01/2005  17  8  City of Adelaide Junior
+TAS
+	14/02/2005  11 11  HICC One Hour Tourney 2004
+VIC
+	17/12/2004  13 13  Albury Club Championship
+	03/12/2004   6  5  Albury Junior Club Championship
+	16/12/2004  13  7  Ballarat John Holmes Memorial
+	10/12/2004  80  5  Box Hill Christmas Swiss
+	14/12/2004  41  6  Box Hill Summer Swiss
+	08/12/2004  52  9  Dandenong Club Championship
+	11/12/2004  20  7  Elwood Club Championship
+	21/10/2004  20  7  Frankston Club Championship
+	15/12/2004   8  7  Hobsons Bay Club Championship
+	15/12/2004  16  7  Hobsons Bay Reserve Club Championship
+	14/12/2004  12  5  Latrobe Valley Summer Swiss
+	23/01/2005  21  5  MCC Australia Day Weekender
+	19/12/2004  48  5  MCC Christmas Swiss
+	20/12/2004  30  7  MCC Fitzroy Open
+	02/11/2004  16  7  MCC Melbourne Cup Weekender
+	23/08/2004  14  7  Melbourne Under 1600
+	23/08/2004  26  7  Melbourne Under 2000
+WA
+	18/12/2004  11 11  2004 Respini A
+	18/12/2004  12 11  2004 Respini B
+	18/12/2004  12 11  2004 Respini C
+	18/12/2004  11 11  2004 Respini D
+	18/12/2004  10  9  2004 Respini E
+	05/12/2004  27  6  2004 Xmas Open
+	16/12/2004  14  7  City Of Fremantle 2004
+

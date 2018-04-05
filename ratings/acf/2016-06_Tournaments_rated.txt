@@ -1,0 +1,97 @@
+Tournaments Rated
+ACT
+	22/05/2016  29  6  2016 ACT Autumn Junior Weekender
+	16/03/2016  18  7  2016 ANU Challengers
+	16/03/2016   8  7  2016 ANU Masters
+	14/04/2016  39  7  2016 April Boot Camp LT Tournament
+	16/03/2016  35  8  2016 CCC Canberra Cup
+	10/05/2016  14  6  2016 Murphy Memorial
+	28/03/2016  79  7  2016 O2C Doeberl Cup Major
+	28/03/2016  76  7  2016 O2C Doeberl Cup Minor
+	28/03/2016  57  9  2016 O2C Doeberl Cup Premier
+	24/03/2016  59  6  2016 O2C Doeberl Cup Under 1200
+	30/05/2016  39  9  2016 Tuggeranong Club Championships
+	22/03/2016  17  7  2016 University Cup
+	07/03/2016  38  7  2016 Woden Cup
+NSW
+	17/05/2016 104  1  2016 Big Board Match Norths v St. George (Norths Leg)
+	19/04/2016   5  5  2016 CCLCCC RR Group A
+	19/04/2016   6  5  2016 CCLCCC RR Group B
+	02/05/2016  13  7  2016 Canterbury Club Championships
+	18/04/2016  25  7  2016 City of Sydney Championship
+	13/03/2016  36  6  2016 Dubbo Open
+	08/03/2016  14  6  2016 Gosford CCLC Summer Swiss
+	30/05/2016   7 11  2016 Harbord Club Championships Grade B
+	09/05/2016  10  9  2016 Harbord Diggers Club Championships Grade A
+	24/05/2016  30  1  2016 Little Board First leg Norths v Harbord
+	25/03/2016  10  6  2016 Newcastle Under 1200
+	10/05/2016  10  9  2016 Norths Club Championship
+	10/05/2016  10  9  2016 Norths Club Championship Candidates
+	10/05/2016  10  9  2016 Norths Club Championship Reserves A
+	10/05/2016   9  9  2016 Norths Club Championship Reserves B
+	10/05/2016  10  9  2016 Norths Club Championship Reserves C
+	10/05/2016  10  9  2016 Norths Club Championship Reserves D
+	10/05/2016  27  9  2016 Norths Club Championship Swiss Division
+	21/03/2016  45  7  2016 Rooty Hill Autumn Swiss
+	23/05/2016  51  7  2016 Rooty Hill Winter Swiss
+	27/04/2016   9  9  2016 Ryde Eastwood Prelim A
+	27/04/2016   9  9  2016 Ryde Eastwood Prelim B
+	27/04/2016  10  9  2016 Ryde Eastwood Prelim C
+	10/05/2016  10  9  2016 St. George Club Championship
+	10/05/2016  10  9  2016 St. George Club Championship Division 2
+	10/05/2016  10  9  2016 St. George Club Championship Division 3
+	10/05/2016  10  9  2016 St. George Club Championship Division 4
+	10/05/2016  10  9  2016 St. George Club Championship Division 5
+	10/05/2016  10  9  2016 St. George Club Championship Division 6
+	10/05/2016  10  9  2016 St. George Club Championship Division 7
+	29/03/2016  19  7  2016 WGONG Handicap - Rating
+	24/05/2016  17  5  2016 WGong Collies - May Swiss
+QLD
+	15/05/2016  45  6  2016 51st Peninsula Open
+	10/04/2016  38  6  2016 April Open
+	05/05/2016  33  7  2016 BCC Autumn Swiss
+	17/03/2016  35  7  2016 BCC Summer Swiss
+	02/05/2016  57  7  2016 Churchie International
+	24/04/2016  60  7  2016 GC Junior Champs U10-U18
+	20/05/2016  28  7  2016 GCCC Challenger
+	13/03/2016  16  6  2016 Junior Masters Term 1
+	02/05/2016  61  7  2016 Queensland Open
+	23/02/2016  19  6  2016 SCC Endless Summer
+	06/04/2016  27  6  2016 Tal Memorial
+	27/05/2016  18  8  2016 The Gap Chess Club - Flood Cup
+	01/03/2016  10  5  2016 Townsville Summer Swiss
+	18/05/2016  23  4  2016 Viv Greenelsh Memorial
+SA
+	28/04/2016  30  5  2016 City of Adelaide Junior Under 21
+	29/03/2016  18  9  2016 South Australian Candidates
+	29/03/2016  10  9  2016 South Australian Chess Championship
+TAS
+	25/05/2016  10  1  2016 Ledger Challenge Match 1
+	14/03/2016  15  7  2016 Tasmanian Open
+VIC
+	14/03/2016 147  7  2016 Ballarat Begonia Open
+	03/03/2016  31  7  2016 Ballarat Spielvogel Memorial
+	18/03/2016  56  7  2016 Box Hill Autumn Cup
+	20/03/2016  39  6  2016 Box Hill Sunday Arvo T1
+	17/03/2016  25  6  2016 Croydon Open
+	12/05/2016  22  5  2016 Croydon President's Cup
+	20/04/2016  31  7  2016 Dandenong Easter Cup
+	01/03/2016  20  5  2016 Hobsons Bay Honourable Bob
+	12/04/2016  30  5  2016 Hobsons Bay Purdy Cup
+	25/04/2016  68  7  2016 MCC ANZAC Day Weekender
+	11/04/2016  46  9  2016 MCC Club Championship
+	12/05/2016   7  7  2016 Mentone Club Championship
+	16/04/2016  32  9  2016 Noble Park Club Championship
+	22/03/2016  10  5  2016 Ranges NY Classic
+WA
+	03/04/2016  12  6  2016 Gufeld Cup
+	04/05/2016  10  9  2016 Metro CC Div A
+	12/05/2016   9  9  2016 Metro CC Div B
+	12/05/2016  10  9  2016 Metro CC Div C
+	12/05/2016  10  9  2016 Metro CC Div D
+	18/05/2016  28  7  2016 Perth Club Championship
+	19/03/2016   8  7  2016 Perth Club Div A
+	16/03/2016   8  7  2016 Perth Club Div B
+	16/03/2016  16  7  2016 Perth Club Div C
+	05/05/2016  28  7  2016 Southern Suburbs Open
+	15/04/2016  21  7  2016 WA Junior Championship Under 14,16,18

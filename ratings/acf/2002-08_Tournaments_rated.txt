@@ -1,0 +1,142 @@
+Tournaments Rated
+ACF
+	11/05/2002  10  9  2002 Oceanic Womens Zonal Championship
+	11/05/2002  26  9  2002 Oceanic Zonal Championship
+	19/05/2002  20  1  Dorothy Dibley ACT V QLD 2002
+	19/05/2002  16  1  Dorothy Dibley NSW V VIC 2002
+	19/05/2002  20  1  Dorothy Dibley WA V SA 2002
+ACT
+	29/06/2002  31  7  2002 ACT Juniors
+	19/07/2002  10  9  2002 Belconnen First Division
+	19/07/2002  10  9  2002 Belconnen Premier
+	21/06/2002  30  5  2002 Belconnen Second Division
+	27/03/2002  22  9  2002 Canberra Chess Club Championship
+	01/04/2002  56  7  2002 Doeberl Cup Major Division
+	01/04/2002  57  7  2002 Doeberl Cup Minor Division
+	01/04/2002  43  7  2002 Doeberl Cup Open Division
+	12/04/2002  18  9  2002 Norths Junior CC Term 1
+	28/06/2002  19  7  2002 Norths Junior CC Term 2
+	19/07/2002  26  4  2002 Swanson Sprint
+	17/05/2002  56  7  Belconnen Chess Club Championship
+	15/05/2002  16  7  Canberra Cup 2002
+	03/07/2002  16  7  Cold Comfort 2002
+	03/06/2002  20  9  Tuggeranong Club Championship
+NSW
+	19/05/2002  39  7  2002 May Weekender
+	09/06/2002  56  7  2002 Queens Birthday Weekender
+	12/04/2002  21  6  2002 Sydney WSCP Division A
+	18/04/2002  43  7  2002 Sydney WSCP Division B
+	17/04/2002  39  7  2002 Sydney WSCP Division C
+	06/05/2002  29 10  2002 Sydney WSCP Division D
+	14/05/2002  70  1  Big Board First Leg St. George v North Sydney
+	01/04/2002  57  7  Canterbury Easter Cup 2002
+	01/07/2002  15  9  Caravel Cup  2002 Open
+	01/07/2002  28  9  Caravel Cup 2002 under 1750
+	20/05/2002  39 15  Central Coast InterClub Teams 2002
+	24/07/2002  14  7  Central Coast Leagues Summer 2002
+	28/04/2002  29  9  City Of Sydney 2002 OPEN
+	28/04/2002  26  9  City of Sydney 2002 - U1700
+	14/07/2002  68  7  Fairfield RSL Winter Cup 2002
+	25/03/2002  14  9  Henry Greenfield Cup 2002 Open
+	25/03/2002  26  9  Henry Greenfield Cup 2002 Under 1750
+	07/05/2002  22  1  Knights vs Dragons (St George)
+	05/05/2002  23  7  Laurieton May Open
+	13/05/2002  10  9  Manly Championship Grade A
+	13/05/2002  11 11  Manly Championship Grade B
+	01/04/2002   7 11  Manly Championship Grade C
+	25/03/2002   7  7  Manly Championship Grade D
+	15/04/2002   8  1  Manly Championship Grade Play Offs Round 1
+	15/04/2002   2  1  Manly Championship Play Off Round 3
+	15/04/2002   6  1  Manly Championship Play Offs Round 2
+	26/05/2002  41  6  Mingara May Major
+	19/07/2002  46  9  NSW Junior Championships 2002 - Under 18
+	19/07/2002  62 10  NSW Under 12 Championships 2002
+	30/06/2002  11 11  North Sydney 2002 Candidates
+	07/05/2002  12 11  North Sydney 2002 Championship
+	30/07/2002  11 11  North Sydney 2002 Reserves A
+	30/06/2002  11 11  North Sydney 2002 Reserves C
+	30/06/2002   9  9  North Sydney Championship 2002 Reserves D
+	30/06/2002   9  9  North Sydney Championships 2002 Reserves D2
+	30/06/2002  11 11  North sydney 2002 Reserves B
+	17/07/2002  42  9  Ryde Eastwood Club Championship 2002
+	03/04/2001  10  9  St George Chess Club Championship Division 1
+	03/04/2002  10  9  St. George Club Champs 2002 Division 2
+	03/04/2002  10  9  St. George Club Champs 2002 Division 3
+	03/04/2002  10  9  St. George Club Champs 2002 Division 4
+	03/04/2002  10  9  St. George Club Champs 2002 Division 5
+	22/06/2002  22  7  Taree Open 2002
+	03/06/2002  10  5  Taree RSL 2002 Championship
+	13/10/2001  10 18  Toukley White Knight Chess Champ 2001
+	20/11/2001  12 22  Toukley White Knight Chess Prestige 2001
+	22/05/2002  10  9  UNSW Invitational 2002
+	21/05/2002  17 10  Wollongong Collegians - 2002 Knock-Out
+	22/04/2002  22  7  Wyong Shire Cup
+QLD
+	28/11/2001  24  8  2001 Redcliffe CC Championship
+	21/03/2002  31  7  2002 City of Brisbane Championship
+	23/06/2002  26  7  2002 Gold Coast Open
+	23/06/2002  87  7  2002 Gold Coast Under 1600
+	28/06/2002  27  8  2002 Qld Junior Championship
+	21/07/2002  44  7  2002 Queensland Open Championship
+	26/05/2002  10  6  2002 Queensland Women's Championship
+	10/06/2002  16  6  2002 The Gap Open
+	06/05/2002  58  7  37th Redcliffe Peninsula Open
+	30/05/2002  18  5  BCC Autumn Swiss 2002
+	18/04/2002  18  4  BCC Summer Swiss 2002
+	24/04/2002  22  8  City of Redcliffe 2002 Tal Memorial
+	19/03/2002  20  6  Eric Potter Memorial
+	28/04/2002  60  7  Gold Coast Junior Championships
+	11/06/2002  22  8  Leo Sonners Townsville Chess Championship
+	30/06/2002  80  7  Noosa Open
+	12/06/2002   9  6  Redcliffe CC : Autumn Swiss -- A
+	12/06/2002  11  6  Redcliffe CC : Autumn Swiss -- B
+	19/03/2002  16  7  Suncoast CC President's Challenge 2002
+	07/06/2002  10  9  The Gap CC 2002 Flood Cup
+	31/03/2002  39  7  Toowoomba CC : 2002 DARLING DOWNS OPEN
+	15/10/2001  12  6  Toowoomba Club Championship 2001
+	07/12/2001  13  5  Toowoomba Summer Swiss
+SA
+	20/05/2002  30  7  Adelaide Cup Weekend 2002
+	30/04/2002  11  6  April Training Under18
+	26/11/2001  35  7  Division 1 2001
+	26/11/2001  35  7  Division 2 2001
+	09/06/2002  22  6  QUEEN'S BIRTHDAY 2002
+	26/03/2002  14  7  S. A. CANDIDATES CHESS CHAMPIONSHIP 2002
+	26/03/2002   8  7  SOUTH AUSTRALIAN CHESS CHAMPIONSHIP 2002
+	14/07/2002  63  7  University Open 2002
+TAS
+	18/06/2002   6  5  Launceston Mid Year Tournament
+	30/03/2002   6 10  Launceston double round robin
+	30/05/2002   7 14  QG3 Perpetual Open
+	10/06/2002  19  6  Tas Champs '02
+VIC
+	13/07/2002  12 11  Australian Masters 2002
+	03/03/2002  13  5  Ballarat Pre-Begonia Swiss
+	30/11/2001  13  6  Ballarat Summer Swiss
+	22/03/2002 117  8  Box Hill Autumn Cup
+	07/06/2002 127  9  Box Hill Club Championship
+	25/06/2002  10  9  Box Hill FIDE Rated Tournament (April)
+	26/03/2002  31  7  Box Hill Simpson's Sally
+	25/06/2002  31  8  Box Hill Trevor's Trial
+	26/06/2002  62  7  Dandenong Autumn Open
+	01/05/2002  51  5  Dandenong Easter Cup
+	24/04/2002  24  5  Hobsons Bay CJS Purdy Cup
+	22/04/2002  47  9  Melbourne Chess Club Championship
+	10/06/2002  62  7  Victorian Open Championship
+WA
+	03/06/2002  23  6  Foundation Day
+	01/05/2002  11  7  Fremantle Club Championship 2002
+	01/04/2002  18  6  Gufeld Cup 2002
+	25/04/2002  12 11  Metro Club A
+	25/04/2002  12 11  Metro Club B
+	25/04/2002  12 11  Metro Club C
+	25/04/2002  14 13  Metro Club D
+	12/04/2002  15  7  Midland Challengers 02
+	28/06/2002  24  6  Midland Club Championship
+	12/04/2002   8  7  Midland Masters
+	10/03/2002  32  6  South West Open Seniors 2002
+	03/05/2002   9  7  State Junior Open
+	03/05/2002   8  7  State Under 14's
+	24/03/2002   7  3  WA State Women's Champ.
+
+

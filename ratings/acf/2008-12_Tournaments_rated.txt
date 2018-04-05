@@ -1,0 +1,103 @@
+Tournaments Rated
+ACT
+	01/10/2008  61  9  2008 ACT Junior Championship
+	26/10/2008  35  6  2008 ACT Under 14 Championship
+	15/08/2008  14  7  2008 Belconnen Open
+	15/10/2008  10  9  2008 City Club/Griffin King
+	13/08/2008  10  9  2008 Cold Comfort Cup
+	19/11/2008  14  7  2008 Murphy Memorial
+	29/09/2008  25  7  2008 Murrumbidgee Masters
+	03/10/2008  16  7  2008 Swanson Sprint
+	30/11/2008  58  6  2008 Vikings Weekender
+NSW
+	07/09/2008  40  6  2008 Blayney Chess Open
+	10/10/2008  37 11  2008 City of Sydney Junior Championship - Under 12
+	10/10/2008  22  8  2008 City of Sydney Junior Championship - Under 15
+	10/10/2008  16  8  2008 City of Sydney Junior Championship - Under 18
+	04/11/2008  62  9  2008 Ford Memorial Centenary
+	03/10/2008  10  5  2008 NSW Girls Championship - Under 18
+	10/10/2008   3  3  2008 NSW Girls Championship - Under 18 play0ff part1
+	04/11/2008  49  9  2008 St. George Swiss
+	16/11/2008  29  6  2008 Western Region InterClub
+	30/09/2008   8  7  2008 Wgong Collies Champs - A Grade
+	30/09/2008  10  7  2008 Wgong Collies Champs - B Grade
+	25/11/2008  92  1  Big Boards Second Leg Norths V St. George 2008
+	24/11/2008  18  7  Cantebury Open 2008
+	22/09/2008  18  7  Canterbury Winter Swiss 2008
+	09/11/2008  32  7  Fishers Ghost Open 2008
+	02/11/2008  23  7  Gosford Open 2008
+	22/09/2008  10  9  Hakoah Chess Club Championship 2008
+	17/10/2008  10  9  Integra NSW State Championship 2008
+	17/10/2008  10  9  Integra NSW State Reserves 2008
+	13/10/2008  38  1  Little board Second Leg Manly V Norths 2008
+	22/09/2008  11  7  Mingara Club Champs 2008
+	27/11/2008  27  9  Parramatta Summer Cup 2008
+	17/10/2008  23  7  Parramatta Winter Cup 2008
+	24/11/2008   7  7  Rooty Hill Club Championship 2008 A div
+	24/11/2008   7  7  Rooty Hill Club Championship 2008 B div
+	24/11/2008   8  7  Rooty Hill Club Championship 2008 C div
+	22/09/2008  20  7  Rooty Hill OPEN 2008
+	19/11/2008   6  5  Ryde Eastwood Club Championship Final 2008
+	06/10/2008  52  7  Ryde Eastwood Open 2008
+QLD
+	13/11/2008  25  7  2008 BCC Championship
+	25/09/2008  26  4  2008 BCC Steinitz Memorial
+	16/11/2008   6  5  2008 Qld Veterans Championship
+	09/11/2008   8  7  2008 Queensland Championship
+	28/09/2008  10  6  2008 Queensland Girls Championship
+	09/11/2008  23  7  2008 Queensland Minor Championship
+	13/11/2008  12  7  2008 Redcliffe Club Championship
+	05/10/2008  46  6  2008 Wendy Terry Memorial
+	30/11/2008  48  6  Darling Downs Gold Cup 2008
+	15/09/2008  13  8  Junior Masters A T3 2008
+	15/09/2008  14  8  Junior Masters B T3 2008
+	21/09/2008  51  6  Nell van de Graaff Classic
+	17/09/2008  10  9  Ruth Coxhill Memorial 2008
+	16/09/2008  19  6  Suncoast Club Championship
+	05/08/2008  13  7  Townsville Championships
+SA
+	16/09/2008  29  9  City of Adelaide 2008
+	05/10/2008  24  6  Labour Day Weekend 2008
+	22/08/2008  13  9  Modbury Chess Championship 2008
+	04/11/2008  48  7  Pennant A 2008
+	04/11/2008  35  7  Pennants B 2008
+TAS
+	10/09/2008  21  9  2008 BCC Robert Isted
+	26/10/2008  21  6  2008 Burnie Shines Weekender
+	05/10/2008  14  6  2008 U18 Tasmanian Junior Championships
+	24/11/2008  14 13  HICC One Hour 2008
+VIC
+	30/09/2008  10  9  Box Hill FIDE Rated Tournament
+	12/09/2008  38  6  Box Hill Grades Tournament
+	31/10/2008  60  7  Box Hill Open
+	02/09/2008  21  5  Canterbury Grades Tournament
+	27/11/2008  14  7  Croydon Club Championship
+	11/09/2008  19  7  Croydon Open
+	04/11/2008  59  7  Elwood Bendigo Bank Championship
+	31/10/2008  12  7  Frankston Club Championship
+	25/11/2008   8  7  Hobsons Bay/Yarraville Club Championship
+	22/11/2008   4  6  Hobsons Bay/Yarraville Junior Club Championship
+	22/11/2008   8  7  Hobsons Bay/Yarraville Junior Reserves Club Championship
+	16/09/2008  20  5  Hobsons Bay/Yarraville Koshnitsky Cup
+	25/11/2008  11  7  Hobsons Bay/Yarraville Reserves Club Championship
+	21/09/2008  22  5  MCC Memorial Weekender
+	27/10/2008  23  8  Melbourne Open
+	18/09/2008   5  5  Mentone Club Championship
+	18/10/2008   3  6  Noble Park Club Championship Playoff
+	11/10/2008  12 11  Noble Park Grades Tournament (A Grade)
+	11/10/2008  11 11  Noble Park Grades Tournament (B Grade)
+	03/07/2008   9  9  Ranges Club Championship
+	09/11/2008  11 11  Victorian Championship
+	09/11/2008  12 11  Victorian Championship Reserves
+	05/10/2008  24  6  Victorian Country Championship
+WA
+	31/08/2008  29  9  2008 WA Open Chess Championship
+	12/10/2008  22  6  2008 Willetton Open
+	27/11/2008  10  9  Metro Respini A
+	27/11/2008   9  9  Metro Respini C
+	27/11/2008  10  9  Metro Respini C
+	10/09/2008   8  7  Perth Club BRR Div A
+	10/09/2008   5  5  Perth Club BRR Div B
+	10/09/2008   4  3  Perth Club BRR Div C Round 1
+	10/09/2008   4  3  Perth Club BRR Div C Round 2
+

@@ -1,0 +1,2 @@
+[20-Dec-2009 13:48:26] PHP Warning:  PHP Startup: mm_create(0, /session_mm_cgi-fcgi1607) failed, err mm:core: failed to open semaphore file (Permission denied) in Unknown on line 0
+[23-Dec-2009 17:59:47] PHP Warning:  PHP Startup: mm_create(0, /session_mm_cgi-fcgi1607) failed, err mm:core: failed to open semaphore file (Permission denied) in Unknown on line 0

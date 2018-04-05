@@ -1,0 +1,96 @@
+Tournaments Rated
+ACT
+	11/08/2008  26  9  2008 ACT Championship
+	27/07/2008  57  7  2008 ANU Minor
+	27/07/2008  39  7  2008 ANU Open
+	20/08/2006  23  6  2008 ANU Winter Swiss
+	27/06/2008  14  7  2008 Belconnen Premier
+	11/06/2008  31  7  ANU Autumn Swiss 2008
+NSW
+	09/06/2008  50  7  2008 Integra NSW Open
+	09/06/2008  60  7  2008 Integra NSW Under 1600
+	18/07/2008  59 10  2008 NSW Junior Championship - Under 12
+	18/07/2008  39  9  2008 NSW Junior Championship - Under 18
+	30/07/2008  53 10  2008 NSWCA Grade Matches Under 1400
+	17/07/2008  64  9  2008 NSWCA Grade Matches Under 1600
+	23/07/2008  42 10  2008 NSWCA Grade Matches Under 1800
+	24/07/2008  32 10  2008 NSWCA Grade Matches Under 2100
+	03/06/2008  15  6  2008 Wollongong KO - Swiss
+	20/07/2008  38  7  5th Coffs Harbour Open
+	18/07/2008   4  1  Albury Rated Tournament 2008
+	30/06/2008  10  9  Coffs Harbour 60 Minute
+	26/07/2008  13  7  Ettalong Championship 2008
+	12/08/2008  18  7  Gosford District Championship 2008
+	12/08/2008   4  3  Gosford Grades 2008 Division 2 Round 2
+	12/08/2008   4  3  Gosford Grades 2008 Division 2 round 1
+	12/08/2008   5  5  Gosford Grades 2008 Division 3
+	30/06/2008  13  9  Hakoah Cup 2008
+	29/07/2008   2  2  Norths Chess Club Championships 2008 Candidates Play-off
+	05/08/2008  18  7  Wgong 2008 Grading Swiss
+	03/06/2008  23 10  Wollongong 2008 KO
+QLD
+	26/06/2008  10  4  2008 BCC Lasker Memorial A
+	26/06/2008  17  4  2008 BCC Lasker Memorial B
+	30/07/2008  26  5  2008 BCC Winter Swiss
+	31/05/2008  57  6  2008 Broadbeach Cup
+	17/08/2008  16  6  2008 Bundaberg Open
+	17/08/2008  16  6  2008 Bundaberg Open Under 1000 Division
+	29/06/2008  26  7  2008 Gold Coast Open
+	29/06/2008  18  6  2008 Gold Coast Under 1000
+	29/06/2008  30  7  2008 Gold Coast Under 1600
+	24/08/2008  28  6  2008 State Library of Queensland CAQ Interclub Over 1600
+	24/08/2008  43  5  2008 State Library of Queensland CAQ Interclub Under 1600
+	31/08/2008  24  6  2008 Surfers Paradise Open
+	31/08/2008  53  6  2008 Surfers Paradise Under 2000
+	10/06/2008  18  6  Black Swan Memorial Tournament
+	23/06/2008  13  8  Junior Masters A T2 2008
+	23/06/2008   9  7  Junior Masters B Rev T2 2008
+	23/06/2008  18  8  Junior Masters C T2 2008
+	19/07/2008  26  6  Kings of chess Club Champioship 2008
+	04/07/2008  19  8  Queensland Junior Championships 2008 U18/U16/U14
+	29/08/2008  13  7  The Gap Chess Club - Stuart Wilson Trophy 2008
+SA
+	06/06/2008  54  7  Freytag Checkmate Challengers 2008
+	06/06/2008  55  7  Freytag Checkmate Open 2008
+	09/06/2008  15  6  QUEEN'S BIRTHDAY 2008
+	24/06/2008  52  9  SA Interclub A 2008
+	24/06/2008  32  9  SA Interclub B 2008
+TAS
+	09/07/2008  17 17  Burnie CC Champs 2008
+	18/08/2008  12 11  HICC Champs 2008
+	17/08/2008  25  6  Hobart Weekender 2008
+	09/06/2008  25  6  Tasmanian Open 2008
+VIC
+	01/08/2008  10 15  Ballarat Club Championship
+	27/06/2008  60  9  Box Hill Club Championship
+	29/08/2008  98  5  CV Winter Interclub
+	17/06/2008  33  7  Canterbury Autumn Swiss
+	30/06/2008  27  9  City of Melbourne Open
+	26/06/2008  16  5  Croydon Botvinnik Tournament
+	25/06/2008  33  7  Dandenong Autumn Open
+	27/08/2008   8  7  Dandenong Grades Tournament (A Grade)
+	27/08/2008   8  7  Dandenong Grades Tournament (B Grade)
+	27/08/2008   8  7  Dandenong Grades Tournament (C Grade)
+	27/08/2008   7  7  Dandenong Grades Tournament (Premier Grade)
+	05/04/2008   8  7  Elwood Open
+	14/06/2008   7  7  Elwood Round Robin
+	13/07/2008  32  7  Ergas Training Tournament
+	20/07/2008  43  5  Geelong Open
+	24/08/2008  21  5  Hobsons Bay/Yarraville Best in the West
+	15/07/2008  19  7  Hobsons Bay/Yarraville Cup
+	25/08/2008  16  7  Melbourne Under 2000
+	12/07/2008  28  9  Noble Park Open
+	01/07/2008  67  7  Victorian Junior Under 12 Championship
+	01/07/2008  28  9  Victorian Junior Under 18 Championship
+	09/06/2008  69  7  Victorian Open
+WA
+	02/06/2008  16  6  2008 Foundation Day Tournament
+	29/06/2008   8  7  2008 Huntingdale Masters
+	25/06/2008  21  7  2008 Mary Thomson Cup
+	24/07/2008  30  7  2008 Metro Open
+	23/07/2008  24  1  Harris - Edwardes Interclub
+	12/06/2008  12 11  Metro Club Championship A
+	12/06/2008  11 11  Metro Club Championship B
+	12/06/2008  12 11  Metro Club Championship D
+	12/06/2008  12 11  Metro Club Championship E
+

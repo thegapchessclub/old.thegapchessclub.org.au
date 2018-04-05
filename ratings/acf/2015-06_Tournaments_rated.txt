@@ -1,0 +1,98 @@
+Tournaments Rated
+ACT
+	09/12/2014  14  6  2014 BCC/UC Swiss Festive Fun
+	29/04/2015  32  7  2015 ACT April Holiday Tournament
+	24/05/2015  38  6  2015 ACT Autumn Junior Weekender
+	09/03/2015  34  7  2015 ACT Championship
+	25/03/2015  19  7  2015 ANU Challengers
+	25/03/2015   8  7  2015 ANU Masters
+	20/05/2015  30  9  2015 Camberra Club Championship
+	04/04/2015  37  6  2015 Games Capital Doeberl Cup U1200
+	12/05/2015  13  7  2015 Murphy Memorial
+	06/04/2015  74  7  2015 O2C Doeberl Cup Major
+	06/04/2015  58  7  2015 O2C Doeberl Cup Minor
+	06/04/2015  70  9  2015 O2C Doeberl Cup Premier
+	18/05/2015  31 10  2015 Tuggeranong Club Championship
+	09/03/2015  33  7  2015 Tuggeranong Woden Cup
+	24/03/2015  13  7  2015 University Cup
+NSW
+	19/05/2015 108  1  2015 Big Boards Saints vs Norths
+	20/04/2015  11  7  2015 Canterbury Club Championship
+	23/03/2015  40  7  2015 City of Sydney Championship
+	22/03/2015  25  6  2015 Dubbo Open
+	31/03/2015   4  3  2015 Gosford CCLC Round Robin A
+	27/04/2015   4  3  2015 Gosford CCLC Round Robin A1
+	30/04/2015   4  3  2015 Gosford CCLC Round Robin B
+	21/05/2015   4  3  2015 Gosford CCLC Round Robin B1
+	10/03/2015  17  6  2015 Gosford CCLC Summer Swiss
+	11/05/2015   9  9  2015 Harbord Club Championships Grade A
+	20/04/2015   8  7  2015 Harbord Club Championships Grade B
+	12/05/2015  32  1  2015 Little Boards - Norths v Harbord
+	14/04/2015   8  7  2015 Newcastle Under 1200
+	05/05/2015  12 11  2015 Norths Club Championship
+	05/05/2015  12 11  2015 Norths Club Championship Candidates
+	05/05/2015  12 11  2015 Norths Club Championship Reserves A
+	05/05/2015  11 11  2015 Norths Club Championship Reserves B
+	05/05/2015  12 11  2015 Norths Club Championship Reserves C
+	05/05/2015  10  9  2015 Norths Club Championship Reserves D
+	12/05/2015   2  2  2015 Norths Club Championship Reserves E Playoff
+	05/05/2015   8  7  2015 Norths Club Championship Reserves E1
+	05/05/2015  10  9  2015 Norths Club Championship Reserves E2
+	30/03/2015  51  7  2015 Rooty Hill Autumn Swiss
+	13/05/2015  11 11  2015 Ryde Eastwood Prelim A
+	13/05/2015  11 11  2015 Ryde Eastwood Prelim B
+	13/05/2015  12 11  2015 Ryde Eastwood Prelim C
+	05/05/2015  10  9  2015 St. George Club Championship
+	05/05/2015  10  9  2015 St. George Club Championship Division 2
+	05/05/2015  10  9  2015 St. George Club Championship Division 3
+	05/05/2015  10  9  2015 St. George Club Championship Division 4
+	05/05/2015  10  9  2015 St. George Club Championship Division 5
+	05/05/2015   6 10  2015 St. George Club Championship Division 6
+	25/05/2015  15  5  2015 WGong Collies Grading Swiss
+	31/03/2015  19  7  2015 WGong Handicap - Rating
+QLD
+	17/05/2015  69  6  2015 50th Peninsula Open
+	07/05/2015  45  7  2015 BCC Autumn Swiss
+	19/03/2015  37  7  2015 BCC Summer Swiss
+	24/02/2015  15  6  2015 Endless Summer
+	08/03/2015  18  7  2015 GC Juniors Masters Term 1
+	03/05/2015  41  7  2015 Gold Coast Junior Champs 10-18
+	15/03/2015  40  6  2015 March Open
+	29/05/2015  18  7  2015 The Gap Chess Club - Flood Cup
+	21/04/2015  10  5  2015 Townsville Autumn Swiss
+	03/03/2015   8  5  2015 Townsville Summer Swiss
+	25/04/2015   8  5  2015 Veterans
+SA
+	31/03/2015  14  9  2015 South Australian Candidates
+	31/03/2015  10  9  2015 South Australian Championship
+TAS
+	09/03/2015  16  7  2015 Tas Championship
+VIC
+	19/12/2014   9  9  2014 Glen Eira Championship
+	19/12/2014  11  9  2014 Glen Eira Reserves
+	09/03/2015 103  7  2015 Ballarat Begonia Open
+	20/03/2015  51  7  2015 Box Hill Autumn Cup
+	22/03/2015  16  6  2015 Box Hill Sunday Arvo Term 1
+	26/03/2015  21  7  2015 Croydon Open
+	21/05/2015  18  5  2015 Croydon Presidents Cup
+	15/04/2015  35  7  2015 Dandenong Easter Cup
+	27/03/2015  18  7  2015 Glen Eira Summer Swiss
+	03/03/2015  22  5  2015 Hobsons Bay Honorable Bob
+	14/04/2015  23  5  2015 Hobsons Bay Purdy Cup
+	26/04/2015  56  6  2015 MCC ANZAC Day Weekender
+	13/04/2015  54  9  2015 Melbourne Chess Club Championship
+	18/04/2015  46  9  2015 Noble Park Club Championship
+WA
+	06/05/2015  10  9  2015 Metro CC Div A
+	06/05/2015  10  9  2015 Metro CC Div B
+	06/05/2015   9  9  2015 Metro CC Div C
+	06/05/2015  10  9  2015 Metro CC Div D
+	06/05/2015   9  9  2015 Metro CC Div E
+	18/03/2015   8  7  2015 Perth A Division
+	18/03/2015   8  7  2015 Perth B Division
+	18/03/2015   8  7  2015 Perth C Division
+	20/05/2015  26  7  2015 Perth Club Championship
+	18/03/2015   7  7  2015 Perth D Division
+	14/04/2015  27  7  2015 Southern Suburbs Open
+	10/05/2015   8  7  2015 WA Closed Championship
+	10/05/2015  13  7  2015 WA Reserves Championship

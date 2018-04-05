@@ -1,0 +1,91 @@
+Tournaments processed
+A00001, 03/12/1999, Norths CC 99-4
+A00002, 08/12/1999, Griffin
+A00003, 03/12/1999, Norths J C  C
+A00004, 29/11/1999, Hetherington Memorial
+A00006, 12/12/1999, Vikings
+A00008, 02/12/1999, Wind-down
+A00010, 14/02/1999, Kambah Spring Weekender
+A00012, 10/12/1999, Ginninderra Cup
+N00001, 25/11/1999, Ryde Eastwood Club Champ Final
+N00002, 14/11/1999, NSWCA November Weekender 1999
+N00003, 09/11/1999, Coffs Harbour Championship 99
+N00004, 14/12/1999, Wollongong Collegians Champ 99
+N00005, 12/12/1999, Taree V Laurieton Match 1999
+N00006, 22/11/1999, Fishers Ghost Open 1999
+N00007, 06/12/1999, Manly Warringah Spring 1999
+N00008, 21/11/1999, Taree Spring Open 1999
+N00009, 06/12/1999, Berger Cup Open 1999
+N00010, 06/12/1999, Berger Cup U1600 1999
+N00011, 09/01/2000, Australian Championship 1999
+N00012, 09/01/2000, Australian Seniors Champ 1999
+N00013, 09/01/2000, Australian Reserves Champ 1999
+N00014, 09/01/2000, Australian Minors Champ 1999
+N00015, 30/11/1999, Central Coast Open 1999
+N00016, 15/12/1999, Koala Masters 1999
+N00017, 06/02/2000, Newcastle Open 2000
+N00018, 20/02/2000, NSW U18 Girls Champ 99 Playoff
+N00019, 20/02/2000, Taree Summer Open 2000
+N00020, 01/01/2000, Australian Rapid Champ 1999
+N00021, 05/12/1999, NSW Country Teams 1999
+N00022, 23/02/2000, Ryde Eastwood Rapid 2000
+Q00001, 27/01/2000, Atherton Wardrop Cup 99
+Q00002, 06/02/2000, Gold Coast Tin Cup 2000
+Q00003, 25/01/2000, Buderim New Mill
+Q99039, 27/06/1999, Noosa Open 99
+Q99040, 08/09/1999, Atherton Classic Summer 99
+Q99041, 07/10/1999, Brisbane CC Championship 1999
+Q99042, 08/10/1999, Flood Cup The Gap CC 99
+Q99043, 08/10/1999, Flood Cup PlayOff 99
+Q99044, 15/10/1999, Atherton Club Championship 99
+Q99045, 23/10/1999, Athtn Tabllnd HS BB Trophy
+Q99046, 24/10/1999, Qld Veterans and Disabled 99
+Q99047, 28/10/1999, Brisbane CC 4-Pack
+Q99048, 07/11/1999, Maroochy Black Swan Open
+Q99049, 28/11/1999, Northside Under 1700
+Q99050, 08/12/1999, Bullwinkle v ACGS
+Q99051, 31/12/1999, Bullwinkle's 99 InterClub
+Q99052, 31/12/1999, City of Redcliffe Club Ch 99
+Q99053, 19/03/1999, Noosa Hot 1999 
+Q99054, 05/05/1999, Buderim Autumn 1999
+Q99055, 04/06/1999, Buderim Fall Leaf
+Q99056, 18/08/1999, Buderim Winter 1999
+Q99570, 22/12/1999, Towards 2000
+S99209, 31/12/1999, 1999 Modbury Club Championship
+S99210, 23/11/1999, 1999 Pennant Matches 
+T00001, 01/11/1999, Tasmanian Open Champs 1999
+T00002, 23/11/1999, L'ton Reverse Colour Tourney
+T00003, 30/11/1999, Burnie Allegro Tourney Pt1
+T00004, 30/11/1999, Burnie Allegro Tourney Pt2
+T00005, 14/02/2000, SBCC 1 hour tourney '99
+T00006, 16/02/2000, HICC 1 hour tourney '99
+V00001, 24/06/1999, Frankston Club Y2K Tournament
+V00002, 13/10/1999, Hobsons Bay Spring Cup
+V00003, 31/10/1999, Melbourne Cup Weekender
+V00004, 29/11/1999, Melbourne Chess Club Open
+V00005, 08/12/1999, Dandenong Championship
+V00006, 09/07/1999, Australian Masters
+V00007, 21/11/1999, Geelong Open
+V00008, 17/12/1999, Box Hill Xmas Swiss Division A
+V00009, 17/12/1999, Box Hill Xmas Swiss Division B
+V00010, 08/12/1999, Hobsons Bay Championship
+V00011, 19/12/1999, Elwood Xmas Swiss
+V00012, 23/01/2000, Australian Junior C'Ship U18
+V00013, 11/12/1999, Box Hill Xmas Swiss Novice
+V00014, 14/12/1999, Victorian Championship
+V00015, 14/12/1999, Victorian Championship Reserve
+V00016, 14/12/1999, Victorian C'Ship Qualifying
+V00017, 23/01/2000, Aus Junior C'ship U18 Girls
+V00018, 23/01/2000, Aus Junior C'ship U12 Girls
+V00019, 23/01/2000, Australian Junior C'ship U12
+V00020, 01/02/2000, Box Hill Summer Allegro No1
+V00021, 13/01/2000, Australian Junior C'ship Rapid
+W99001, 20/11/1999, CHART-ZYLSTRA CHALLENGE 
+W99002, 09/12/1999, CHRISTMAS OPEN
+W99003, 12/12/1999, CITY OF FREMANTLE
+W99004, 09/12/1999, MIDLAND XMAS 1999
+W99005, 02/12/1999, BUNBURY CLUB SUMMER
+W99006, 09/12/1999, RESPINI A
+W99007, 09/12/1999, RESPINI B
+W99008, 09/12/1999, RESPINI C
+W99009, 09/12/1999, RESPINI D

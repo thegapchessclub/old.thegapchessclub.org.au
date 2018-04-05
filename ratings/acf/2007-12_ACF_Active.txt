@@ -1,0 +1,3049 @@
+Players Active from 01/Mar/2006
+*ACTCA
+	1329?    0  1363   74 Ahmadi, Mahmood
+	   2g    0            Ahsan, Moin
+	1403??   0  1210   60 Al-Hindawi, Ahmed
+	1750!!  35   429   22 Ali, Mosaddeque
+	   3g    0            Alubale, Victor
+	   1g    8            Armstrong, Eric
+	1787     0   372   16 Arsanis, Isaac
+	 955!!  16  1913  106 Baines, Casey
+	1059     4  1807   99 Banu, Mus
+	1687!    6   554   27 Bartlett, Stephen C
+	1330     5  1361   73 Bayliss, Daniel
+	1329!    0  1363   74 Beltrami, Matthew
+	 992!    0  1877  103 Beltrami, Michael
+	1085??   0  1774   97 Biancardi, Waylon
+	 833!    7  2044  118 Bishop, Charles
+	1167!   11  1674   91 Bishop, Joshua
+	1873!    5   259    9 Bliznyuk, Andrey
+	   3g    6            Boland, Matthew
+	   5g    4            Booth, William
+	 914!   10  1958  110 Bradshaw, Peter
+	1706?    0   518   25 Brent, Richard P
+	 520?    0  2251  160 Brett, Geoffrey
+	1972!!  23   167    7 Brown, Andrew
+	 Unr     0            Burns, Julia
+	   2g    0            Cao, Andy
+	 551     6  2233  155 Carty, Jak
+	1348!   15  1319   69 Chibnall, Alana
+	   4g    0            Chipperfield, James
+	1089!!  19  1768   96 Chitturi, Sathya
+	1473!   18  1029   53 Chow, Justin
+	1605     0   715   35 Chuang, Howard
+	 902!    0  1969  112 Clark, David
+	 489?    0  2268  161 Clark, Tim
+	 871?    0  1998  113 Crossfield, Ian
+	1850!!  16   283   10 de Noskowski, Adrian
+	 Unr     0            Dedios, Javier
+	1276??   1  1477   81 Denize, Andre
+	 637!   20  2173  141 Derwent, Ethan
+	 718     7  2127  135 Derwent, Frank
+	 154     0  2411  185 Dodemaide, Zac
+	1171!    0  1664   88 Dunn, Paul
+	 Unr     5            Dunstone, Emma
+	1565!!  20   810   42 Egan, Bill
+	1342     0  1333   70 Eldridge-Smith, Leif
+	1519??   0   925   45 Eldridge-Smith, Veronique
+	 332?    0  2349  172 Evans-Turner, Courtney
+	1350!   17  1316   68 Farley, Andrew
+	2083     0    94    4 Farrell, Roger S
+	 729     0  2120  134 Fayet, Herbert
+	 593!   32  2207  149 Feliu, Angelo
+	   4g    0            Findlay-Steele, Serene
+	 854?    0  2017  115 Fitzpatrick, Adam
+	 225!!  11  2386  179 Flood, Amy
+	 432!   12  2305  167 Flood, Lucinda
+	 425??   0  2308  169 Frost, Amy
+	 188??   0  2400  181 Gakhar, Priyanka
+	1018!!   8  1855  101 Galli, Karl
+	 542?    0  2241  157 Gardiner-Garden, Aelfric
+	   3g    0            Giannasca, Michael
+	1669?    0   594   28 Glenn, Wim
+	   4g    0            Glenn-Hume, David
+	 562     0  2225  152 Goldrick, Edmund
+	1601?    0   727   38 Gowor, Jacob
+	 Unr     0            Gowor, Natalie
+	1824!!  35   321   14 Grcic, Milan
+	1457?    0  1076   54 Grinyer, Peter A
+	 955!    6  1913  106 Gruen, Angus
+	1525!    9   914   44 Guo, Emma
+	   5g    4            Guo, Jamie-Lee
+	1838!    6   301   12 Guo-Yuthok, Sherab
+	 556!   13  2231  153 Gupte, Anand
+	 778!   13  2082  128 Gupte, Niranjan
+	1605     7   715   35 Hans, Sartaj
+	 953?    0  1916  108 Henderson, Jake
+	1778     0   384   17 Hoang, Khoi
+	   4g    2            Hogan, David
+	1440!    0  1112   55 Hoole, Jeyaranjan
+	 Unr     0            Hornby, Scott
+	 389!   11  2323  170 Huang, Gala
+	 594     0  2205  148 Huang, Grace
+	   6g    0            Hwang, Michelle
+	2233!   15    32    1 Ikeda, Junta
+	1474     0  1025   51 Ikeda, Miona
+	 Unr     0            Ikeda, Shun
+	1404     0  1205   59 Jaksa, David
+	1381?    0  1261   62 Jaksic, David
+	1380!!   3  1262   63 Jochimsen, Erik
+	   1g    0            Johnson, Holly
+	 597?    0  2203  147 Jones, Craig
+	   3g    6            Kalele, Nikhil
+	   2g    0            Karattiyattil, Bazli
+	   2g    7            Kethro, Michael
+	1831!    0   308   13 Kevork, Chris
+	 837?    0  2038  117 Khoo, Karen
+	 679?    0  2153  137 Kilgallin, Bryan
+	 796     0  2065  123 King, Mark
+	1214     5  1595   84 Kocz, Jonathon
+	1771     0   397   21 Korda, Augustin
+	 771     0  2090  132 Kristofferson, Alice
+	 187??   0  2401  182 Kwong, Naomi
+	2037!    5   126    6 Lattimore, Tor
+	 436??   0  2303  166 Leahy, Paschal
+	 779     0  2081  127 Lee, Bevan
+	 215     0  2390  180 Lee, Cory
+	 553     0  2232  154 Lee, Joanne
+	 Unr     0            Lennon, David
+	1309!    0  1410   79 Li, James
+	 607     0  2195  144 Litchfield, Frederick
+	1369     0  1281   65 Lloyd, Aidan
+	 796     7  2065  123 Lo, Willis
+	1666?    0   598   29 Maguire, Jesse
+	1305?    0  1420   80 Maher, Richard
+	 964!    7  1902  104 Mantoro, Mamo
+	 869!    7  2002  114 Mantoro, Yutta
+	1352!    0  1313   67 Marks, Joe
+	 776     0  2085  130 Masle-Farquhar, Etienne
+	 543!    5  2239  156 Mason, Joanne
+	 749!   16  2103  133 Mason, Stuart
+	1134!    7  1720   93 McCook, Jake
+	 589??   0  2211  150 McCook, Peter
+	 541!   11  2242  158 McCrow, Callum
+	1048     0  1825  100 McGlynn, Daniel
+	 951?    0  1922  109 McGuirk, Savannah
+	1074!!  14  1784   98 Mengelkamp, Brian
+	1777!    0   387   18 Messina, David
+	1602     0   723   37 Meyer, Bob
+	1504!    0   961   48 Mitchell, Simon
+	 906?    0  1967  111 Mollica, David
+	1715     0   500   24 Morton, Richard
+	1563!    3   815   43 Mugford, Stephen
+	1210!!  17  1603   85 Murphy, Peter R
+	 281?    0  2369  177 Murray, Alison
+	 284     0  2368  176 Nair, Neil
+	1119!    0  1735   95 Nater, Carl
+	 833?    0  2044  118 Neulist, Damien
+	1474     0  1025   51 Nguyen, Quan
+	 964     7  1902  104 Nguyen, Van
+	 812!    0  2056  121 Nicholson, Jennie
+	 168?    0  2406  183 Nicholson, Phillip
+	1356?    0  1304   66 Nijssen, Peter
+	1636!!   0   653   32 Ninchich, Milan
+	 639?    0  2170  139 Norfor, Sarah
+	1131!    0  1723   94 Oliver, Anthony
+	2158!!   0    53    2 Oliver, Gareth
+	 782     0  2076  126 Oliver, Jenni
+	1798!!   0   355   15 Oliver, Shannon [WFM]
+	1510!    6   946   47 Oliver, Tamzin L
+	1375     6  1272   64 Palma, Mario
+	 794!    0  2067  125 Parkes, Carl
+	 717!    2  2128  136 Peterson, John
+	1653!    0   617   30 Petersons, Haralds
+	 470!    7  2279  163 Pianca, Aidan
+	   8g    0            Pipitone, Jevan
+	1775!    5   391   19 Press, Shaun P
+	   2g    7            Pronin, Anthony
+	 643     7  2169  138 Qin, Stefan
+	1634!!   8   658   33 Ramakrishna, Gogulapati
+	 444?    0  2293  164 Rayns, George
+	 330??   0  2352  173 Reading, Brendon
+	1772!!  15   396   20 Reading, Jeremy
+	1436    16  1119   56 Reading, Michael
+	1246     0  1537   83 Redpath, Michael
+	1170     0  1667   89 Redpath, Nicholas
+	2080?    0    99    5 Reeves, Tristan [FM]
+	1337     0  1343   72 Riggs, Robert
+	1695!    6   537   26 Roberts, Stephen A
+	 312??   0  2357  175 Robertson, Andrew
+	1566!    6   804   41 Robertson, Keith
+	 Unr     0            Roncevich, Joel
+	 605!    7  2197  145 Rostov, Gregory
+	 426     7  2306  168 Rostov, Marat
+	1845!!  10   290   11 Rout, Ian C
+	   1g    0            Rowling, James
+	1316!    6  1392   76 Russell, Luthien
+	1515!   12   933   46 Sargent, Bill
+	1587!    0   755   40 Schroedl, Blake
+	1340?    0  1340   71 Scott, Adrian
+	 Unr     6            Searle, Michael
+	 775??   0  2086  131 Selby, Alex
+	1641     0   643   31 Selby, Kenzo
+	1613!   12   693   34 Setiabudi, Allen
+	1168!!  18  1673   90 Setiabudi, Megan
+	 840?    0  2036  116 Shadwell, Natalie
+	1497?    0   978   49 Shawcross, Hartley
+	 616     3  2191  143 Shields, Peter
+	 328     9  2354  174 Siva, Shuvethan
+	 Unr     6            Smith, Aislinn
+	1316     0  1392   76 Smith, Kayleigh
+	 778!   12  2082  128 Spooner, Andrew
+	 351!   12  2341  171 Spooner, Isabelle
+	1747     0   433   23 Sreetharan, Kishore
+	 Unr     0            Sykes, Andrew
+	1589     0   750   39 Taylor, Stephen
+	   2g    0            Taylor, Zoe
+	 799!    6  2060  122 Teymant, Roy
+	   4g    1            Tobler, Peter
+	   2g    0            Tran, Tony
+	 598?    0  2201  146 Tu, Sebastian
+	   5g    0            Vasileva, Vlada
+	1153??   2  1696   92 Vuglar, Shannon
+	 632!    7  2177  142 Walker, Joshua
+	 438     0  2301  165 Wang, Jay
+	 527     0  2249  159 Warner, Jack
+	1414     0  1182   58 Waters, William
+	1182     0  1641   87 Watson, Frank
+	2106!    0    78    3 Wei, Michael
+	1390!    0  1245   61 Wicks, Mark
+	1316!!  16  1392   76 Williams, Bruce
+	 162?    0  2409  184 Williams, Jennifer
+	 639     0  2170  139 Xing, Benjamin
+	1475?    0  1021   50 Xing, Edward
+	1425!!   0  1145   57 Yoon, Sunny
+	1187??   0  1634   86 Youakim, James
+	1935!!  17   191    8 Yuan, Yi
+	 249!    7  2378  178 Zeng, Yi-Jing
+	 484!    7  2272  162 Zeng, Yi-Ying
+	1269     0  1496   82 Zhang, Taiyang
+	 826!   14  2049  120 Zhang, Tony
+	1000!    7  1868  102 Zhang, Yijun
+	 584!    0  2215  151 Zhou, Calvin
+*NSWCA
+	1805!   13   341  149 Abbott, Peter
+	1031!    5  1838  728 Accola, Tom
+	   1g    0            Ackling, David
+	1408!    7  1194  499 Adams, Doug G
+	1323     0  1378  555 Adams, Harvey
+	1636!!   0   653  277 Adams, Jonathan
+	1530!    0   902  373 Adler, David
+	2100     0    84   39 Agulto, Edgardo
+	1500!    6   972  401 Aich, Alexander
+	1024?    6  1848  734 Aich, Ramon
+	1509!!   5   949  391 Alberici, Ernesto
+	1892     0   237  105 Alejandro, Mel S
+	 896??   0  1975  776 Alimbetov, Alisher
+	 485??   0  2270  852 Alimbetova, Dilshat(Dehlia)
+	1434!!   8  1123  472 Allison, Graham
+	1613?    3   693  291 Alvarez, Jose
+	1054     6  1817  719 Amado, Angel
+	1889!!  14   240  108 Ambalong, Robert
+	1288!!   6  1453  585 Andersen, Leif V
+	1583!!  14   762  321 Anjum, M Munir
+	1722!!   9   490  210 Apcar, Fred
+	1468     0  1042  438 Arkins, Damien
+	1473!    0  1029  431 Art, Carl
+	 844??   0  2026  792 Arthur, Joshua
+	1580!!   6   769  324 Ascic, Steve
+	   1g    8            Ashton, Neil
+	   4g    0            Ashwell, Peter
+	 865!    6  2006  784 Ashworth, Neil
+	1628!   10   668  282 Astorga, Peter
+	1420!    7  1165  488 Ata, Kasem
+	2086!!   0    92   42 Atzmon-Simon, Barak
+	1007!   13  1861  739 Aylwin, Helen
+	2191!!  15    45   23 Ayvazyan, Armen
+	   2g    0            Ayvazyan, Nikita
+	1184?    0  1637  663 Aziz, Eddie
+	1728!!  10   477  206 Babic, Michael S
+	1047??   0  1826  723 Bailey, Raymond
+	 Unr     0            Bainbridge, jack
+	1284!!   9  1461  590 Baker, John A
+	 Unr     0            Baker, Paul
+	1359!!  23  1298  529 Baldwin, A(Tony) C
+	 Unr     0            Balocco, Daniel
+	1512?    0   942  387 Banicevic, Roy
+	   8g    0            Banovic, Milko
+	1746!    0   439  190 Barakat, Martin
+	1303     7  1423  575 Baraldi, Jensen
+	1655!!  15   613  258 Barisic, Frank
+	1477!    0  1017  427 Barker, Mitchell
+	1611     0   701  292 Barnes, Stephen
+	1420!!   6  1165  488 Barreca, Peter
+	1473     0  1029  431 Barrera, Uriel
+	1317!    0  1390  560 Bassett, Duncan
+	   5g    0            Bata, Ervin
+	1545!!  24   874  366 Baterowicz, Mark
+	1828     0   312  138 Bautista, Elpidio
+	1731     0   470  201 Bayani, Steffen
+	 Unr     0            Bazzi, Benjamin
+	 451??   0  2289  858 Bazzi, Nathanael
+	1272!!  19  1492  604 Beahan, Patrick
+	1421?    0  1158  485 Bedford, Joel
+	1398!!   9  1221  506 Beeh, Tom
+	1756?    0   421  181 Behne-Smith, David
+	 353?    0  2340  878 Behne-Smith, Elizabeth
+	1278     0  1471  594 Behne-Smith, Jonathon
+	1238     5  1553  629 Behne-Smith, Sarah
+	 980    18  1887  749 Bell, Daniel
+	 Unr     0            Belleza, Don
+	1781?    0   382  167 Belton, Chris
+	1653!!  10   617  260 Belz, Anthony J
+	1757!    6   416  179 Bemrose, Trevor
+	1416     0  1176  492 Benedek, Les
+	1073!    8  1786  708 Bennett, George
+	1183?    0  1638  664 Bennett, Paul E
+	1891!    0   239  107 Benson, Lachlan
+	1602!!   7   723  303 Beretov, Kosta
+	2154     0    57   30 Berezina - Feldman, Irina [IM]
+	 Unr     0            Berger, Jim
+	 605     8  2197  827 Berry, Matthew
+	1829     0   310  137 Berry-Porter, Zach
+	1251!    5  1528  616 Beveridge, David
+	1446?    0  1100  463 Beydoun, Ghassan
+	 986?    6  1881  745 Bieri, Kurt
+	   2g    7            Bircan, Kenan
+	2147!    0    59   32 Bird, Andrew
+	1500!    0   972  401 Bisson, Danny Wayne
+	1538?    0   886  370 Bizoev, George
+	2416!!  14     6    3 Bjelobrk, Igor [FM]
+	1333!!  10  1353  547 Blake, Richard R
+	1647!    0   632  266 Blazeski, Krste
+	1462!!   1  1061  446 Bleicher, Horst
+	1691!    0   546  236 Bleyer, Charles
+	1629!!   9   666  281 Bogdanoski, Petre
+	2072!!  41   106   50 Bolens, Johny
+	   2g    7            Bolocco, Daniel
+	 562!   11  2225  838 Bommireddipalli, Shobana
+	 232!   11  2382  897 Bommireddipalli, Venkata
+	 982     8  1884  747 Bonch-Osmolovskiy, Ilya
+	1585?    0   759  318 Bonnefin, Heath
+	 Unr     0            Bonnefin, Tristan
+	1406?    0  1200  501 Booth, Shaun
+	2199!   15    42   21 Bouchaaya, Tony
+	1458!    6  1071  450 Bourke, Phil W
+	1487!   10  1000  416 Bowerman, Ronald
+	1866!    7   265  119 Boyce, Jamie
+	   2g    0            Boyd, Stuart
+	 538??   4  2243  845 Bredin, Wayne
+	1567!    0   799  336 Brennan, Peter J
+	1610     0   703  294 Brieger, Chris
+	1807!    5   338  148 Bristina, Husein
+	1565!!  10   810  338 Britton, Geoffrey J
+	1716!!   6   497  215 Brodesser, Wolfgang
+	 723?    0  2124  813 Brodnik, James
+	2101!!  14    82   38 Broekhuyse, Paul
+	1741!    6   452  197 Brown, Chris Ray
+	 740!    9  2111  810 Brown, Patrick
+	1563!    0   815  341 Brown, Phil
+	1202?    0  1617  655 Brown, Sam
+	 418??   0  2311  864 Buchanan, Kate
+	1550!    0   861  359 Burgess, Greg
+	1415!!   7  1179  494 Burgess, Shane
+	 486     0  2269  851 Burke, Paul
+	 630     0  2180  824 Burrell, David
+	1464     0  1056  445 Burt, James
+	1451!!   7  1086  457 Butler, Allan
+	1569!!  30   796  335 Buza, Muhamed
+	1844!    0   293  131 Cabilin, Jeff
+	1952!!  10   180   87 Camer, Angelito
+	1284?    0  1461  590 Cameron, Jole
+	 Unr     0            Candiloro, Steve
+	2304!!  13    17    6 Canfell, Gregory J [FM]
+	1706!!  13   518  224 Canfell, Mike J
+	 798?    4  2064  802 Cao, Amy
+	1162??   0  1684  677 Cao, William
+	2074!    0   105   49 Capilitan, Romeo
+	1651!!   0   621  261 Carballo, Rick
+	1320!!   9  1385  559 Carden, Matthew
+	1533!    0   894  372 Carey, Doug D
+	1828!!  16   312  138 Cassettari, Peter
+	1308?    0  1413  571 Cassidy, Steve M
+	2038!    6   124   61 Castor, David
+	1031     0  1838  728 Chadwick, Peter
+	1108!   14  1749  698 Chaffey, Will
+	1999!!   0   152   74 Chan, Jason
+	 183?    0  2403  903 Chan, Justin
+	   4g    0            Chand, Khushbir
+	2114!!   5    72   35 Charles, Gareth
+	1379!    8  1263  516 Chau, Adrian
+	1118!   11  1737  693 Chau, Bernard
+	2007!!   1   148   73 Chek, Adrian
+	   3g    6            Chen, George
+	1165!!  21  1677  675 Chen, Peng Yu
+	1356     9  1304  533 Chen, Rong
+	 557    11  2229  840 Chen, Vincent
+	1804!!   9   343  151 Chen, Yu-Shiun
+	2072!!  14   106   50 Chernih, Nicholas
+	1528!!  24   908  376 Cheung, Benjamin
+	 952     0  1919  759 Cheung, Justin (1993)
+	   1g    0            Chew, Dennan
+	1416!!   7  1176  492 Chiara, Vince
+	 969!    7  1897  753 Chiddy, Lance
+	 588??   0  2213  834 Chiddy, Rory
+	1698     9   532  229 Chocron, Ariel R
+	1656!!  23   611  257 Christensen, Joshua
+	1230     0  1566  633 Chu, Winnie
+	1071!    0  1791  710 Churcher, Peter
+	   3g    0            Clark, Andrew
+	1287     0  1456  588 Clark, Neil
+	1491     0   989  409 Clark, Peter
+	1442     0  1109  466 Clarke, Gilbert
+	   1g    0            Clifford, Liam
+	 Unr     0            Clifford, Rory
+	 525     0  2250  847 Cobban, Lorraine
+	1729!    0   475  204 Cohn, Jason
+	1554?    0   847  353 Constantinov, George
+	1360!!   9  1297  528 Cook, David
+	2213!    9    38   18 Cook, Roger S
+	1240?    0  1550  627 Cooper, Chris
+	1173     5  1657  670 Cooper, John
+	   2g    7            Copacean, Sorin
+	1488!!  30   997  414 Courtney, Michael J
+	2080?    0    99   46 Coutts, Tama
+	1831!!   6   308  136 Cox, Barry
+	 799     8  2060  799 Coy, Rupert
+	 889     0  1983  778 Coyle, Mick
+	1659!!   7   608  256 Creech, Ken E
+	1556!!  10   840  348 Creek, Peter
+	   4g    0            Crevar, Paul
+	2014?    0   142   70 Cronan, James
+	2213?    0    38   18 Curtis, John [FM]
+	1640!!   0   645  272 Cvetkoski, Tode
+	1165?    0  1677  675 Dabb, Briony
+	 411     0  2315  866 Dai, Victor
+	1362     7  1294  526 Daniel, Chris
+	1670??   0   590  249 Dao, Vu Hoang
+	1591     0   745  311 Datuin, Marc
+	1225     2  1574  637 Davis, Greg
+	1361!!   7  1296  527 Deacon, Graeme
+	 Unr     1            Debono, Timothy
+	1074     7  1784  707 Deen-Cowell, Nicholas
+	 350?    0  2342  879 Deep, Amit
+	1617!    0   689  289 Degroen, Gunbritt
+	1981!    0   161   79 Degroen, Mark S
+	2075     0   103   48 Dekic, Biljana [WIM]
+	1256     7  1516  611 Deligiorgis, Theos
+	 Unr     1            Denize, Christopher
+	 995?    7  1876  743 Dennis, Roy E
+	1813!!  13   332  144 Descallar, Levi
+	1790?    0   371  163 Devine, Glynn
+	1477?    0  1017  427 Dibley, Shane E
+	2095!    9    90   41 Dick, David W
+	1469!    0  1039  435 Dick, Graham
+	1548!!   0   864  360 Dickson, Ian C
+	1442?    0  1109  466 Diggins, Graham
+	2024!   14   136   66 Dilla, Edsil
+	1530!!   0   902  373 Dimock, Chris
+	 257??  11  2375  893 Ditu, Maria
+	1729!!   6   475  204 Djukovic, Dragan
+	1683?    0   564  241 Do, Minh
+	   3g    0            Donnet, Matt
+	1479!    0  1014  425 Dorhauer, Peter K
+	1210!    0  1603  649 Douglas, Bruce
+	   6g    3            Dowling, Chris
+	 877?    0  1991  781 Dowton, Norman
+	2287     0    21    9 Drummond, Matthew
+	1083?    0  1778  705 Duffy, Leslie W
+	1888!!   0   242  110 Dunn, Michael Gl
+	 557?    7  2229  840 Durkin, Hamish
+	1194?    0  1623  659 Duschlbauer, Dominik
+	 933     0  1939  767 Dwyer, James
+	1460!    0  1067  448 Dzukic, Iliya
+	1844!!   9   293  131 Easterbrook-Smith, Simon
+	1646!!   6   636  268 Eccles, Richard
+	1436     0  1119  470 Elgindy, Tarek
+	1086?    5  1772  704 Ellis, Simon
+	1229     0  1568  634 Emblen, Pat
+	1350!    8  1316  537 Encel, Benjamin
+	1040     7  1831  727 Envis, Paul
+	2110     0    76   37 Eriksson, Ingela
+	1859!    0   272  123 Erkan, Mustafa
+	1742!    0   449  196 Escalante, Lorenzo
+	1731!    7   470  201 Esguerra, Danilo
+	1440!    0  1112  468 Evans, Carrie
+	1571!!  11   792  332 Evans, David A
+	   4g    5            Evans, Mark
+	1162?    0  1684  677 Everson, Tim
+	1585!    0   759  318 Eves, Anthony
+	   5g    0            Ewald, Thekla
+	1255!!   9  1519  612 Exler, Rudolf
+	2020!    1   139   68 Falchoni, Mario J F
+	1813!    0   332  144 Faris, Ahmed
+	1316!!   7  1392  562 Farrell, Keith R
+	1489!!  19   992  410 Fearon, John
+	1898     0   228  101 Feldman, Alex
+	2288!    0    20    8 Feldman, Vladimir [IM]
+	1249     0  1532  619 Fell, Lloyd R
+	1722!!   8   490  210 Fell, Lloyd S
+	   2g    7            Finlayson, John
+	2172!!   7    48   25 Flatow, A (Fred) [FM]
+	1601!    1   727  304 Flores, Pio R
+	1565     0   810  338 Foong, Tze Weng
+	1052!   15  1821  720 Franca, Edis
+	 Unr     0            Francis, Thomas
+	 792     0  2068  803 Frandsen, Ib
+	   2g    0            Frankel, Yakov
+	1707     0   515  222 French, David
+	 774?    0  2087  806 French, John
+	   6g    0            French, Peter
+	1058?    0  1808  717 Frerer, Samantha
+	1478!    0  1016  426 Frias, Joe
+	1810!!  19   336  147 Furst, Andrew
+	 Unr     0            Gabriel, Norm
+	1109     1  1746  697 Gabriel, Peter
+	2026!    7   134   65 Galvez, Benny
+	1570     0   794  334 Galwey, Richard C
+	1427     0  1137  480 Gannon, Stan
+	1787?    0   372  164 Gastineau-Hills, Richard
+	1255!    0  1519  612 Gerecs, Karoly
+	1976!    0   164   81 Ghenzer, Charles
+	 417??   0  2312  865 Gilchrist, Marc
+	1468?    0  1042  438 Giles, Anthony
+	1488!    0   997  414 Gilling, Jeremy
+	 368?    0  2331  875 Ginn, Jonathon
+	1556     2   840  348 Glaser, Dieter
+	   1g    0            Glenn, Bill
+	1192!    9  1628  661 Glerum, John
+	1880!    4   251  115 Gletsos, W(Bill)J
+	1768!!  17   400  175 Glissan, Paul
+	1606!    0   713  299 Gluvchinsky, Paul
+	1415!!  16  1179  494 Gonzales, Rolando
+	1368!    7  1283  521 Goodson, Jason
+	1141!    0  1711  686 Graham, Jacob
+	 452?    0  2288  857 Graham, Joseph
+	 914!    9  1958  770 Gram, Otto
+	1421?    6  1158  485 Gray, Daniel
+	1899?    0   226  100 Gray, McClure
+	1483!    5  1007  421 Gray, Ventry
+	1512!    0   942  387 Grbin, Tereza
+	 332??   0  2349  883 Green, Joshua (1995)
+	1521!!  22   922  382 Greenwood, Norman
+	1746!!   6   439  190 Gross, Mike C
+	 Unr     0            Gruber, Stephen
+	1370?    0  1279  520 Grundel, Simon
+	 Unr     1            Gu, Jian
+	1317!!  27  1390  560 Gu, Sean
+	 843!   21  2028  793 Gu, Shirley
+	1632!    0   662  280 Guenette, Pierre C
+	 213??   4  2391  899 Guse, Agnes
+	1555!    8   846  352 Guse, George
+	1177?    0  1651  666 Gutierrez, Carlos
+	   1g    0            Ha, Hakeem
+	1590!!   5   748  313 Hale, Dennis
+	2158!    0    53   29 Halpin, Patrick
+	   2g    7            Ham, Michael
+	1588!    7   752  314 Hamilton, Ross A
+	 393??   0  2321  870 Han, Jaeho
+	 792?    0  2068  803 Han, Lawrence
+	 576?    0  2221  836 Han, Ximia
+	   2g    0            Hankins, Andrew
+	1466!    0  1051  443 Hannagan, Peter K
+	1140?    0  1715  688 Hannan, Beau
+	1792!    0   366  161 Harp, Joel
+	1943!    7   187   90 Harris, Benjamin
+	1414!!  19  1182  497 Harris, Bruce
+	1668!    0   595  252 Harris, Rebecca [WFM]
+	1512?    0   942  387 Harris, Steve
+	 865     0  2006  784 Harrison, Joe
+	1502?    0   967  399 Hartmann, Thomas
+	1141     6  1711  686 Harty, David B
+	1713     0   505  219 Harvey, David
+	   2g    7            Hayman, Drew
+	1427!!  10  1137  480 Heimburger, Norbert
+	1670!    0   590  249 Hellmann, Oscar
+	   2g    7            Hely, Morgan
+	 408??   0  2316  867 Hemzal, Eliash
+	 301??   0  2359  887 Hemzal, Yoshi
+	1386     0  1252  513 Hendry, Ian L
+	1455!!   7  1081  455 Herreros, Bill
+	1593!!   5   743  310 Hickey, James
+	 388?   11  2324  872 Hickin, Andrew
+	1289     9  1452  584 Hill, Allan R
+	 Unr     0            Hill, Eric
+	1795     0   363  160 Hill, Ken J
+	   2g    0            Hiramanek, Zubin
+	1062     5  1804  715 Hoey, Penelope
+	2084?    0    93   43 Hoffmann, Achim Gunter
+	1913     0   203   96 Holland, Jim
+	 Unr     0            Holland, Rhiannon
+	1138?    0  1716  689 Holland, Rhys
+	1693     0   541  232 Hollings, Tom
+	 519    11  2255  849 Hong, Jasper
+	 939?    0  1931  764 Hopkins, Anthony
+	 575     0  2222  837 Horringa, Jacque
+	1104!!   7  1754  700 Hoseman, Bill
+	1773?    0   395  173 Hoving, Eliot
+	1322     9  1381  556 Hsu, Eric
+	2118!!   0    71   34 Hu, Jason
+	 598    11  2201  829 Hu, William
+	1017    11  1856  737 Huang, Danny
+	   1g    8            Huang, James
+	1907     0   214   98 Huang, Justin
+	1642??   0   642  270 Huddleston, Heather
+	 378??   0  2329  874 Hudson, Elyse
+	1321!    0  1382  557 Hughes, Keith
+	1249?    0  1532  619 Humphreys, Lincoln
+	 981     0  1886  748 Hunter, Michael
+	1997!!   9   154   75 Hursky, Karel P
+	1898!!  10   228  101 Hutchings, Frank P
+	1850!!   9   283  127 Huynh, Arthur
+	1804!!   0   343  151 Hvistendahl, Robert
+	 Unr     0            Ichhponani, Navroop
+	1955!!   9   176   84 Ilic, Ilija
+	1680!!   6   572  242 Iljazi, Elmaz
+	2224!    8    37   17 Illingworth, Max
+	1988!    0   157   77 Ingram, Ben W
+	1419!    0  1171  491 Irmler, Feodore
+	1337!    0  1343  544 Ivanovic, Radisav
+	   2g    0            Iyengar, Laki
+	   1g    0            Jacobson, Marc
+	   1g    5            Jain, Lipi
+	   4g    0            Jaisurya, Jai
+	1560     0   822  344 Jamshidi, Akhtar
+	 799??   0  2060  799 Jansen, Adrian
+	1213!    9  1598  645 Jansen, Michael
+	1748!!  16   431  186 Javor, Stephen
+	1501!!  10   970  400 Jeffreys, Roger W
+	1375?    0  1272  519 Jenkins, Michael
+	1594?    0   740  309 Jenkins, Terry
+	1171    10  1664  672 Jennings, Andrew (Garry)
+	1867!!   8   264  118 Jens, Henk W
+	1587!    6   755  316 Jochelson, Alex
+	1300!!  10  1434  578 Johansson, Par (Peter)
+	1503!!  10   964  397 Johnson, Andrew
+	1282?    0  1465  592 Johnston, Malcolm
+	1995!!  20   156   76 Jones, Brian A [FM]
+	1967!!  20   169   82 Jones, Lee R [FM]
+	 437?    0  2302  860 Jones, Maximus
+	1515?    0   933  385 Joseph, Tangaroa
+	1625!!  14   674  284 Jovanovic, Stevan
+	1487!   15  1000  416 Jung, Andrew
+	1928?    0   193   92 Jurd, Sebastian
+	2043     0   121   59 Kabir, Syed Ruhul
+	1553    14   852  356 Kadam, Subhash
+	 900!    0  1971  774 Kadlubek, John
+	   2g    7            Kalyanasundaram, Suresh
+	1459     0  1068  449 Kamaras, Con
+	 589?    0  2211  833 Kanagaratnam, Aran
+	1622     0   680  286 Kang, Leo
+	2170?    0    51   27 Kanikevich, Alexander
+	1747!!   0   433  188 Kanostrevac, Zeljko
+	 964??   0  1902  755 Kantzios, Gregor
+	1432     0  1127  473 Karasszon, Attila
+	1458!!  14  1071  450 Karayi, Valsalan
+	 292?    0  2364  890 Karthikeyan, Harshan
+	1599!    0   731  305 Katnic, Eddy
+	1391     0  1241  510 Keaveney, Joseph
+	 Unr     0            Kenny, Bernie
+	1148!    0  1701  685 Kerr, David
+	1636!!   1   653  277 Keuning, Anthony V
+	1326!!  10  1370  552 Keuning, Patrick J
+	1556??   0   840  348 Khamphounuong, Lintha
+	1680     0   572  242 Kirchnei, Pedro
+	1445!    0  1102  464 Kirillov, Karl
+	1456!    0  1078  454 Kitchen, Ray
+	1640!   16   645  272 Kite, Ron W
+	1314!    7  1399  566 Klinkby, Alf
+	1680     0   572  242 Kodzoman, Ivan
+	1181?    0  1642  665 Koettig, Paul F
+	1358!!  25  1300  531 Koh, Cedric
+	 872!!  25  1997  783 Koh, Clarise
+	1305!    8  1420  574 Koh, Jason
+	   3g    6            Kojic, Slavko
+	1431!!  17  1131  476 Kolotas, Harry
+	1547!   15   867  361 Kong, Adrian
+	1604!    7   719  302 Korbe, Heinrich
+	1777!!  28   387  168 Kordahi, Nicholas
+	2114     0    72   35 Koshnitsky, Ngan [WIM]
+	1169     0  1669  673 Koudashev, Oleg
+	1527     0   909  377 Koutnik, Matthew
+	1546     0   870  363 Kovacs, Les
+	1660!!   9   605  254 Kovacs, Robert J
+	1946     0   185   89 Kragovic, Dragoslav
+	 998!    7  1871  741 Krak, Peter
+	 895!    8  1976  777 Krauss, Joseph
+	1280!    0  1467  593 Kreidl, Lou
+	1448!    0  1095  461 Kresinger, Frank
+	   2g    7            Krizanovic, Denis
+	1684!    0   563  240 Kronental, Bruno
+	1345!    0  1326  539 Kuklik, Alex
+	 547??   0  2236  842 Kulpa, Janina
+	1506!    6   955  394 Kulpa, Kazimierz
+	 401??   0  2319  869 Kumar, Amit
+	1543?    0   876  367 Kumar, Anish
+	1392     0  1238  509 Kumar, Dhirendra
+	 843     0  2028  793 Kumar, Karishma
+	1475     0  1021  429 Kumar, Rakesh
+	1218     0  1589  643 Kumar, Sanjesh
+	 877??   0  1991  781 Kunkel, Veikko
+	1715!!   5   500  217 Kuru, Argo
+	 978!   11  1889  750 Kwong, Jason
+	1655!    0   613  258 Lakeland, Martin
+	1702     7   529  228 Lam, David
+	   1g    0            Lam, Kevin (1992)
+	1346?    0  1323  538 Lam, Victor
+	 942     0  1929  763 Lamb, Allan
+	1693!!   6   541  232 Lane, Clive D
+	1356!    0  1304  533 Lane, Endel
+	2377!!   7     8    5 Lane, Gary W [IM]
+	1803!    0   346  153 Lane, Nancy L [WIM]
+	1403??   0  1210  502 Larosa, Gustavo A
+	1232     8  1561  632 Lau, Derek
+	1469!!  18  1039  435 Lau, Joshua
+	1325!    7  1374  554 Lau, Tony
+	1574??   0   781  329 Laurente, Allan
+	1522?    0   919  380 Law, Evan
+	 Unr     0            Lawless, Jeremy
+	1450     0  1090  458 Lawrence, Edward
+	1751     0   427  183 Lazaridis, Julius
+	   1g    8            Lee, Brandon
+	 Unr     7            Lee, Jerimah
+	 828?    6  2048  796 Lee, Josh Xcent
+	1859!    7   272  123 Lee, Kerry A
+	1387?    9  1249  512 Lee, Marco
+	 560?    0  2227  839 Lee, Raymond
+	 591?    9  2209  832 Lee, Terence
+	   2g    0            Lee, Terry
+	   1g    0            Lee, Zan Xcent
+	1505     0   959  395 Leibert, James
+	1343     0  1331  541 Lenham, George
+	1432!    4  1127  473 Leong, Edward
+	1306!    0  1416  572 Leong, William
+	1738!    9   459  198 Lepojevic, Zarko
+	1447??   0  1098  462 Leung, Nicholas
+	 848??   0  2024  791 Leung, Stephanie
+	 996     0  1873  742 Leung-Harrison, Matthew
+	1865     0   267  121 Levin, Joshua
+	1693!    0   541  232 Lewski, Toby
+	1785?    0   376  165 Li, Biu
+	1757!    6   416  179 Lin, Hong
+	   3g    6            Lin, Hung Ting
+	 222??   0  2387  898 Lin, Ken
+	1213!    8  1598  645 Lin, Kevin
+	 368?    0  2331  875 Lin, Mark
+	 691?    0  2145  820 Lin, Wilson
+	2059     0   112   55 Lip, Michael
+	1402!    0  1214  504 Lithgow, George
+	 580     0  2218  835 Liu, Cosmo
+	1758!    4   414  178 Liu, Steven Hern
+	1599!    8   731  305 Liuga, Victor
+	1716!    0   497  215 Lo, Anthony
+	1437!!  10  1118  469 Lo, Michael
+	 864?    0  2009  786 Longfield, Craig
+	2251    14    27   14 Longjas, Norman
+	 335?    0  2348  882 Loo, Reuben
+	1462!!  13  1061  446 Losh, Gary
+	1579!   10   771  326 Low, Frank
+	1450?    0  1090  458 Lozano, Tomas
+	2081     8    97   44 Luchtmeijer, Ton
+	1588!    0   752  314 Lukic, Mick (Milorad)
+	1421!!  14  1158  485 Macgillivray, Ken
+	 Unr     0            Mackintosh, Tom
+	1693!    0   541  232 Macmillan, Malcolm
+	1625!    1   674  284 Maddix, John T
+	 968!    0  1898  754 Maddy, Barry
+	   2g    0            Magallanes, Armando
+	1252     0  1525  615 Maguire, Noel
+	 597?    0  2203  830 Mah, Dominic
+	 520?    0  2251  848 Mah, Leonard
+	1584!    8   761  320 Mahmoodi, Yama
+	1227?    0  1570  635 Maletic, Mario
+	2124!    0    67   33 Malik, Hani
+	1883!!   7   247  113 Mandla, Blair
+	2024!!  15   136   66 Mangrobang, Noel
+	1911     8   208   97 Manila, Ronald
+	1497!    0   978  404 Mann, Barry R
+	1415!    6  1179  494 Mann, Garry
+	 543?    5  2239  844 Mann, Glenn
+	   4g    0            Mann, Matthew
+	1174!    0  1655  669 Mann, Nicholas G
+	   5g    4            Marinas, Daniel
+	1802!    0   347  154 Marsden, John A
+	1580?    0   769  324 Marshall, Aaron
+	 857??   0  2015  789 Martin, Rhys
+	1366!    0  1288  523 Marton, Alan G
+	 905     8  1968  772 Marwick, Chris
+	1276     8  1477  599 Mas, Stephane
+	1321??   0  1382  557 Masalehdani, Michael
+	1576     0   776  327 Mascarenhas, Alan
+	1241!    7  1546  625 Matasin, Damir
+	1025!    4  1847  733 Matson, John
+	 Unr     0            Matsumoto, Tomohiro
+	1297     1  1436  579 Matthews, Greg
+	1751     0   427  183 Mavroidis, Jim
+	1288?    0  1453  585 Mayo, Robin
+	 473     0  2278  854 Mazay, Adam
+	1747!!   7   433  188 Mazzieri, John
+	1288?    0  1453  585 McArthur, Logan
+	 973?    0  1894  751 McCrea-Steele, Declan
+	1342    11  1333  543 McDonald, David
+	1337     0  1343  544 McGowan, Daniel
+	1889!    0   240  108 McGregor, Allan
+	 100??   0  2418  908 McIlveen, Trevor
+	 862??   0  2011  787 McInnes, Adrian
+	   3g    6            McKinnon, Bradley
+	   3g    6            McKinnon, Jason
+	   3g    6            McKinnon, Melissa
+	1554!    0   847  353 McLoon, Michael K
+	 960??   7  1910  756 McMahon, Charles
+	1209     7  1605  650 McMahon, John
+	1942     0   188   91 McNamara, Gary
+	1523!    0   917  378 McParland, John
+	1355?    5  1308  535 McPhee, Rod G
+	1557!    0   835  346 Mearns, David
+	1516!    7   929  384 Mehan, Alex
+	   5g    4            Mehan, Eloise
+	1605!!   9   715  301 Mejzini, Jack
+	1718!!   0   494  214 Meldrum, George W
+	1953!!   0   178   86 Mendes da Costa, Alex
+	1337     0  1343  544 Mere, Uno
+	1188?    0  1631  662 Meskin, Neil
+	1670??   1   590  249 Miehs, Frank
+	 240?    0  2380  895 Mijatov, Miki
+	1473!!   0  1029  431 Mikolajczyk, Les
+	1068?    0  1796  712 Mildenhall, Todd
+	 937?    0  1935  766 Miller, Adam
+	1619!!  10   684  287 Miller, Gordon
+	 Unr     0            Miller, Troye
+	   4g    0            Minhaz, Ashraf
+	1672     0   588  248 Minkov, Stoimir
+	1562!   15   819  342 Miranda, Adrian
+	1057!   17  1811  718 Mithran, Mirakla
+	1426!!   7  1143  482 Mitrovic, Ivan
+	1483!    0  1007  421 Mlinaric, Mato
+	   4g    0            Mo, David
+	1690!!   9   549  237 Mojanovski, Dimitar
+	 694?    0  2144  819 Mok, James
+	1363     0  1292  525 Molavin, Roque
+	1507?    0   952  393 Momeni, Mehran
+	 808!!  14  2057  798 Momot, Alex
+	1357?    0  1302  532 Money, Greg
+	1394     0  1229  508 Moore, Douglas
+	   3g    0            Mooring, Nigel
+	1711?    0   508  220 Morales, Dumas
+	1725     0   486  208 Morales, Raul
+	1412     0  1187  498 Morgan, Neil
+	 884     7  1986  780 Morris, Darren
+	1203     8  1616  654 Morris, Gill
+	1496!    7   981  405 Morris, Jordan
+	2152!!   0    58   31 Morris, Michael
+	1245!!   9  1539  624 Moxom, Bob
+	2017!!   0   141   69 Moylan, Laura A [WIM]
+	1169??   0  1669  673 Mueller, John
+	1826!!  15   318  141 Muller, Hans P
+	1850!!   9   283  127 Muller, Henning
+	1278     0  1471  594 Muller, John
+	1468!!   9  1042  438 Munk, Leon
+	   7g    0            Munoz, Santos
+	1607!!   1   709  297 Murgoski, Kole
+	1259     7  1513  610 Murphy, Justin
+	1774!    0   393  171 Murrell, Malcolm R
+	1887!    1   244  111 Musaeva, Aina
+	1591     7   745  311 Myers, Stephen P
+	1248?    0  1534  621 Myhr, Dennis
+	1422!    0  1154  484 Nabulsi, Derek
+	   5g    0            Nakayama, Nubuhiro
+	2050!    0   117   56 Nanavati, Minir
+	 Unr     0            Nassis, George
+	1326     0  1370  552 Nemeth, Bela L
+	1264     8  1508  609 Neville, John
+	1480     5  1010  423 Ng, Deborah
+	1403!    4  1210  502 Ngo, Michael
+	 198    10  2395  901 Nguyen, Andrew (1996)
+	1250     8  1529  617 Nguyen, Dominic
+	1797!   15   358  159 Nguyen, Joseph
+	1543!    1   876  367 Nguyen, Peter
+	 954!    8  1915  758 Nguyen, Peter (Jnr)
+	1572!    0   786  331 Nichas, John
+	1744!    9   443  193 Nicholas, Lloyd F
+	 Unr     0            Nielsen, Christian
+	1051!    9  1822  721 Nielsen, Knud
+	1611!    0   701  292 Nikolaou, Chris
+	1884!!  10   246  112 Norman, Brendon
+	   7g    0            Norman, Trevor
+	1250?    0  1529  617 Northover, Matthew
+	1107     8  1751  699 Nott, Anthony
+	1921     0   198   94 Nowak, Miroslaw
+	1153?    0  1696  684 Nozhnitski, Julia
+	2034!    0   127   63 Nutter, John
+	2183!    0    46   24 O'Chee, Kevin
+	1129     0  1725  690 O'Dwyer, Ben T
+	1845     0   290  130 O'Riordan, Bernard
+	 201    10  2393  900 O'Rourke, Caitlin
+	1275!    8  1483  600 O'Rourke, Kevin
+	1028!   11  1844  732 O'Rourke, Ryan (1996)
+	1744?    0   443  193 Oehm, George
+	1344!!  17  1329  540 Ollivain, Thierry
+	1041    10  1830  726 Ostman, Erik
+	1883?    0   247  113 Owies, William
+	   3g    0            Palmer, Igor
+	1096!   13  1760  702 Pan, Andrew
+	 544!   11  2238  843 Pan, Eric
+	 162!   10  2409  905 Pan, Greg
+	1162!    0  1684  677 Pandich, Donald
+	1530!    0   902  373 Pant, Tarun
+	1704     0   525  227 Pant, Varun
+	1635!    6   656  279 Papantoniou, John
+	1522!!  13   919  380 Papp, Alexander
+	1923!    6   196   93 Parfait, Richard
+	1213!!   6  1598  645 Parissis, Mario
+	1301!!  10  1429  577 Parker, Simon
+	1504!!  36   961  396 Parker, Trent
+	1095!    0  1762  703 Parr, Bruce
+	1558     0   830  345 Parravicini, Matthew
+	2096?    0    89   40 Parsonage, Ian P
+	1295!    0  1440  580 Parsons, Colin J
+	   3g    0            Parsons, Matthew
+	1435!!   0  1122  471 Pascoe, John L
+	   4g    5            Patten, Brian
+	1893?    0   234  104 Patterson, Donald G
+	1310?    0  1409  570 Patterson, Philip
+	2049     0   118   57 Pearce, Nathan
+	1534!!  10   892  371 Pepping, John M
+	1248!   11  1534  621 Perera, Pasan
+	 705?    6  2136  817 Perks, Simon
+	1907!    7   214   98 Peters, Duncan
+	1759!!   7   411  176 Pevzner, Moissei
+	1573     9   783  330 Pfleghart, Michael
+	1343     2  1331  541 Pham, Thai
+	1731!    0   470  201 Phillips, Andrew
+	1774!!  10   393  171 Pickering, Anthony
+	1499!!   9   974  403 Pike, Robert D
+	 837?    0  2038  795 Pintegne, Christopher
+	1176?    6  1653  668 Pisani, David
+	 698?    0  2143  818 Plant, Bruce
+	 945     0  1926  762 Plant, John Bruce
+	1641!    0   643  271 Plant, John Stuart
+	1660!    0   605  254 Plant, Rod
+	1799     0   352  158 Plaza, Francisco
+	 757?    0  2097  809 Pleno, Mario
+	1212!    5  1602  648 Podella, Keith
+	1366?    3  1288  523 Pollak, John
+	 Unr     0            Poonia, Mona
+	 454??   0  2287  856 Porter, Janet
+	1020!    0  1851  736 Porter, Leslie
+	1287!    0  1456  588 Powers, Tom
+	1564!!  15   814  340 Press, Brian J
+	 445     0  2290  859 Pretorius, Jana
+	1021     0  1849  735 Pretorius, Jean
+	   2g    0            Priest, Stephen
+	1486?    0  1002  418 Priest, Tim
+	 792?    0  2068  803 Prosser, Tristan
+	 Unr     7            Punekar, Arjun
+	1954     0   177   85 Purdy, John S
+	1965!!   7   170   83 Puzon, Ernesto B
+	1117?    0  1738  694 Qiao, Jeremy
+	 989?    5  1879  744 Qiao, Shan-Shan
+	 426    11  2306  861 Qin, Zhao Hua
+	1269     0  1496  605 Quadros, Andrew
+	1420!!  15  1165  488 Quesada, Eddie
+	2033!    0   128   64 Quick, Simon
+	 Unr     0            Rabey, Carl
+	1674!!  20   585  247 Rachmadi, Herman
+	1854!!   9   279  125 Radev, Nikola
+	1290!!   9  1448  582 Radevski, Vane
+	1329!!   7  1363  550 Radovan, John L
+	1816     6   327  142 Rahman, Ashfaqur
+	1547?    0   867  361 Rajendran, Karthick
+	 668?    0  2159  822 Rajendran, Prem
+	1223?    0  1578  638 Ram, Balaji
+	1647!    0   632  266 Ramachandran, Raj
+	   6g    3            Raman, Vignesh
+	1650     0   624  263 Rao, Yogesh
+	1546!!  14   870  363 Rara, Henry
+	1892?    1   237  105 Rares, Stephen D
+	2038?    0   124   61 Raykhman, Oleg
+	1746!    0   439  190 Redgrave, John
+	1227!    0  1570  635 Reese, Peter
+	1100     0  1759  701 Reich, Bernard
+	1496     0   981  405 Reid, Vaness
+	2011     1   146   72 Reitmans, Quentin
+	2279!!   0    24   12 Rej, Tomek
+	 340?    0  2346  880 Ren, Glenn
+	1377!   15  1268  517 Ren, Jonathan
+	 820?    0  2053  797 Repetylo, John
+	1876     0   255  116 Retallick, Steven
+	1811!!  10   334  146 Rewais, Sarwat
+	1599     0   731  305 Ribicic, Zoran
+	 913?    0  1962  771 Rice, Michael
+	1651?    0   621  261 Richards, Allan
+	 479?    0  2274  853 Ringrose, Jamie
+	1206!!   6  1611  652 Rizzardini, Armando
+	1475!!  10  1021  429 Roach, Owen
+	1508!    9   951  392 Roberts, Curt
+	1834!!   1   304  135 Roberts, Jamie
+	1458!    7  1071  450 Robinson, Allen
+	 956?    0  1912  757 Roche, Michael
+	1561     0   820  343 Rogers, Cathy L [WFM]
+	2605!!   0     1    1 Rogers, Ian [GM]
+	   2g    0            Rogerson, Alan
+	 850?    5  2022  790 Rogerson, David
+	1431!    0  1131  476 Rogosic, Milan
+	1896?    0   230  103 Rolph, Michael S
+	1748!    0   431  186 Rosario, Amiel
+	2081!!  21    97   44 Rose, Adrian P
+	1063!    8  1803  714 Roser, Michel L
+	1469!!   0  1039  435 Ross, Bill
+	1846!    0   289  129 Rowlison, Colin N
+	1155!    7  1692  682 Russell, Michael
+	 Unr     0            Russell, Paul
+	1640!    0   645  272 Rust, Chris
+	1610     0   703  294 Ryan, Ben
+	1444!   10  1105  465 Ryan, Mark
+	1814?    0   329  143 Saboori, Farshid
+	1980!    9   162   80 Safarian, Alek
+	1639?    7   649  275 Saint, Graham D
+	1842!    7   296  133 Saksena, Kaushik
+	1315     0  1398  565 Salecich, Vilko
+	1277     1  1476  598 Sanchez, Domingo
+	1619??   0   684  287 Sanchez, Vincente
+	1801!!   1   349  156 Sandalciyan, Aram
+	1313!    8  1401  568 Sands, Garry
+	1639?    0   649  275 Santrac, Branko
+	   3g    0            Savetta, Frank
+	1333!    9  1353  547 Schuetz, Fred
+	1493!    0   985  407 Schwandl, Hans
+	1303!    7  1423  575 Schymitzek, Patrick
+	 662!    7  2163  823 Sciberras, Reno
+	2239!    0    29   15 Scott, Ronald
+	   5g    0            Scriven, Tim
+	   4g    0            Senarath, Shehani
+	1268??   0  1499  606 Seow, Nicholas
+	 Unr     0            Sercombe, David
+	1523     0   917  378 Serelak, Brendan
+	1429!!  15  1135  479 Sewell, Bob
+	 938!    8  1932  765 Shan, Caroline
+	1274     0  1488  603 Shan, Jin
+	1316!!   9  1392  562 Sharkawy, Sam
+	1266!    0  1506  608 Shaw, Ken
+	1253!!   7  1524  614 Shearwood, Barry
+	 388??   0  2324  872 Sheldon, Leon
+	1006     8  1863  740 Shen, Austin
+	1802     0   347  154 Shen, Jonathan
+	1275     8  1483  600 Shi, Dawen
+	   5g    0            Shoo, Joe
+	1295!    8  1440  580 Shurapey, Dmitriy
+	1468!    0  1042  438 Sike, Paul
+	1241?    8  1546  625 Silver, Tom
+	1510!!  10   946  390 Simmonds, Rex
+	1727!    0   482  207 Simmons, Robert W
+	1367     0  1285  522 Simonovski, Zivko
+	 Unr     0            Singleton, Tim
+	 256    11  2376  894 Siow-Lee, Dylan
+	1801?    0   349  156 Sirkka, Pertti T
+	1576!    0   776  327 Sitompul, Sotarduga
+	1332     0  1358  549 Sizeland, Robert C
+	1316!    0  1392  562 Skulimowski, Don
+	1776     0   390  169 Skulte, Christopher
+	1581!   10   766  322 Sliwinski, Zdzislaw
+	1706?    0   518  224 Sloper, Christian
+	1043!   19  1829  725 Smirnov, Anton
+	2286!!   8    22   10 Smirnov, Vladimir
+	1398!!   0  1221  506 Smit, George
+	1155!    0  1692  682 Smith, Eric A
+	 861??   0  2012  788 Smith, Ross A
+	 330    11  2352  884 Snow, Andrew
+	 424    11  2309  862 Snow, James
+	   1g    8            Soh, Bregan
+	 505?    0  2259  850 Soltysik, Sebastian
+	1915!    0   202   95 Song, Angela [WFM]
+	2253?    0    26   13 Song, Raymond
+	   1g    0            Soo, Vincent
+	1556!!  16   840  348 Soto, Leopoldo
+	 946!!  11  1924  761 Soul, David S
+	1552!!   9   853  357 Sparks, Chris J
+	1311!    6  1405  569 Spirov, Tony
+	1432?    0  1127  473 Spralja, Ante
+	 Unr     5            Sreeram, Aishwarya
+	1217     0  1592  644 Stankovic, Goran
+	 169?    0  2405  904 Stark, Matthew
+	1402!    0  1214  504 Steinitz, Steven
+	2296     1    19    7 Stephens, Malcolm [FM]
+	1668?    0   595  252 Stephenson, Matthew
+	1543!!   1   876  367 Stern, David
+	1353!    7  1311  536 Stevens, Matthew
+	 624?    0  2183  826 Steyn, Jack
+	1503?    0   964  397 Stipic, Stephen
+	   7g    0            Stojanovski, Nicki
+	1238!    7  1553  629 Stokes, Robin H
+	1128     0  1727  691 Storey, Emma
+	1489!    0   992  410 Stosic, Slobodan (Bob)
+	   3g    6            Stroeve, Evan
+	1775??   0   391  170 Strous, Brett
+	 392!   11  2322  871 Su, Alexander
+	   2g    0            Su, Daniel
+	1156!!   7  1690  680 Suryak, Antoni
+	2172!    0    48   25 Suttor, Vincent
+	1607?    0   709  297 Svalina, Max
+	1156!    0  1690  680 Svendsen, Ern
+	 736?    4  2114  811 Sweeney, India
+	1306!!  14  1416  572 Sweeney, Matthew
+	 730?    0  2119  812 Swords, Chester
+	 688??   0  2148  821 Syme, Zac
+	1554?    0   847  353 Szabo, Laszlo
+	 141    11  2414  907 Sze Tho, Jordan
+	1695     0   537  230 Szeto, Jonathan
+	1694     0   540  231 Talam, Lito
+	1196     0  1621  657 Talisayan, Samuel
+	1267?    0  1503  607 Tam, Nathan (1990)
+	 318!   11  2355  885 Tam, Nathan (1998)
+	   4g    0            Tan, Chee
+	1111?    5  1745  696 Tan, Joanne
+	2281!    0    23   11 Tan, Justin
+	1073!    8  1786  708 Tan, Kevin
+	1720!!  14   492  212 Tankel, Alan
+	1385!!  16  1254  514 Taric, Omar
+	1238??   0  1553  629 Tasevski, Kristian
+	 594?    0  2205  831 Tayeh, Andrew
+	   3g    0            Teisseyre, Marcin
+	1828!!  14   312  138 Tenorio, Leonardo
+	1017     8  1856  737 Teo, Albert
+	1219     9  1586  642 Thippeswamy, Hareesh
+	 Unr     0            Thomas, Owen
+	 Unr     0            Thomas, Sebastion
+	1686?    0   558  239 Tiffen, Rodney E
+	 Unr     5            Timbs, Corey
+	2230     0    36   16 Tindall, Brett [FM]
+	1866     0   265  119 Tindall, David
+	   4g    0            Ting, Joshua
+	1676!    0   582  246 Tiqui, Norie
+	1705     0   522  226 To, Anthony
+	1587     0   755  316 Todorovski, Marjan
+	1738?    0   459  198 Tokarz, Michal
+	1581!!  22   766  322 Tomas, Tom
+	1484!    1  1004  419 Tomevski, Ivan
+	1314!!   8  1399  566 Too, Henry
+	 Unr     0            Torban, Daniel
+	1470!!  29  1038  434 Tracey, Michael J
+	 278??   0  2370  891 Tran, Jordan
+	2071!    0   108   52 Tredinnick, Malcolm
+	2063??   0   110   54 Trencevski, Vanco
+	1648!    0   630  265 Trkulja, Slavko
+	1566!!   9   804  337 Troshenkova, Irina
+	1610!    0   703  294 Trzin, Gojko
+	 761?    8  2094  808 Tsang, Matthew
+	1571!    0   792  332 Tschaut, Adam
+	1782     0   378  166 Tse, Jeffrey
+	1062    11  1804  715 Tsui, Edison
+	1546!    0   870  363 Tubic, Luka
+	1837!!   7   303  134 Tulevski, Vasil G
+	   1g    0            Tulic, Ido
+	1408?    0  1194  499 Turner, Douglas
+	1069!    7  1795  711 Ullah, Sami
+	1492?    0   986  408 Unwin, Corydon
+	1596     0   738  308 Urdanegui, Abel
+	1209!    0  1605  650 Valenzuela, Manuel
+	1738!!   8   459  198 Van Der Kolff, Michael
+	1759!!   6   411  176 Van Der Wal, Fritz W
+	1359!    0  1298  529 Van Elmpt, Martin
+	 299?    0  2361  888 van Gelder, Nicholas
+	   2g    0            Van Laar, Jacques
+	1204!!  15  1615  653 Van Look, David
+	 357?    0  2338  877 Vankatesan, Aishwarya
+	1194!    0  1623  659 Varda, George
+	1029??   0  1843  731 Vasey, Quinlan
+	 720?    0  2125  814 Vather, Akhil
+	1391?    0  1241  510 Vather, Tejas
+	1196!    0  1621  657 Vatoff, Nicolai
+	1517!    0   928  383 Vegh, Steve
+	1240!    0  1550  627 Velyvis, Vladis
+	1707!    9   515  222 Venclovas, Irvis
+	 339     8  2347  881 Venkatesan, Aishwarya
+	1383!    0  1257  515 Vidler, Peter J
+	1551!!  11   857  358 Villanueva, Anthony
+	2013!!   1   144   71 Viner, Phillip J
+	1756     9   421  181 Viniarski, Alex
+	1223!    0  1578  638 Vogelman, Arno
+	2166!    0    52   28 Vojvodic, Branislev
+	1489!!   9   992  410 Wall, Terence
+	1278     0  1471  594 Walshe, Ian M
+	 Unr     0            Walters, Natasha
+	1645!    0   638  269 Wan, Dennis
+	1128!    8  1727  691 Wan, Kinto
+	 465!   11  2281  855 Wang, Calvin
+	1467!!  26  1048  442 Wang, Oscar
+	1557     0   835  346 Ward, Dennis
+	 235?    0  2381  896 Washer, Emily
+	 604?    0  2200  828 Washer, Matthew
+	1719?    3   493  213 Waterman, Chris
+	1423!!  24  1152  483 Waters, Mick
+	1870!    0   262  117 Watharow, Sean P
+	1853!!  17   280  126 Watson, James
+	1076!!  15  1783  706 Watts, Peter
+	1723!    0   489  209 Webb, Selwyn
+	1714!    0   502  218 Webster, David
+	 971?    0  1895  752 Weekes, Richard
+	1050?    0  1823  722 Wells, Leslie
+	1480!!   0  1010  423 Weltner, Michael
+	1278     0  1471  594 Went, Lindsay
+	1450!    0  1090  458 Wettstein, Carla
+	2046!    1   119   58 Wettstein, Marcus
+	1275?    0  1483  600 Whiteside, Benjamin
+	1172!    0  1660  671 Whittam, David
+	1223!!  19  1578  638 Wilkie, Mary E
+	1513     0   941  386 Williams, Gavin
+	 423??   0  2310  863 Williams, Matthew
+	1246!!  29  1537  623 Willis, Phil
+	 952??   0  1919  759 Willow, Max
+	1328!    0  1368  551 Wills, Colin
+	1458     0  1071  450 Wilson, Chris
+	1221     0  1583  641 Wilson, Greg
+	 899??   0  1972  775 Wilson, Luke
+	 983     0  1883  746 Winsor, Hugh
+	 888??   0  1984  779 Wirth, Craig
+	1290?    0  1448  582 Wolanin, Leon
+	1430     0  1134  478 Wolf, Ludwig
+	1606??   0   713  299 Wong, Andy
+	 902?    7  1969  773 Wong, Anthony
+	 Unr     0            Wong, Daniel
+	 405??   0  2318  868 Wong, Hin
+	1688!!   7   552  238 Wong, Ted
+	1489     0   992  410 Woodward, Michael R
+	   1g    0            Worojanski, Taras
+	1177     0  1651  666 Wright, Allan
+	1466     0  1051  443 Wright, Cameron
+	2199!!   0    42   21 Wright, Neil S
+	1750!    0   429  185 Wu, Edwin
+	2414!!  15     7    4 Xie, George [IM]
+	2077!    0   102   47 Xie, Ken
+	 626     0  2182  825 Xing, Ian
+	1769     0   398  174 Xu, William
+	1046     8  1828  724 Yan, Danny
+	 269??   0  2372  892 Yan, Karl
+	   1g    0            Yang, Peter
+	1614!   16   691  290 Yao, John
+	1114?    0  1741  695 Yap, William
+	1376?    0  1270  518 Yardley, Adam
+	   2g    0            Yates, Anna
+	 191??   0  2399  902 Ye, Jason
+	1200?    0  1618  656 Yeong, Jonathan
+	 143    11  2412  906 Ying, Joshua
+	1792!    0   366  161 Ymalay, Joe M
+	1454!    7  1082  456 Young, Benjamin
+	1649!    7   628  264 Young, Jeffrey
+	 719    10  2126  815 Young, Peter C
+	1947!    0   184   88 Yu, Michael
+	2212!    0    40   20 Yu, Ronald
+	 538?    0  2243  845 Yu, Stephanie
+	1626    14   671  283 Yuen, Jonathan
+	1805!    0   341  149 Yum, Brenton
+	   2g    0            Zajac, Marios
+	 931?    0  1942  768 Zalac, Ben
+	1064     0  1802  713 Zalac, Vince
+	 799!    0  2060  799 Zalai, Ruth
+	1744     0   443  193 Zamirowski, Richard
+	 Unr     0            Zandstra, Brenden
+	1710!!   3   510  221 Zekic, Mirsad
+	1484!    0  1004  419 Zekic, Peter
+	1862!!   7   268  122 Zeldovich, Vladimir
+	 766!   11  2093  807 Zhang, Charmian
+	 917!   11  1956  769 Zhang, Daniel
+	   3g    0            Zhang, Grant
+	 307?    0  2358  886 Zhang, Kerry
+	1031!    8  1838  728 Zhang, Raymond
+	   2g    7            Zhao, Edison
+	2560!!   0     2    2 Zhao, Zong-Yuan [IM]
+	 299?    0  2361  888 Zhong, Tian
+	   2g    0            Zhou, Kevin
+	1679!    0   577  245 Zielinski, Konrad
+	 717     0  2128  816 Zielinski-Nicolson, Dane
+	2040!    0   123   60 Zirdum, Ivan
+	2071!    0   108   52 Zvedeniouk, Ilia
+	1983!    8   158   78 Zworestine, Charles
+*NT
+	1536?    0   889    1 Aisa, Mario
+	 588?    0  2213    2 Hodgson, Joe
+*CAQ
+	2100!    0    84    9 Abylkassov, Ivan
+	1379!!   9  1263  159 Adams, Ray
+	1214?    0  1595  221 Adams, Zane
+	1527!!  20   909  107 Ager, John C
+	1498     0   977  114 Akers, Gerard
+	1687!!  12   554   53 Al Zaher, Louay
+	1631!!  38   664   70 Alkin, John
+	1297?    0  1436  185 Altoff, Andrea
+	1548!!   6   864  100 Ambatali, Ric
+	1286?    0  1459  190 Ambatali, Ricson
+	   3g    0            Amol, David
+	   2g    7            Amolat, John
+	1558     7   830   95 Anderson, Daniel C
+	 745!   13  2108  341 Anderson, Kaidon
+	 679     7  2153  352 Anderson, Todd
+	 Unr     3            Andreev, Alex
+	   4g    5            Andrew, David
+	 850!!  14  2022  314 Arase, Alexander
+	 592!    8  2208  367 Arase, Daniel
+	1225!    0  1574  214 Ashe, Ian R
+	 712!   20  2132  344 Atherton, John
+	1091?    0  1766  248 Baguley, Anthony
+	1848!   12   287   26 Bailey, Cameron R
+	1379     0  1263  159 Baker, Brendan
+	 767?    5  2092  335 Baker, Travis
+	1419     0  1171  142 Barber, Geoffrey
+	 683!   21  2149  350 Bargo, Peter-John
+	1274     0  1488  195 Barker, Andrew S
+	1468     0  1042  118 Barker, Ken A
+	1827     0   315   28 Barnard, Casey T
+	   5g    0            Barnes, Chip
+	1421!    0  1158  141 Barrett, Daniel J (Somerset)
+	   5g    0            Barrett, Sam
+	 970?    0  1896  276 Bartel, Matthew
+	1559!!  12   825   92 Barwinski, Vince J A
+	1208?    0  1607  223 Bassett, Benjamin
+	   2g    7            Bay, Anicha
+	   2g    5            Beamish, Daniel
+	1620     4   682   75 Bean, Richard W
+	   3g    6            Beatty, Rodney
+	1245?    0  1539  207 Beeley, Robert
+	 784!!  21  2075  329 Begaud, Bradley
+	 356?    6  2339  399 Begaud, Elijah
+	1439!!  13  1114  130 Beilby, Kieton
+	1227!    6  1570  213 Bender, Peter G
+	1558!    1   830   95 Bielenberg, Nathanael
+	   3g    0            Blackwell, James
+	1032??   0  1837  265 Bleney, Marcus
+	1147     0  1702  237 Bleney, Rebecca
+	 843??   0  2028  316 Bond, Arthur
+	   4g    5            Bonell, Sarah
+	1073!    0  1786  251 Boni, John
+	1436!   15  1119  132 Boora, Arash
+	1323!!  28  1378  178 Booy, Peter
+	 852     0  2018  311 Borrill, Mark
+	1221??   0  1583  216 Bourke, Dylan M
+	1036?    0  1834  263 Bourke, Kevin
+	   3g    6            Bourke, Ronald
+	 Unr     0            Bousfield, Samuel
+	1425!    0  1145  139 Boyle, Gregory
+	   4g    0            Bradshaw, Jamie
+	1416?    0  1176  144 Brady, Sean
+	   2g    0            Brailsford, Jack
+	1240!    4  1550  210 Braybrooke, Norm
+	 442??   0  2298  388 Bristow, Laurence
+	   2g    7            Brock, Corey
+	   3g    0            Brockwell, Ryan
+	 914!    0  1958  294 Buciu, Alex
+	1502!!  43   967  113 Buciu, Aurel-John
+	1357!    0  1302  164 Buciu, Avram
+	1337!!  13  1343  173 Buciu, Vasile
+	1152?    0  1698  235 Buck, Gordon
+	   3g    6            Buschel, Marcus
+	   4g    5            Butler, Aaron
+	 671!    0  2157  355 Byrne, Alannah
+	 196?    0  2397  413 Byrne, Jack
+	   3g    0            Calaug, Jeffrey
+	   3g    6            Campbell, Matthew (1995)
+	2157!    0    55    6 Caoili, Arianne B [WFM]
+	 367?    0  2333  394 Carey, Blair
+	   4g    0            Carter, Martin
+	2007     0   148   12 Casey, Kevin
+	1821!!  13   322   30 Cashman, Michael
+	   2g    7            Cervenjak, Mark
+	 571    13  2224  371 Cervenjak, Matthew
+	1313     0  1401  180 Chadwick, Marty
+	   3g    0            Chalmers, Lawson
+	 926!   14  1949  289 Chan, Keith
+	 Unr     5            Chan, Marco
+	 359     7  2336  397 Chan, Matthew
+	 375?    0  2330  393 Chapman, William
+	 632     6  2177  359 Charalambous, Steve
+	1629!!  13   666   71 Chelebichanin, Nenad
+	 416    10  2313  390 Chinthamuneedi, Raja
+	 443     6  2295  385 Choi, William
+	   3g    6            Chung, Henry
+	   3g    6            Chung, Philip
+	1230!!  50  1566  211 Cigelj, David
+	 615!    4  2193  365 Clarkson, Zac
+	   2g    7            Clarry, Darren
+	   2g    7            Collins, William
+	1200    10  1618  225 Colwell, Greg
+	1432!    0  1127  134 Constantin, Sam
+	 Unr     6            Coogan, John
+	 Unr     0            Cook, Bronte
+	1428     6  1136  135 Cooke, Steven L
+	 675?    0  2155  353 Cooper-Jackson, Reilly
+	 769?    0  2091  334 Coundouris, Nicholas
+	1532     0   897  104 Cowland-Cooper, David A
+	1680!    0   572   58 Craven, Mark A
+	1347?    0  1320  167 Cray, Andrew
+	 574    17  2223  370 Cristuta, Joaquin
+	1377!!  37  1268  161 Cristuta Snr., Roy
+	 699     0  2142  349 Cronin, James
+	   5g    4            Crowley, Robert
+	   3g    6            Cruice, William
+	   3g    0            Culey, Richard
+	 475!   14  2277  382 Cullen, Jamie
+	 876!    8  1993  303 Curran, John
+	 990?    0  1878  272 Curtis, Shaun
+	1439?    0  1114  130 D'Arcy, Michael
+	1163?    5  1682  232 Dakovic, Vaso
+	1070?    1  1792  253 Dalgleish, Trent
+	   4g    5            Davidson, Karl
+	1613!    0   693   78 Davidson, Nathan P
+	1053!    7  1818  261 Davies, Rhys
+	 898!    4  1974  296 Davison, Andrew
+	   6g    3            Dawson, Matt
+	1441!    8  1111  129 De Vere, Cameron
+	 Unr     6            Deguara, Jacob (1997)
+	1193     0  1626  226 Deient, Erwin
+	1406?    7  1200  148 Delmastro, Joe
+	1595??   0   739   84 Denne, Terry
+	1319!    0  1387  179 Derry, Geoff
+	   2g    7            Devine, Mimi
+	   2g    7            Devlin, Guy
+	 680?    6  2151  351 Dhaniram, Keane
+	   5g    0            Dobbie, Chris
+	1352!    0  1313  166 Dobson, Ernesto
+	 143?    0  2412  416 Doherty, Claren
+	 916?    0  1957  293 Dolan-Bowman, Zacharie
+	 Unr     4            Doodney, Shayne
+	 834!    6  2043  320 Dougherty, Colin Fred
+	   3g    6            Downey, Aaron
+	   4g    0            Drummond, Andrew
+	1604!!  13   719   81 Duffin, Mike
+	1524!!  16   916  109 Duggan, Howard
+	2051     0   116   11 Duxbury, Craig R A
+	1394     6  1229  152 Dyer, Jeff
+	   3g    6            Dyson, Rachel
+	1392?    0  1238  154 Eder, Paul
+	 Unr     0            Edridge, Davin
+	2082!!  15    96   10 Edwards, Jacob A
+	1345!!  26  1326  168 Edwards, Regina
+	1559?    0   825   92 Ee, Philip
+	1643!    0   639   66 Elkington, Derek
+	   3g    6            Ellems, Kurtis
+	 942?    0  1929  282 Elletson, Tim
+	 673?   13  2156  354 Enari, Herman
+	1327!    0  1369  175 Erickson, Sean S
+	1273!!  13  1490  196 Eriksson, Caleb
+	   6g    3            Essex, Billy
+	1443?    0  1106  128 Evans, Amy L
+	   4g    0            Evlachkov, Eugene
+	 852?    0  2018  311 Ezzy, Adam D
+	 Unr     0            Fellows, Brett
+	1464?    0  1056  120 Feria, Antolin
+	1625     7   674   73 Finke, Kelvin
+	 709??   6  2134  345 Fisher, Alex
+	1407?    0  1197  147 Fisher, Jayden
+	   5g    4            Fitzpatrick, Jeremy
+	 831?    6  2047  322 Fitzpatrick, Lachlan
+	1554!    0   847   97 Flitcroft-Smith, George P
+	1446!    0  1100  127 Flynn, Chris
+	 519?    6  2255  378 Foley, Joshua
+	1567!!  28   799   90 Ford, Daniel
+	 772!   18  2089  333 Foster, Allan
+	1598!    0   737   83 Fotinos, Charles
+	   2g    7            Fox, Owen
+	 867     0  2004  308 Franich, Mark
+	1386!    4  1252  157 Fraser, Wayne G
+	2352!!  26    11    2 Froehlich, Peter [IM]
+	1451!    0  1086  124 Gardner, Warren J
+	 Unr     5            Gatt, Jacob
+	1739!   12   457   42 Gearing, Michael
+	1742!!   0   449   39 Ghodosi, Hossein
+	 439!   11  2300  389 Gillingham, Stephen
+	   2g    7            Gilpin, Jack
+	1368!    0  1283  163 Gilpin, Matthew
+	1080     0  1780  249 Goh, Beng
+	1021     6  1849  267 Goh, Jily
+	 731     6  2118  343 Goh, Tetias
+	1744?    9   443   38 Gosney, Paul
+	   2g    7            Grant, Matthew
+	 705!   20  2136  346 Gray, Callum
+	1242!!   6  1544  208 Gray, Garvin
+	   4g    5            Grebe, Ricky
+	   5g    4            Griffen, Brendan
+	1727!!  27   482   46 Grigg, Sam
+	1551     0   857   98 Guest, John
+	 649?    0  2168  356 Guilbaud, Jean-Paul
+	 938?    0  1932  283 Gunn Schrader, Liam
+	 110?    0  2417  418 Gunn Schrader, Yarran
+	 Unr     0            Guyler, Geoff
+	   2g    0            Habeebur-Rahuman, Waleed
+	1727?    0   482   46 Hackenschmidt-Uecker, Joerg
+	 261?   11  2373  407 Hall, Kevin
+	   3g    6            Halloran, Isaac
+	1151     0  1700  236 Hansen, Timothy
+	   2g    7            Harada, Keita
+	   3g    6            Harding, Henry
+	1613?    0   693   78 Hardy, Christopher
+	1213!!  12  1598  222 Haron, Peter
+	1856?    0   276   23 Harris, John
+	 790?    6  2073  328 Hartigan, Joshua
+	1265!    6  1507  201 Hartley-Holl, Clifford J
+	 869?    6  2002  307 Heydon, James
+	   2g    0            Hignett, Bill
+	 590?    0  2210  368 Hiller, James
+	1157     0  1689  233 Hiller, Peter
+	1740!    0   455   40 Hindley, Simon
+	   2g    0            Hisug, Albert
+	   4g    0            Hobbs, Jake
+	 832?    6  2046  321 Hoens, Scott
+	1287?    7  1456  189 Holt, Daniel
+	 221?    6  2388  410 Hopkins, Matthew
+	1141     0  1711  240 Hore, Gerard
+	1385!    7  1254  158 Horton, Jessica
+	1544     0   875  101 Horwood, Melba
+	 758??   0  2096  337 Horwood, Raymond
+	 842     5  2034  318 Howell, Sidney
+	1567!   10   799   90 Howes, Tony
+	   2g    7            Huband-Lint, Kees
+	 620?    0  2184  361 Hughes, David
+	   2g    7            Hughes, Harry
+	   3g    0            Hughes, Thomas
+	   3g    0            Hugman, Caleb
+	1296!!   6  1438  186 Humphrey, John
+	2232!    6    34    4 Humphrey, Jonathan [FM]
+	1587!!  33   755   86 Hunter, Shayne
+	 777!   14  2084  331 Hurse, Lachlan
+	 365?    0  2334  395 Hyman, Jayden
+	   3g    6            Ito, Kento
+	 928!!  19  1947  288 Jack, Curtis
+	 876!!  34  1993  303 Jack, Martin
+	 871?    0  1998  305 Jackson, Cynthia
+	   2g    7            Jacobs, Danyon
+	   3g    0            Jae-Hong, Sim
+	   4g    5            Jefferies, Michael
+	1787     0   372   33 Jempson, Ross
+	1396     0  1227  151 Jenkins, Deborah
+	 461!    5  2284  384 Jo, Timothy
+	 616??   0  2191  364 Johnson, Tim
+	 914!!  18  1958  294 Johnston, Andrew
+	   2g    7            Jones, Nick
+	1740!!  11   455   40 Jule, Alexandra [WIM]
+	1413!!  27  1184  145 Jule, Sebastian
+	   2g    0            Kaizuka, Leon
+	1030!   18  1842  266 Kanagarajah, Abbie
+	1119    19  1735  242 Kanagarajah, Arjna
+	   2g    7            Kang, Charles
+	 130??   5  2415  417 Kapadia, Adit
+	 292??   5  2364  405 Kapadia, Karan
+	1427!    6  1137  136 Karibasic, Amir
+	 520!   11  2251  377 Karibasic, Melanie
+	 852!   12  2018  311 Karibasic, Sabin
+	1827     0   315   28 Karita, Sean
+	 294!    3  2363  404 Kaspar, Jay
+	 885!   11  1985  299 Kendall, Alexander
+	1174?    0  1655  231 Keys, Jeff
+	 Unr     0            Kibble, Chris
+	1927     0   194   15 Kimura, Toshi
+	 945!!   6  1926  281 Kinder, Danielle
+	1634!!  25   658   69 Kinder, Jessica
+	 760?   12  2095  336 Kindred, Andrew
+	1559     0   825   92 Kingston, Joe
+	1679     0   577   60 Kirkman, Phillip
+	 858     0  2014  310 Kirsten, Estienne
+	   5g    0            Kirsten, Shaun
+	1676!!   7   582   62 Korenevski, Oleg
+	1181!    0  1642  229 Kospartov, Nick
+	   2g    7            Kosterec, Cieron
+	1683     0   564   56 Krause, Terry
+	1326!   13  1370  176 Kulkaew, Knight
+	1255!   13  1519  203 Laky, Jim
+	 620!    8  2184  361 Lam, Alan
+	1618     7   687   76 Lam, Ross
+	 261     7  2373  407 Lang, Kiwa
+	 870!!  25  2001  306 Lapitan, Daniel
+	2123!   20    68    8 Lazarus, Benjamin
+	   3g    0            Leask, Aidan
+	 Unr     0            Leask, Michael
+	   4g    5            Lee, Isabelle
+	1326     0  1370  176 Lee, Leoma
+	 470     0  2279  383 Leef, Henry
+	1268     7  1499  198 Leggett, Brandon
+	 881!    7  1987  300 Leggett, Callum
+	1542!    6   879  102 Lei, Yitao
+	 974     0  1893  275 Leskiewicz, Lech
+	1697!!   0   533   49 Lester, George E
+	   3g    6            Liew, Samuel
+	1404     7  1205  149 Lim, Nathanael
+	   2g    7            Linnett, James
+	1485     0  1003  116 Littleboy, Bruce
+	   3g    6            Liu, Geoffrey
+	1593!!  41   743   85 Liu, Yi
+	1019!    9  1853  268 Lloyd, Martyn
+	 538?    0  2243  375 Lloyd, Matthew
+	 Unr     0            Lloyd, Nickolas
+	 977!    0  1890  274 Long Hong, Stan
+	 700??   0  2141  348 Longhurst, Ray
+	 500     7  2262  379 Louie, Jared
+	 932!    7  1941  286 Louie, Ryan
+	1843!!  20   295   27 Lovejoy, David
+	   3g    6            Lowe, Joshua
+	1039     9  1832  262 Loweke, Kevin
+	2305!    7    16    3 Ly, Moulthun
+	   2g    0            Lynch, Alan
+	   3g    6            Lynch, Ryan
+	1433!!  27  1124  133 Lyons, Kieran C [WFM]
+	1276!   15  1477  193 Lyons, Russell
+	 701??   0  2140  347 Lyons, Ryan
+	1492?    3   986  115 Ma, Paul
+	1057?    0  1811  259 Maber, Mark
+	1295     7  1440  187 Maclennan, Henry
+	1532!!  13   897  104 Macleod, Keith
+	 918     7  1954  291 Mah, Shaun
+	 Unr     0            Mainwood, Samuel
+	1714!    0   502   48 Manongas, Jesse
+	   2g    7            Mantha, Sidharth
+	1687??   0   554   53 Marinovic, Brian
+	1108!!  16  1749  246 Markson, Ellis
+	1034?    0  1836  264 Martin, Shane
+	   7g    2            Martlew, Daniel
+	2128!    0    65    7 Mastilovic, Rajko
+	1301!    0  1429  184 Matheson, John
+	1188?    0  1631  228 Matsui, Aki
+	   6g    0            Maxwell, Lucy
+	   4g    0            Mayanja, Carl W
+	   3g    6            Mayne, Justin
+	 891?    7  1982  298 Mayne, Ziah
+	 Unr     0            McAnelly, Patrick
+	 931!   13  1942  287 McCarthy, Oliver
+	1341     7  1336  170 McClymont, Brodie
+	1628!!  22   668   72 McColl, Kevin S
+	   4g    5            McCormick, Rebecca
+	   5g    4            McDonald, Oliver
+	1424     7  1150  140 McGarity, Liam
+	1572     7   786   89 McGarity, Molly
+	1411?    0  1188  146 McGregor, Grant
+	1550?    0   861   99 McIntyre, Brock
+	1146??   0  1704  238 McKeering, Damien
+	1267     0  1503  199 McLean, Matthew
+	   3g    0            McNicol, Guy
+	1609?    0   706   80 McPhee, Benjamin A
+	1127     0  1729  241 McRoberts, Anthony J
+	 800?    0  2059  327 Medland, Robert
+	1850     0   283   25 Mehltreter, Otto
+	 918!    9  1954  291 Menham, Allan
+	 881!!  24  1987  300 Miles, Alex
+	   3g    6            Miller, James (1997)
+	   2g    7            Millett, Andrew
+	 202?   11  2392  412 Mills, Gareth
+	1215!   17  1593  220 Mills, Ross
+	   4g    5            Mills, William
+	 748?    6  2104  340 Morrison, Andrew
+	 Unr     0            Morrison, Cameron
+	   2g    7            Mortensen, Rhys
+	1276     0  1477  193 Moulton, Julian
+	1578?    0   773   88 Mowles, Karina
+	1117?    0  1738  243 Mulholland, Phillip
+	1303!!   6  1423  183 Muller, Hans-Peter
+	1680!!  33   572   58 Muller, Jonas
+	 844??   0  2026  315 Murphy, Joseph (1991)
+	1461??   0  1063  122 Murphy, Nicholas
+	1451     2  1086  124 Murray, Victor-David
+	1155!    7  1692  234 Nagano, Keishu
+	 166??   0  2407  415 Naidoo, Kishendran
+	 173??   0  2404  414 Naidoo, Nansen
+	 Unr     1            Naidu, Anan
+	1250??   0  1529  206 Nakagawa, Nozomi
+	1900!!  33   225   18 Nakauchi, Gene [FM]
+	 737!!  25  2112  342 Nakauchi, Kenji
+	1876!    0   255   22 Napier, Darren A
+	1697?    0   533   49 Nataprawira, Halim
+	 Unr     0            Navin, Gregory
+	   4g    0            Neale, Ryan
+	1116!   12  1740  244 Ng, Erich
+	 605?    0  2197  366 Ng, Jonathan
+	 Unr     7            Nguyen, Huy
+	 Unr     7            Nicholson, Thomas
+	1417!    9  1174  143 Nutt, Jeff
+	1856     0   276   23 O'Brien, John
+	   3g    0            O'Connell, Chase
+	 443?    5  2295  385 O'Connor, John
+	1391!!  20  1241  155 O'Flynn, Alexander
+	 Unr     0            Oats, Caleb
+	1623!    0   679   74 Offermans, Peter
+	1691?    0   546   52 Olm-Milligan, Kieran
+	1311?    0  1405  181 Olsen, Michael
+	1728     0   477   44 Olsen, Noel
+	 843!!  20  2028  316 Onoda, Tomotaka
+	 755     0  2098  338 Ooi, Darren
+	   4g    0            Orr, Matthew
+	 484??   0  2272  380 Pagliano, Matthew
+	   2g    7            Pagliano, Tristan
+	   3g    6            Paramonoff, Chris
+	2004     0   151   13 Pardoen, Alain
+	 964     7  1902  277 Park, Kevin
+	   2g    0            Parrag, Justin
+	1465    11  1055  119 Pass, Evan G
+	1389!    0  1247  156 Paterson, Peter
+	 406?    5  2317  391 Peach, Ben
+	1058!!  32  1808  257 Peck, Robbie
+	   4g    0            Pecotich, James
+	1341!!  13  1336  170 Pedersen-Lee, Lachlan
+	 382?   12  2327  392 Pena, Carlos
+	   5g    0            Petersen, Bec
+	1255!!  16  1519  203 Petrie, Jim
+	   4g    0            Phillips, Jaron
+	 Unr     0            Pike, Jeremy
+	 Unr    11            Pomerenke, Ben
+	 533?   10  2248  376 Pomerenke, Zachary
+	1666?    0   598   64 Poon, Nick
+	1225     0  1574  214 Posner, Daniel
+	1342     0  1333  169 Potts, John B
+	1427     0  1137  136 Powell, Bill C
+	1228?    0  1569  212 Powell, Gordon
+	 341?    0  2345  402 Powell, Ulani
+	 813!    0  2055  326 Power, Tony
+	 331??   5  2351  403 Preshy, Aishwarya
+	   3g    0            Preshy, Anish
+	 936!    6  1936  285 Prideaux, Dirk
+	 343?    5  2344  401 Quaderi, Shabab
+	   3g    0            Quindoza, Romy
+	   3g    6            Quirante, Divex
+	 546!    6  2237  374 Radford, Joshua
+	 348!    6  2343  400 Radford, Matthew
+	1505!    2   959  111 Radovan, Peter L
+	   3g    6            Rajappa, Sriram
+	   4g    0            Ramasamy, Shiva
+	   3g    6            Ravindran, Arul
+	   1g    0            Redhead, Yru
+	   4g    0            Redzepagic, Emir
+	   4g    5            Reeve, Jacob
+	1333?    0  1353  174 Renton, Andy
+	   5g    4            Rice, Patrick
+	 774?    0  2087  332 Richards, Elliott J
+	 Unr     0            Richards, Joseph
+	1067!!  14  1797  255 Richards, Wilfred
+	   4g    0            Riggs, Chris
+	 443?    7  2295  385 Riggs, Matthew L
+	1070!   26  1792  253 Ringrose, Jonathan
+	1066!   24  1799  256 Ringrose, Kyle
+	1583     0   762   87 Ritchie, Jim
+	 618?    0  2188  363 Roberts, Kieran
+	   3g    0            Roberts, Raymond
+	1526!    9   912  108 Robinson, Andrew J
+	 864!!  43  2009  309 Rogers, Jim
+	1290     0  1448  188 Romanik, Julian
+	 826     0  2049  323 Roper, John
+	1463?    0  1059  121 Rosenow, Manfred
+	1683     0   564   56 Ruddy, Alex
+	1092     0  1764  247 Said, Peter
+	   2g    7            Salisbury, James
+	1728     0   477   44 Sampson, Dion
+	 Unr     6            Sandy, Phillip
+	2232     0    34    4 Sarfati, Jonathan [FM]
+	1206!    0  1611  224 Saric, Milan
+	 582?   11  2216  369 Scanlan, Jim
+	 Unr     7            Scantlebury, Lachlan
+	1073!    5  1786  251 Scott, John D.
+	1791!    0   369   32 Sculac, Bero
+	   3g    0            Seeto, Alexander
+	   3g    0            Seeto, Peter
+	 Unr     0            Seignior, Brody
+	1811!!   0   334   31 Selnes, Hamish
+	1451     0  1086  124 Shanks, Jack
+	 938?    0  1932  283 Sharma, Schwarzkopf
+	1241    10  1546  209 Shaw, Nathan
+	1142     0  1709  239 Shinnie, Robert
+	 921!!  32  1951  290 Simmonds, Leteisha
+	1618?    0   687   76 Sleight, Anthony
+	   2g    7            Sly, Tom
+	 636?   14  2175  357 Smart, Chris
+	   3g    6            Smith, Cameron (Gladstone)
+	1516     9   929  110 Smrek, Dusan
+	 961     7  1909  280 Solomon, Anthony
+	 220?   17  2389  411 Solomon, Rachael
+	2429!!  21     5    1 Solomon, Stephen J [IM]
+	   3g    6            Soo, Lachlan
+	1013!   20  1859  269 Soo-Burrowes, Eliot W
+	1219!    6  1586  218 Sorenson, Finn
+	1888?    0   242   21 Spuler, David
+	1427!    7  1137  136 Sretenovic, Laz
+	   5g    0            Sritharan, Nishaker
+	1765?    0   403   35 St Samuel, Boipuso
+	1695!!  27   537   51 Stahnke, Alexander
+	1393!    7  1234  153 Stahnke, Axel
+	1738!!   0   459   43 Stark, Ken
+	1535!!  19   890  103 Stewart, Craig A
+	   2g    0            Stockwell, Adrian
+	1647!!  25   632   65 Stokes, Mark C
+	   4g    5            Strickland, Peter
+	   2g    7            Stuart, Jack G (1996)
+	   2g    7            Stuart, Warwick
+	1635     6   656   68 Summers, Paul G
+	1221!   13  1583  216 Surridge, John
+	   7g    0            Swainston, Mark
+	1531!   15   900  106 Swift, Stephen C
+	1504!    2   961  112 Szabo, Michael
+	 363!    7  2335  396 Tan, Felix
+	 633!    0  2176  358 Tan, Maxine
+	1372?    6  1275  162 Tan, Richard (1985)
+	 548!    7  2234  373 Tan, Sophie
+	 479!   13  2274  381 Tan, Wilbert
+	   2g    7            Taylor, Katrina
+	1058!    9  1808  257 Taylor, Mark
+	 964?    6  1902  277 Teed, Curtis
+	1055!    6  1814  260 Theeuf, Joshua
+	   5g    0            Thibuat, Loic
+	1924??   5   195   16 Thomas, Alan J
+	1896!!  14   230   19 Thomas, Brian
+	1354!   13  1309  165 Thompson, Cameron M
+	 814!!  27  2054  325 Toda, Luke
+	   3g    0            Toda, Sanae
+	 230    12  2384  409 Toda, Yamato
+	1252?    0  1525  205 Tomasevic, Ivan
+	1454!    4  1082  123 Toolsie, Alex
+	1181!    7  1642  229 Torise, Daniel
+	 277?    7  2371  406 Triscott, Hannah
+	   3g    6            Troost, Corey
+	1912!!   7   204   17 Truscott, Tony J
+	 Unr     1            Tully, Sam
+	1258?    5  1515  202 Tweed, Jack
+	   3g    0            Tyle, Portia
+	1403     7  1210  150 Underwood, Sean
+	1341    14  1336  170 Uscinski, Victor
+	 780     0  2079  330 Van De Graaff, Nell
+	1270!   19  1495  197 van den Bergh, Lachlan
+	1193?    0  1626  226 Van der Beek, John
+	1643     0   639   66 Van Der Meer, Andrew
+	   3g    6            van Gend, John
+	 824    12  2051  324 van Gend, Michael
+	1007?    6  1861  270 van Gend, Robert
+	1679!!  14   577   60 Van Pelt, Michael
+	1893     0   234   20 Van Renen, Mike
+	   5g    4            Vico, Jordan
+	   4g    0            Visona, Sam
+	 Unr     1            Von Schottsky, David
+	 Unr     2            Von Schottsky, William
+	   2g    0            Vucak, Mark
+	1778     6   384   34 Walker, John D
+	1602!!  33   723   82 Walker, Tyson
+	   3g    6            Wang, Frank
+	 631?    5  2179  360 Warner, David
+	   2g    7            Washbourne, Michael
+	1113     0  1743  245 Waterhouse, David
+	   3g    0            Watson, Steve
+	1283    12  1463  191 Webster, Andrew L
+	   2g    0            Wei, Robin
+	   2g    0            Weitenberg, Jack
+	 879     0  1990  302 Weitenberg, Zane
+	1762!!  38   407   36 Weller, Tony
+	1747!    0   433   37 Wilkinson, Leo
+	1280!    9  1467  192 Willcock, Brian
+	1685!    0   560   55 Williams, Bruce
+	 980     5  1887  273 Wilson, Bernie A.
+	 997!!  21  1872  271 Wilson, Sean
+	 964     0  1902  277 Wilson, Stuart
+	1079     7  1781  250 Winston, Brent
+	   2g    7            Wirawan, Tomy
+	1949!    0   182   14 Wongwichit, Phachara
+	 838?    0  2037  319 Wright, Catherine
+	 893!    6  1979  297 Wu, Kantley
+	1670     4   590   63 Wu, Zhicong
+	1480?    7  1010  117 Xiao, Colin
+	1267?    0  1503  199 Young, Gail
+	1219??   0  1586  218 Young, John
+	 558!   18  2228  372 Yum, Jenny
+	 359    12  2336  397 Yum, Winnie
+	   2g    7            Zappala, Caleb
+	 755?    0  2098  338 Zhang, Calvin
+	1311?    0  1405  181 Zhu, Kevin
+*SACA
+	1639     0   649   44 Ajith, Chol Solomon
+	   2g    0            Aktapoda, John
+	1207?    0  1609   95 Al Kamil, Mohammed
+	   3g    6            Alber, Peter
+	1761     0   409   31 Amini, Amir
+	1573!!  16   783   48 Anderson-Smith, William (Bill)
+	1397!!   6  1225   72 Atrens, Edvard
+	1166!!  19  1675   99 Atrens, Karlis
+	2061     0   111    8 Ayris, Tony
+	1296!    5  1438   86 Bage, Chris
+	 931?    4  1942  119 Ballantyne, Martin
+	1905!    3   217   21 Ballard, Peter G
+	   6g    0            Barr, Nick
+	1135!    7  1718  101 Beltsos, Michael
+	1272?    0  1492   89 Borg, Malcolm
+	1467?    0  1048   61 Borg, Matthew
+	1102!   15  1757  109 Bortsova, Natasha
+	   4g    0            Bowditch, James
+	   2g    0            Branch, Lachlan
+	1014!!  11  1858  115 Branson, Edward
+	 Unr     5            Brown, Brad
+	1276     7  1477   88 Cameron, Alistair
+	 712??   0  2132  128 Camm, Timothy
+	 384?    0  2326  135 Carter, Morgan
+	1123     0  1733  105 Chambers, Thomas Edward
+	2303!    7    18    2 Chapman, Mark [IM]
+	1681!    9   570   41 Chilman, Alan
+	1962!!  15   172   13 Cloudsdale, Colin
+	1394!    0  1229   73 Colliver, Scott
+	 912??   0  1963  123 Conway, Dennis
+	1558!!   7   830   51 Cooke, Tristrom P
+	1244!    0  1541   91 Corti, Mario
+	2026!!  15   134   10 Cowley, Robert G (Bob)
+	   3g    0            Daenke, Stephen
+	1782!    0   378   28 Dakovic, Goran
+	1325!    2  1374   85 Davey, Timothy
+	1131!    9  1723  103 De Jong, George
+	   6g    0            Deng, Akui
+	1647!    6   632   43 Djelaj, Pasko (George)
+	1096?    0  1760  110 Du, Charles
+	   2g    0            Du Toit, Pierre
+	1408     3  1194   69 Eime, Roland
+	   4g    0            Elliot, Matthew
+	 Unr     0            Eustace, Erin
+	1480!!  22  1010   59 Eustace, Sophie
+	 682??   0  2150  129 Flabouris, Katerina
+	1909!    6   211   18 Flitney, Adrian
+	1349     0  1318   81 Fraser, Lee
+	 996??   0  1873  117 Gage-Brown, Liam
+	1733!!  15   465   35 Garcia-Blanco, Miguel
+	1178!!  14  1648   97 Glascott, Brent
+	2030!!   7   132    9 Goldsmith, Alan D
+	 Unr     1            Griggs, Bill
+	1464!    5  1056   63 Griggs, James
+	2122!   12    69    5 Guthrie, Aaron [FM]
+	   3g    0            Gwinnett, Aaron
+	 Unr     0            Hall, Pev
+	 895?    1  1976  124 Han, Tianchen
+	1334!    7  1350   84 Harrison, Derek
+	1466!    5  1051   62 Hatch, John H
+	1551!!  16   857   52 Haydn, Gavin
+	1214!    0  1595   94 Heitmann, Gordon
+	1019??   0  1853  114 Hendrick, Geoff
+	1426!    3  1143   67 Hill, Steven
+	1173!    9  1657   98 Hill, Victor George
+	1532     0   897   55 Hoff, Greg A
+	1840!!   6   299   25 Hoff, Michael R
+	1860!!   6   271   23 Hoile, Robert
+	   8g    1            Hooker, Justin
+	 728??   5  2123  127 Horan, Paul
+	1560     2   822   50 Howard, George
+	1443     0  1106   65 Ivancic, Fabian
+	1717!!   7   495   36 Ivkovic, Novica
+	1901!!  22   222   22 Jackson, Ralph E
+	 836     4  2041  125 Jackson, Ricky
+	1741!!  21   452   34 Jelic, Mato
+	1906!    7   216   20 Juszczynski, Mathew
+	 Unr     0            Karatassas, Jacqueline
+	1958!!  12   175   14 Kerr, Bill
+	1133??   0  1722  102 Key, Simon
+	1067?    0  1797  113 Khoo, Thomas
+	   4g    0            Klaric, Stephen
+	 927!    7  1948  120 Knapp, Katrina
+	1369!!   7  1281   77 Kramer, Warren
+	 921?    0  1951  121 Kuol, Leek Gordon
+	1703!    5   526   37 Lang, Grahame
+	1109?    0  1746  106 Lauer-Smith, Jade
+	1547??   0   867   53 Lauer-Smith, Juanita
+	1583!!   4   762   45 Lidums, Aivars
+	   6g    0            Liew, Sean
+	1365!    7  1291   79 Low, Brandon
+	1103!   19  1755  108 Lower, Kevin
+	1407!    6  1197   70 Lozic, Anto
+	 Unr     3            MacKenzie, Terry
+	1183     0  1638   96 Mading, John Thon
+	1433!!  16  1124   66 Maric, Milan
+	 670?    0  2158  130 Mayo, Eleesheva
+	1400     0  1218   71 McKechnie, Andrew
+	1292!!  21  1447   87 McPherson, Erick
+	1908!!  23   213   19 Mdinaradze, Edgar
+	1533!!   6   894   54 Miletic, Savo
+	1126!    0  1731  104 Miller, Anthony Christopher
+	1510!!  13   946   56 Milton, Anthony W
+	1347!!  12  1320   82 Milton, Thomas J
+	 Unr     0            Mishra, Aashka
+	 123??   0  2416  136 Mishra, Aditya
+	 627??   0  2181  132 Mitra, Druva
+	 802??   0  2058  126 Moore, James Michael
+	 935??   0  1937  118 Moult-Smith, Andrew
+	 Unr     0            Newbold, Jarrod
+	2102!    7    81    6 Nguyen, Giang
+	 Unr     1            Nicholls, Stuart
+	2235     0    30    3 Obst, James
+	1491!!  14   989   58 Paprzycki, Eryk
+	1821!    0   322   26 Peake, Michael R
+	 534??   3  2246  134 Perks, Hugh
+	 Unr     0            Pojkovski, Martin
+	 639?    0  2170  131 Pope, Oliver
+	1578     0   773   47 Regoeng, Rapula
+	1690!    5   549   39 Riches, L John
+	1777!!   4   387   29 Rigo, Bernard A
+	1379!    0  1263   76 Sag, Andrew
+	1354     0  1309   80 Saint, Alexander
+	1922!    1   197   16 Saint, Andrew
+	1084!   15  1776  112 Sanders, Michael J
+	1393?    0  1234   74 Sanderson, Christopher
+	1685?    2   560   40 Sarma, Venu
+	 606?    0  2196  133 Savage, Zachary
+	1105     0  1752  107 Schoech, Franz
+	1366!!  20  1288   78 Searle, Zachary
+	1759?    2   411   32 Serwan, Peter
+	1978     4   163   11 Sheldrick, Kevin
+	1583     7   762   45 Shohani, Ammar
+	1703!!  16   526   37 Short, Andrew
+	   2g    0            Spiliotis, Alexios
+	2133     0    64    4 Srdic, Goran
+	1473!!  23  1029   60 Staak, Eric
+	1859??   0   272   24 Steffensen, Dennis A (Dr)
+	1003     0  1866  116 Stephenson, Alison
+	1965!    0   170   12 Stevens, Tristan
+	1920!!   2   200   17 Sykes, Alexander K I
+	 Unr     2            Synnot, Catherine
+	1753!    0   425   33 Takos, Adam
+	1142?    0  1709  100 Tan, Peter
+	2375!    0     9    1 Tao, Trevor
+	 Unr     0            Taylor, Athena
+	1792     0   366   27 Thiyagarajah, Prakash
+	   7g    0            Thompson, Brad
+	1261     0  1511   90 Thorne, Richard
+	1566!!  22   804   49 Turcaj, Pavel
+	1237?    0  1557   92 Umapathysivam, Mahesh
+	1461?    0  1063   64 Utturkar, Ashwin
+	1649!    4   628   42 Vosvotekas, Ross
+	1231    16  1565   93 Vuckov, George
+	1340!!   9  1340   83 Watters, Daniel
+	1937     0   190   15 Wedding, Robin
+	 919!   19  1953  122 Whitney, Garth
+	1392!!   7  1238   75 Wilson, James E
+	   2g    0            Wong, Coco
+	1423!    9  1152   68 Wynne, David
+	1092?    0  1764  111 Yang, Owen
+	2101!!  10    82    7 Zaric, Srboljub
+	1506!    6   955   57 Zorkovitch, Ante
+	1767!!  23   401   30 Zulfic, Fedja
+*TCA
+	1178?    0  1648   54 Abbott, James
+	   2g    0            Akshan, Keenoo
+	1484     0  1004   28 Berzins, Paul J
+	1499!    0   974   26 Bettiol, Sante
+	1953!!   6   178    4 Bonham, Kevin
+	 433?    6  2304   80 Briant, Harrison
+	1169!   12  1669   56 Briant, James
+	 703??   0  2139   70 Briant, Megan
+	 442?    0  2298   79 Carew-McCulloch, Daniel
+	   3g    6            Carter, Adam
+	 667?   12  2160   71 Carter, Ellyn
+	   4g    5            Carter, Mason
+	1782!    0   378   10 Chadwick, Charles
+	 Unr     0            Chilcott, Nick
+	1540!    0   883   24 Cohen, Scott
+	 968    21  1898   63 Davis, Kieran
+	1563??   0   815   21 Doblies, Werner
+	1570!!   6   794   19 Donnelly, Philip W
+	 494?    6  2265   76 Dowden, Ben
+	2032!    6   130    2 Dowden, Tony
+	 745?   15  2108   69 Duniam-Douglas, Ethan
+	 Unr     0            Duniam-Douglas, Taran
+	1798!!  34   355    9 Dyer, Alastair
+	 479??   0  2274   77 Dyer, Merran
+	1422?    0  1154   36 Edwards, Chris
+	 999??   0  1869   62 Ferris, Mark
+	1197!!  33  1620   51 Fifield, Andrew
+	 Unr     0            Flett, Andrew
+	 619??   0  2186   74 Frame, Erin K
+	1779!!  12   383   11 Frame, Nigel
+	 835??   0  2042   67 Frame, Zachary J
+	1269!    6  1496   49 Fry, Dallas
+	1687     0   554   17 George, Ross
+	1744!!   6   443   13 Gibbs, Glen B
+	 662??   0  2163   72 Gordon, James
+	1561!    6   820   22 Harvey, Reg
+	1387!!  28  1249   40 Hendrey, Kevin
+	1707!    7   515   15 Hendrey, Thomas
+	1425!   13  1145   35 Hood, Justin
+	 Unr     0            Horne, Michael
+	1027!    4  1845   61 Horton, Nina
+	1449!!  27  1094   31 Horton, Russell
+	1445!!  27  1102   32 Horton, Vincent
+	1458!   20  1071   30 Hughes, David
+	 651?    0  2167   73 Hunn, Nick
+	1496!!   6   981   27 Ivkovic, Milutin
+	 520    26  2251   75 Jolly, Jackson
+	1232    15  1561   50 Jolly, Tim
+	1323     0  1378   44 Kennedy, John
+	   2g    0            Kilpatrick, Rhys
+	 Unr     0            Knight, Erica
+	1982!    0   160    3 Knight, Peter
+	   3g    0            Kohli, Suneet
+	 457?   10  2285   78 Krasnicki, Alina
+	 Unr     0            Krasnicki, Sebastian
+	   4g    5            Krasnicki, Tom
+	1179??   0  1647   53 Krushka, John
+	1367!   12  1285   41 Kruup, Andrew
+	1320!!  22  1385   46 Kuzmic, Carey
+	1321!!  21  1382   45 Kuzmic, Dylan
+	1445!!  22  1102   32 Ledger, R Neville
+	1431!!  21  1131   34 Lewis, Nigel
+	1703!    0   526   16 Line, Martin
+	1917     0   201    6 Lucas, Peter
+	1556?    0   840   23 Lucht, Michael
+	2113?    0    74    1 Markovitz, Neil
+	1404!!   6  1205   38 Martin, Janice
+	 400??   0  2320   81 McCullough, Aisling
+	   2g    0            McKay, Phillip
+	 908?    0  1966   64 Megirian, Rene
+	1347??   0  1320   42 Menetrier, Paul
+	1471!    0  1037   29 Midson, Michael
+	1138!    0  1716   58 Minol, Leo
+	 Unr     0            Mohr, Nathan
+	 Unr     0            Moores, Dylan
+	1572!    0   786   18 O'Mara, John
+	1164!    0  1680   57 O'Mara, Noel
+	1093?    0  1763   59 Onfray, Robert
+	1799!    0   352    8 Pavicic, Mile
+	1530!!  16   902   25 Radosavljevic, Dragan
+	 895?    6  1976   65 Rezaie, Mushtagh
+	1817     0   326    7 Rezaie, Ramin
+	1318!!   5  1389   47 Richards, Graham
+	1406??   0  1200   37 Richardson, Joss
+	1331     0  1359   43 Rintoul, Max
+	1172     0  1660   55 Russell, Geoff
+	 873??   0  1996   66 Rust, Steven
+	1763!    0   405   12 Saunders, Michael
+	1398?    0  1221   39 Schmidt, Michael
+	1565     0   810   20 Sheerwater, Henry
+	1038!   12  1833   60 Short, Owen
+	1737!!   0   463   14 Slidziunas, John
+	1279!!  28  1470   48 Smith, Charlie
+	   4g    0            Storey, Ben
+	   4g    0            Storey, Tom
+	   3g    0            Stride, David
+	1191!!  12  1629   52 Sturges, Tony (Thelston)
+	 Unr     0            Thain, Ella
+	 Unr     0            Thain, Jem
+	   2g    0            Tilsley, Thomas
+	1951?    0   181    5 Todd, Andrew
+	 792?    6  2068   68 Van Oorschot, Siebe
+*CV
+	1194     0  1623  389 Abdelrahman, Youssef
+	   4g    0            Abdullah, Khaizuran
+	1089!    0  1768  418 Abson, John
+	1735     0   464  109 Afshar, Afshin
+	   6g    0            Agarwal, Priya
+	1413!    0  1184  293 Aguila, Luis
+	 Unr     3            Ahern, Steve
+	1466?    0  1051  268 Akverdi, Alp
+	1667??   0   597  143 Aladjova-Wills, Katrin [WFM]
+	 Unr     0            Alagappan, Vignesh
+	 615??   0  2193  496 Albrecht, Christian
+	 782?    2  2076  469 Alfons, Bishoy
+	 Unr     0            Alliwala, Alton
+	1912!    6   204   46 Anderson, Alistair
+	 715!    0  2130  483 Anderson, Bill
+	2173?    0    47   12 Anderson, Tim
+	 930!    7  1945  448 Ang, Stephanie
+	 445??   0  2290  514 Annamneedi, Anil
+	 618     0  2188  495 Antolis, Adeline
+	1807!    7   338   83 Antolis, Cedric
+	1413!!  32  1184  293 Anton, Sarah
+	1599?    0   731  188 Antoniazzi, Francesco
+	1549!!   0   863  222 Armerman, Mendel
+	 165?    4  2408  530 Arulprakasam, Dinesh
+	 534!    4  2246  501 Arulprakasam, Joash
+	1534?    0   892  232 Atem, Andrew
+	1624     0   678  171 Au, Dennis
+	1312!    5  1403  342 Auimatagi, Joshua
+	1815?    0   328   79 Babic, Zoran
+	1425!    0  1145  283 Bailey, Robert
+	1612!   12   699  178 Bakanursky, Josh
+	   6g    0            Baker, Jim
+	1301     0  1429  351 Bakker, Peter
+	 953     0  1916  444 Balnionis, Alexander
+	2309!    0    15    7 Baron, Michael [FM]
+	1763!    5   405   97 Barrow, Nigel
+	1367     0  1285  320 Barry, Andrew
+	1527!    0   909  237 Barta, Gerard
+	1521!    0   922  240 Baxter, Craig
+	1710!    3   510  121 Bearup, Paul
+	1655!!   0   613  152 Beattie, Roger
+	1886!    7   245   56 Beaumont, David
+	1558!!  14   830  213 Beckman, John
+	1650     0   624  157 Beet, Cameron
+	1353?    0  1311  324 Beggs, Joel
+	 578?    4  2220  499 Beiers, Bill
+	1659!!   0   608  149 Bekker, Gary D
+	   6g    0            Bell, Gene
+	 911!    0  1965  452 Benjamin, Frank
+	1605!!  10   715  184 Bennett, Calvin
+	1650!    0   624  157 Bennett, Christian
+	1362?    0  1294  321 Bennett, John
+	 Unr     0            Bennett, Zac
+	1576!    0   776  196 Bergmanis, Olgerts
+	   2g    0            Bharadwaj, Anand
+	1522     0   919  239 Bhattacharya, Devraj
+	 285??   0  2367  522 Billinghurst, Michael
+	1625!    0   674  170 Biondo, Sam
+	1682     0   569  137 Boasman, Ian
+	1626     0   671  168 Bonning, James
+	2100!    6    84   22 Booth, Stewart
+	 Unr     1            Boucek, Heinz
+	2088!    6    91   25 Bourmistrov, Denis
+	1819     0   324   78 Bowen, Leon
+	1685!    3   560  134 Braham, Peter
+	 977     6  1890  438 Brehas, Costa
+	 Unr     0            Brennfleck, Tom
+	1161     0  1687  404 Brice, Ryan
+	1552!!   6   853  218 Brockman, Roland
+	 Unr     0            Brodie, Hugh
+	1280!!   8  1467  361 Brooking, Robert
+	1732!!  15   469  113 Brooks, Chris
+	1568!    0   797  202 Brotheridge, Jamie
+	 Unr     0            Brotheridge, Jason
+	 Unr     1            Brown, Chris
+	1873     6   259   59 Bruere, Mark F
+	1652     0   620  155 Buda, Alexander
+	1559?    0   825  211 Bultman, Grant
+	1236     0  1560  378 Butler, John M
+	 999?    0  1869  435 Cai, Burton
+	1573!!   7   783  199 Caissa, Peter
+	1169?    0  1669  400 Calvez, Gael
+	1709!    0   513  123 Cameron, James
+	1769!!   0   398   94 Campara, Miralem
+	 619?    0  2186  494 Canale, Dominic
+	1053?    0  1818  426 Cannon, Jonothan
+	1273?    2  1490  364 Carter, David
+	 664??   0  2161  489 Casey, Tim
+	 Unr     2            Cass, Matthew
+	1567!    0   799  204 Cavka, Ivan
+	1383     7  1257  314 Cerny, Leo
+	1461?    6  1063  269 Chan, Michael
+	 846!    6  2025  462 Chan, Raymond
+	   3g    0            Cheema, Mohammad
+	 197?    0  2396  528 Chen, Jasper
+	 736?    0  2114  479 Cheng, Jeremy
+	1706!!  27   518  125 Chmiel, Rad
+	1385!    0  1254  313 Chong, Trevor
+	2320!!   7    13    5 Chow, Samuel
+	1334?    0  1350  334 Chua, Eric
+	1546!    0   870  224 Chua, Manny
+	1739!!  38   457  108 Chung, Francisco
+	 Unr     1            Collis, Warren
+	1329!    0  1363  339 Commons, Tim
+	1006??   0  1863  432 Congiu, Paul
+	1758!    7   414   99 Cook, Geoff L
+	1599!!   6   731  188 Cook, Patrick
+	1275?    0  1483  362 Corbeil, Serge
+	1290?    0  1448  357 Coutts, William
+	1411?    0  1188  295 Cram, Darren
+	1103?    0  1755  417 Cram, David
+	1170     0  1667  399 Creedon, David
+	1634!!  12   658  165 Croft, Roger
+	   1g    8            Cross, Jamie
+	1663!!  11   603  146 Cuesta, Onofre
+	1085!   10  1774  422 Cuxson, Stuart
+	1047     0  1826  427 Cymons, Albert
+	1398     3  1221  306 Czuczman, Ken
+	1421     5  1158  287 Daivis, Jon
+	1452!    0  1084  275 Dalton, Joshua
+	1309!!  18  1410  344 Dalton, Laurie
+	 946!    5  1924  446 Dalton, Micah
+	1747!    7   433  104 Dalton, Samuel
+	1065     0  1800  425 Darcy, Greg
+	 751?    0  2102  473 Darcy, Jamie
+	1648!    0   630  160 Davenport, John
+	1344     3  1329  329 Davies, Stephen P
+	1467     0  1048  267 Davis, Geoff
+	 Unr     6            Davis, Justin
+	 318??   0  2355  519 Davis, Karl
+	1861!!  33   270   63 Davis, Tony J
+	 843?    0  2028  463 de Goede, Carla
+	1538     5   886  230 De la Lande, Russell
+	 982??   0  1884  437 De Winter, Stephen
+	1612?    0   699  178 Deng, Kuol
+	   6g    0            Deng, Sheree
+	2242!    0    28    9 Depasquale, Chris J [FM]
+	 Unr     6            Devlin, Paul
+	1232?    0  1561  379 Dickens, Alex
+	 518??   0  2257  502 Dilks, Victor
+	1904!!  18   220   52 Dizdarevic, Mehmedalija
+	 187?    0  2401  529 Dommersnes, Brett
+	   2g    0            Dong, Michael
+	1345     0  1326  328 Doon, Steven
+	2127!!  43    66   18 Dragicevic, Domagoj
+	1334!    0  1350  334 Drazzi, Frank
+	1601?    0   727  186 Drew, Phillip
+	1459!    5  1068  270 Duncan, Jim
+	1807!    0   338   83 Dutka, Janusz
+	 Unr     0            Dyke, Jarod
+	1603!!   0   721  185 Dyson, Dmitri
+	1404!    7  1205  301 Elbrish, Sam
+	1421!!   6  1158  287 Eldridge, James
+	1848     0   287   67 Elias, Nawzad
+	 456?    0  2286  513 Ellery-Thornley, Max
+	1371!    0  1277  317 Elliott, Alan
+	1172?    0  1660  397 Ellis, Liam
+	1488!    6   997  258 Emodi, Nick
+	1683!!  17   564  135 Escribano, Jose
+	1589     0   750  194 Evins, Sally
+	1491!    5   989  257 Exner, Rolf
+	1027     0  1845  429 Fan, Jenny
+	 579     0  2219  498 Farrelly, Cathy
+	1474     0  1025  262 Faust, Siegfried
+	1252!!  17  1525  370 Feng, Thomas
+	1238!!  12  1553  376 Feng, Tim
+	1457?    0  1076  272 Feros, Simon
+	1838!!  11   301   71 Ferris, Shaun
+	1255!!  11  1519  369 Fielder, Shaun
+	   2g    0            Fikry, Moustafa
+	1559!    0   825  211 Finlay, Colin
+	1834!!   7   304   72 Fitzpatrick, Andrew
+	1757     0   416  100 Fletcher, Andrew
+	1834     6   304   72 Fletcher, Steven
+	1679!!  21   577  138 Flude, David A
+	1499?    3   974  254 Forster, Kevin
+	1242?    0  1544  374 Fox, David
+	1283!    0  1463  359 Frangakis, John
+	1391?    0  1241  309 Frost, Jared
+	1702!    0   529  127 Frost, Peter
+	1531!    3   900  234 Frost, Stephen
+	1797!    0   358   88 Fry, Peter
+	 652?    0  2166  492 Fung, Jonah
+	1207!    5  1609  387 Gabrys, Marek
+	   3g    0            Galea, Aiden
+	1295?    0  1440  354 Galiabovitch, Elena
+	1447!    7  1098  280 Gan, Zhong Hao
+	   2g    0            Gardiner, Jason
+	1552     0   853  218 Garrido, Gabriel
+	1741!!   6   452  107 Gatti, Dallas F
+	   3g    0            Ge, Yuanting
+	 Unr     1            Gerryn, Daniel
+	1542!    0   879  225 Ghayoori, Pezhman
+	1631!!  20   664  167 Ghobrial, Adel
+	 Unr     0            Ghobrial, Adele
+	 754!   21  2100  472 Gibson, Kyle
+	 Unr     0            Gillson, Chris
+	   7g    0            Girardi, Michael
+	1338?    0  1342  331 Glasson, Daniel
+	1402??   0  1214  303 Glazebrook, A(Tony)
+	1560!    6   822  210 Glenton, Alan
+	2356!!  16    10    3 Goldenberg, Igor [FM]
+	1165!   13  1677  402 Goldsmith, Richard
+	 929?    6  1946  449 Gonsal, Steve
+	2104!!  27    79   21 Gorka, Carl
+	 Unr     0            Gorka, Caroline
+	1311?    0  1405  343 Gower, Joss
+	   1g    0            Grabovac, Gavrilo
+	 851!!   0  2021  461 Gray, Alan
+	   5g    4            Greness, David
+	1388??   0  1248  311 Gresik, Joe
+	 Unr     0            Groen, Tim
+	1450     0  1090  277 Grossman, Natan
+	 780?    0  2079  471 Gruen, Alexander
+	1591!    0   745  192 Grygoryan, Oleg
+	 581!    9  2217  497 Guo, Murphy
+	1011!    4  1860  431 Gurevich, Andrew
+	2032?    0   130   33 Guy, Wayne G
+	2112!!  26    75   19 Hacche, David J
+	2142!!   9    62   16 Hamilton, Douglas G [FM]
+	1218!    0  1589  383 Hamilton, Ian R
+	   6g    3            Hamilton, Liam
+	   1g    0            Hamley, David
+	 741?    0  2110  477 Hanson, John
+	   3g    0            Harbour, Aaron
+	 Unr     0            Hartje, Kevin
+	1406?    0  1200  299 Hartland, Gerrit
+	 498?    0  2263  506 Harutyunyan, Arginie
+	 Unr     0            Harutyunyan, Michael
+	1650!    0   624  157 Harutyunyan, Vahram
+	1337     5  1343  332 Hechenberger, Othmar
+	1244     0  1541  372 Henzgen, Ben
+	1456     0  1078  273 Hesketh, Bruce
+	   2g    7            Hetrel, Daniel
+	1295!    0  1440  354 Hewitt, Frank J
+	 301?    0  2359  520 Hibberd, Aaron
+	1127     5  1729  413 Hibberd, Nathan
+	1609??   0   706  180 Higham, Luke T
+	1785!    0   376   92 Hilliard, Geoffrey
+	1640     7   645  163 Hinton, Guy
+	2075!    0   103   28 Hislop, James K
+	 462?    0  2283  512 Ho, Scott
+	 856?    0  2016  460 Hodge, Fred
+	1535!!  11   890  231 Hogan, Steven
+	1973!!  27   166   39 Hogg, Dean
+	1656     0   611  151 Hoholis, Harry
+	1660!    0   605  148 Holden, Greg
+	1396     0  1227  307 Holland, Tony
+	1657!    0   610  150 Holmes, Irene
+	1853!    0   280   65 Holt, Kenneth P
+	   4g    5            Hopkins, Alex
+	1557!    6   835  214 Hopkins, Rhys
+	 709!    0  2134  484 Huang, Dominic
+	1109?   10  1746  416 Hunt, Philip E
+	1122     8  1734  415 Huynh, Phong
+	1716!!   7   497  118 Ilic, Milan
+	1268?    7  1499  366 Inthavong, Kiao
+	 Unr     0            Isbester, Ben
+	1539!!   7   885  229 Ivanov, Nikola
+	2147!!   9    59   15 Jager, Jesse
+	1574!    8   781  198 Jago, Stephen
+	1190     7  1630  390 Jaske, Jan
+	1241?    0  1546  375 Jelecevic, Ibrahim
+	1633     0   661  166 Jenkins, Keith
+	 502     0  2260  504 Jiang, Jeffrey
+	   3g    0            Johansen, Carla
+	2439!!   7     4    2 Johansen, Darryl K [GM]
+	1563     7   815  209 Jones, Nick
+	2263!    9    25    8 Jordan, Bill [FM]
+	 Unr     5            Ju, William
+	1566     0   804  206 Kable, John R
+	1799!!  16   352   86 Kalisch, Thomas
+	 926?    0  1949  450 Kamsma, Peter
+	1567!!   9   799  204 Kaplan, Alex
+	1755!!  12   423  102 Kara, Barboros
+	   3g    6            Katalinic, Goran
+	1712     0   507  120 Katsnelson, Gregori
+	1325!!   0  1374  341 Keefe, Peter
+	   4g    0            Kelly, Simon
+	1309?    0  1410  344 Kelsen, Paul
+	2083!!  19    94   26 Kempen, Leon
+	1331!    0  1359  337 Kenmure, Jamie
+	   7g    0            Kenny, Dave
+	1530??   0   902  235 Kersten, Ben
+	 791     0  2072  467 Keskic, Lee
+	1143?    0  1708  409 Khung, Farn Ling
+	1912!!   6   204   46 Kildisas, Victor E
+	1078!    7  1782  423 Kiripitige, Punala
+	1346!!  13  1323  326 Kloprogge, Ion
+	1425!    0  1145  283 Knox, Alec
+	1675!!   0   584  140 Kocjancic, Eddie
+	1497?    0   978  255 Kolasinac, John
+	1144!   12  1707  408 Kordes, David
+	1406     0  1200  299 Kosari, Samin
+	1390!!  23  1245  310 Kostrzewa, Jake
+	1674?    0   585  141 Kourtchatov, Yuri
+	   3g    0            Kouts, Jamieson
+	   2g    0            Kouts, Morgan
+	1747!!   8   433  104 Kovacevic, Paul
+	1909     0   211   50 Krawcheni, Andrei
+	1948!    0   183   42 Krstic, Slobodan
+	   3g    6            Krysiak, Jerzy
+	1514!!   0   937  245 Kudric, Mirko
+	1303?    0  1423  349 Kulshitsky, Dmitry A
+	 381?    0  2328  518 Kulshitsky Jnr, Dmitry
+	1295?    0  1440  354 Kuok, James
+	1710     7   510  121 Lacey, David
+	1872!    0   261   60 Lacson, Joemar
+	   2g    0            Lai, Jeremy
+	 Unr     0            Lambert, Elliott
+	 Unr     0            Lambert, Keith
+	1215!    0  1593  385 Lamech, Albert
+	1417!!   0  1174  292 Lane, Victor
+	1271!    0  1494  365 Langer, John
+	 866     0  2005  458 Lau, Aaron
+	1256?    0  1516  368 Lau, Alexander
+	   2g    0            Lau, Tsz-Kwan
+	1730!    6   473  114 Lavery, John
+	1708!!  18   514  124 Lawson, Shane
+	   2g    0            Le Page, David
+	1814     0   329   80 Lea, Tom
+	1086!    0  1772  421 Lee, Geoff
+	1518     0   927  241 Lee, Kam
+	 963!!  11  1908  442 Lemmel, Oliver
+	 507?    0  2258  503 Leong, David
+	1474     0  1025  262 LeRoy, Andrew
+	2156!    0    56   14 Levi, Eddy L [FM]
+	 Unr     0            Li, Oswald
+	 Unr     3            Lim, Neilson
+	 227?    0  2385  526 Lin, Leo
+	 729?    0  2120  482 Lin, Sean
+	2135!!   7    63   17 Lin, Zhigen Wilson
+	1942     0   188   44 Lindberg, Douglas
+	1409?    0  1192  297 Lindsay, Geoff
+	1797!!   7   358   88 Liston, Howard
+	   2g    0            Liu, Michael
+	1554!    5   847  217 Liu, Nicholas
+	2046!!   7   119   31 Lojanica, Milenko
+	2005!!   0   150   36 Lojanica, Zdravko
+	1301??   8  1429  351 Louis, Andrew
+	1495!    6   984  256 Loveband, Rob
+	1456!!   4  1078  273 Lovegrove, Adam
+	 661?    0  2165  491 Lui, Stephen
+	1733?    0   465  110 Lumsdon, David
+	 Unr     2            Lundgren, Leif
+	1842!!   7   296   69 Lushaj, Tahir
+	   2g    0            Ly, Phuc
+	1859!!   9   272   64 Ly, Thai
+	   4g    0            Lyall, Kerry
+	1814!!   8   329   80 Lycett, Garry
+	1161!    8  1687  404 Lyons, Linden
+	 Unr     0            Ma, Michael
+	1352!    5  1313  325 MacFarlan, Rodney
+	1921!!   0   198   45 Machell, Don
+	1516!    0   929  242 Maciulaitis, Don
+	 445?    0  2290  514 Maddock, Max
+	   4g    0            Makuek, Abraham
+	1557     0   835  214 Malejewicz, Alexander
+	1728?    0   477  115 Malitis, Edwin
+	 841     0  2035  464 Manawadu, Dmithri
+	 893?    0  1979  454 Manawadu, Pasan
+	 Unr     0            Mandarano, Sam
+	1662?    0   604  147 Martin, James
+	 967?    0  1900  440 Martin, Joshua
+	1540!    7   883  228 Matheson, Laurence
+	1826!!   9   318   77 McCart, Richard
+	1599!!   9   731  188 McCart, Roger
+	 493??   0  2266  508 McCart, Tully
+	1410!    0  1191  296 McCulloch, Rob
+	1154!!   0  1695  406 McEachern, Graham
+	 966?    0  1901  441 McFarlane, Klate
+	1146!    6  1704  407 McKenzie, Mark
+	   3g    0            McLennan, Finn
+	1422!   14  1154  285 McNeal, Bill
+	1509!    0   949  249 Meldau, Henning
+	1757!    0   416  100 Meydan, Arie
+	 881??   0  1987  455 Mezei, Andrew
+	1420!    0  1165  289 Miitel, Peter J
+	1800!!  16   351   85 Mijatovic, Bosko
+	1683     0   564  135 Miller, Anthony
+	 Unr     0            Minter, Anthony
+	   3g    0            Mison, Ashley
+	1601!    6   727  186 Mollard, Max J
+	1622     0   680  172 Morris, Greg
+	 Unr     0            Morris, India
+	2053!!  18   114   30 Morris, James [FM]
+	   2g    0            Morrissey, James
+	1218?    0  1589  383 Mullen, Chris
+	 Unr     0            Mullins, Chris
+	1851!    5   282   66 Murray, Russell
+	 747!    8  2107  476 Muthusamy, Jayan
+	1912!    5   204   46 Muthusamy, Reubban
+	   3g    0            Mylius, Jasper
+	 255?    0  2377  523 Narenthran, Janaki
+	   2g    0            Narenthran, Savithri
+	1420?    0  1165  289 Nash, Chris F
+	1134??   0  1720  411 Nayar, Rick
+	1004?    0  1865  433 Nazaryan, Faramarz
+	1341?    0  1336  330 Nemaric, Tom
+	1304!!  11  1422  348 Neymanis, Eric
+	 548??   0  2234  500 Ng, Ben
+	   2g    0            Ng, Bryan
+	1306!!  31  1416  347 Ng, Isaac
+	 821!   22  2052  466 Ng, Joshua
+	1172?    4  1660  397 Nichols, Richard
+	1178!    8  1648  396 Niemann, Judd
+	1678?    0   581  139 Nikolayevsky, Artem
+	1383     0  1257  314 Nincevic, Anton
+	 899?    5  1972  453 Nowak, Ruben
+	1336!    0  1349  333 O'Connor, Grayson
+	1998!    0   153   37 Ogada-Osir, Ibrahim
+	1714     0   502  119 Ogden, Marcus W
+	1438!!  21  1116  282 Omeragic, Jusuf
+	   2g    0            Osborne, Darcy
+	1566!    9   804  206 Oswald, Franz
+	   7g    0            Pante, Emmanuel
+	1786!!   9   375   91 Papadinis, Jim
+	1443     0  1106  281 Parker, Derek
+	1566!!   0   804  206 Parrot, Robert
+	 Unr     5            Parsons, Sasha
+	2014!    7   142   35 Partsi, Dimitry
+	   2g    0            Pascoe, Jeremy
+	1829!    0   310   75 Patterson, Miles
+	1501!    4   970  253 Pattinson, William
+	   4g    0            Payne, David
+	 Unr     4            Peacock, Percy
+	2097!!   0    88   24 Pecori, Ascaro
+	1482!!   5  1009  259 Perrin, Kevin J
+	 733??   0  2117  481 Petracca, Joshua
+	   4g    0            Pigot, Ari
+	   3g    0            Ping, David
+	1448!!   0  1095  278 Pispek, Peter
+	1548     0   864  223 Placentino, Michael
+	1387!   14  1249  312 Podbury, Brendan
+	1653!    7   617  154 Podvorac, Zeljko
+	 244     0  2379  524 Poh, Clement
+	 876??   0  1993  456 Poojary, Ashvien
+	1511!!   0   945  248 Potter, Christopher
+	1404!    0  1205  301 Potter, Daniel
+	1651!    0   621  156 Potter, Matthew
+	1575!    0   780  197 Potter, Michael
+	1733?    0   465  110 Pramod, T.G.
+	1187     0  1634  392 Prasad, Daryl
+	 200?    0  2394  527 Prasad, Sachith
+	1901     0   222   53 Premaka, Sujendra
+	1333!    0  1353  336 Pronk, Syf
+	2100!!  39    84   22 Pyke, Malcolm L
+	   3g    0            Pywell, Nathaniel
+	 788??   0  2074  468 Qian, Dennish
+	 691!    3  2145  486 Qin, Tomson
+	 781?   10  2078  470 Quigley, Christian B
+	1180?   11  1645  395 Quigley, Michael
+	 Unr     0            Quirk, Callum
+	1002!    0  1867  434 Ragab, Yasser
+	1945!!   7   186   43 Raine, Marcus
+	 Unr     0            Rakshe, Adi
+	1552!!  11   853  218 Ramos, Antonio
+	   2g    0            Ranabahu, Hirumi
+	 495?    0  2264  507 Ranabahu, Tharindu
+	1842!!  11   296   69 Rashid, Abdulwahab [FM]
+	 837!    0  2038  465 Rasmussen, Henning
+	 493?    0  2266  508 Ravitharan, Sakthi
+	1607!!   0   709  182 Redzepagic, Sadedin
+	1613!!  25   693  176 Reid, Bill
+	 Unr     2            Reid, Yvonne
+	1420!!  13  1165  289 Renzies, Elliott
+	1302!    6  1427  350 Reuben, Des
+	1616!!  11   690  174 Richards, Derek
+	1285??   0  1460  358 Roberg, Fred
+	1733!    0   465  110 Roberts, Mark S
+	1607     0   709  182 Rogers, Don
+	1827!    0   315   76 Rothlisberger, Marcel
+	   5g    0            Rowe, Tony
+	1308     0  1413  346 Rowston, Bruce
+	   3g    0            Roy, Amrick
+	1282?    0  1465  360 Rozenblat, Vanja
+	2234!!  16    31   10 Rujevic, Mirko [IM]
+	1879?    0   252   57 Rushdi, Nasim
+	1356     0  1304  323 Rutherford, David
+	1358     0  1300  322 Ruzeu, Emanuel
+	1448     0  1095  278 Ryan, Helen
+	1507     0   952  250 Sabolcki, Daniel
+	1506?    0   955  251 Sahar, Itshak
+	   3g    6            Salami, Hooman
+	1608!!  11   708  181 Salanowski, Mark
+	 952     0  1919  445 Sanderson, Paul
+	2314!!  14    14    6 Sandler, Leonid [IM]
+	1686!    0   558  133 Sandler, Veniamin
+	1702!   17   529  127 Sannidhanam, Anurag
+	1833!    0   307   74 Santavec, Joe
+	 Unr     0            Sargsyan, Vahagn
+	   2g    0            Sathe, Aditya
+	   5g    0            Savage, Ben
+	1208!    7  1607  386 Savic, Milivoje
+	2041!    0   122   32 Savige, Colin B
+	 737     6  2112  478 Sawkins, Cliff
+	 Unr     0            Sawyer, Dean
+	1089     0  1768  418 Sayers, Craig
+	1087     0  1771  420 Schell, Winfried
+	1664?    0   601  145 Schepisi, David
+	1515     0   933  244 Scherrenberg, Henk
+	1626!    7   671  168 Schneider, David
+	1901!!  23   222   53 Schon, Eugene
+	 912!    0  1963  451 Schreenan, Michael
+	1692!!  11   545  131 Schulzer, Peter
+	   3g    0            Scott, Lachlan
+	 Unr     0            Scott, Steve
+	1129!!   0  1725  412 Seehusen, John
+	1479!    0  1014  260 Senturk, Bahri
+	1697!!  11   533  129 Sharman, Scot A
+	1568!    0   797  202 Shaw, Graham L
+	1223?    0  1578  382 Sheng, Susan
+	1845!!   0   290   68 Silas, Pranas
+	   3g    0            Silva, Kieran
+	1188?    0  1631  391 Simonov, Sasha
+	1224!    0  1577  381 Simpson, Bruce
+	1459?    0  1068  270 Simutanyi, Kozo
+	   2g    0            Singh, Tanuj
+	 976?    0  1892  439 Sinnema, Marten
+	 748?    0  2104  474 Sitch, Joseph
+	 Unr     0            Sitch, Nikki
+	 637?    0  2173  493 Sitch, William
+	2056!!  16   113   29 Skiotis, Pano
+	1301     0  1429  351 Sljivovac, Branko
+	2471!!   0     3    1 Smerdon, David C [IM]
+	1375!    7  1272  316 Smith, Mike
+	1473     0  1029  264 Soco, Dejan
+	1760!    0   410   98 Soesanto, Romy
+	1346?    0  1323  326 Somaskathan, Aingaran
+	2172     0    48   13 Sorokina, Anastasia [WIM]
+	1330!   13  1361  338 Spencer, Anthony G
+	1514!!   8   937  245 Spiric, Bob
+	   1g    0            Sporle, Shane
+	 Unr     0            Spuned, Nick
+	1244     0  1541  372 St John, William
+	1551!    5   857  221 Stanisheff, Alex
+	1525!    0   914  238 Stanning, Trevor
+	1959!    7   174   41 Stead, Kerry
+	   5g    0            Steer, Ben
+	   3g    0            Stephens, Michael
+	1514!    7   937  245 Stewart, Clint
+	1767!!   7   401   95 Stewart, Scott
+	1643?    0   639  162 Stimson, David
+	2108!!  25    77   20 Stojic, Dusan
+	1232!    7  1561  379 Stojic, Milan
+	1905!!  20   217   51 Stojic, Svetozar
+	1452!    0  1084  275 Stokie, William
+	1671?    0   589  142 Stone, Ian
+	1764!!  16   404   96 Stones, Douglas
+	 485?    0  2270  510 Stuyt, George
+	 415?    0  2314  517 Stuyt, Ken
+	1727!    0   482  117 Sucevic, Milic
+	1746?    0   439  106 Sugrue, Michael
+	1613     0   693  176 Sunder, Vijay
+	1247?    0  1536  371 Suwama, Makoto
+	   1g    0            Szekely, Tom
+	1705!!  23   522  126 Szuveges, Narelle S [WIM]
+	1572     0   786  200 Tambasco, Jean-Luc
+	1579!   16   771  195 Tan, Justin
+	   3g    0            Tan, Kai
+	   3g    0            Tan, Katherine
+	 865?    0  2006  459 Tan, Michael
+	1125?    0  1732  414 Tan, Patrick
+	 734?    0  2116  480 Tan, Sean
+	1620!!  13   682  173 Tang, Jason
+	1594     0   740  191 Taylor, Stephan James
+	 231??  10  2383  525 Teo, Audrey
+	2021?   13   138   34 Teo, Kok Siong
+	 689?    9  2147  487 Teo, Lisa
+	   2g    0            Teo, Rob
+	   3g    0            Thang Dang, Michael
+	1020     0  1851  430 Theodosiou, Peter
+	 Unr     1            Thiel, Anton
+	1370     0  1279  319 Thomas, James
+	   5g    0            Thomman, Andrew
+	1275?    0  1483  362 Thornton, Andrew
+	1206!    0  1611  388 Thornton, Cliff
+	1646!!  23   636  161 Tionko, Efrain
+	1329!    0  1363  339 Tolpigin, George
+	   2g    0            Tong, Jason
+	1141!   13  1711  410 Toper, David
+	1399!    8  1220  305 Toro, Eduardo
+	 Unr     0            Tribolet, Leon
+	1472     6  1035  265 Trott, Timothy
+	1877!!   7   254   58 Tsagarakis, Angelo
+	   6g    3            Tsai-Luong, Eric
+	 288?    0  2366  521 Tu, Justin
+	1637!    0   652  164 Tuglaci, Serif
+	1183?    0  1638  394 Ufnalski, Robert
+	1530!!   7   902  235 Umber, George
+	1798     0   355   87 Van Dijk, Devrim
+	 680!    0  2151  488 Van Dijk, Marieke
+	1572     0   786  200 Van Heerwaarden, Paul
+	1791!    0   369   90 Van Riel, Bas
+	1371?    0  1277  317 Van Scheepen, Frits
+	1665!!  11   600  144 Veljanovski, Goran
+	1809     0   337   82 Vielsaeker, Dirk
+	1728!    7   477  115 Vijayakumar, Rengan
+	1983     0   158   38 Vijayakumar, Rukman
+	   6g    0            Villacastin, Rodney
+	1472!!   0  1035  265 Vitkovic, Nick
+	 Unr     0            Vivekanandan, Munnesh
+	1422?    0  1154  285 Voigt, Peter
+	1862!!  34   268   62 Voon, Richard
+	 663??   0  2162  490 Wagh, Maitreya
+	1542!    0   879  225 Walkerden, Christian
+	1752!   14   426  103 Waller, A (Tony)
+	2204!!  23    41   11 Wallis, Christopher
+	   2g    0            Wallmueller, Joerg
+	   4g    5            Wallmueller, Peter
+	1263     0  1510  367 Walters, Don
+	   3g    0            Wang, Edward
+	1185!    0  1636  393 Watson, Jean
+	 705?    0  2136  485 Webb-Liddle, Miranda
+	1542?    0   879  225 Wemyss, Andrew M
+	1556!!   0   840  216 Wertheim, Stephen
+	2328!!   0    12    4 West, Guy [IM]
+	1533     0   894  233 Wheelwright, Philip
+	 934??   0  1938  447 Wicks, Michael
+	   1g    0            Wilkie, Amber
+	 Unr     0            Williams, Trevor
+	 957    11  1911  443 Wills, Steven L
+	1782!    5   378   93 Wolf, Peter
+	 871     0  1998  457 Wong, Nathan
+	2080    17    99   27 Wong, Ngiam Yee
+	   3g    0            Wood, Morgan
+	 444??   0  2293  516 Wright, Dean
+	1614?    0   691  175 Wright, Jim
+	1506?    0   955  251 Wyngaarden, Orlando
+	1696!!   9   536  130 Wyss, Felix
+	1910!    0   209   49 Yachou, Nur
+	1654     0   616  153 Yako, Tony
+	 984??   0  1882  436 Yam, Hunyi
+	   3g    0            Yang, Chi
+	1400?    0  1218  304 Yap, Aylwin
+	 502?    0  2260  504 Yeung, Lawrence
+	   4g    0            Yffer, Max
+	1477!!   0  1017  261 Yilmaz, Ahmet
+	   6g    0            Yim, Vymala
+	1035     0  1835  428 Young, Darren
+	1070!   13  1792  424 Young, Jack
+	   3g    0            Yu, David
+	1868!    7   263   61 Yu, Derek
+	   6g    0            Yu, Harry
+	1590!    6   748  193 Yu, Sally
+	 748!   11  2104  474 Yuan, Daniel
+	 464!    5  2282  511 Yuan, David
+	1163!    0  1682  403 Zacharczenko, Vladimir
+	   2g    0            Zaks, Alan
+	1237     0  1557  377 Zamora, John
+	1961!    7   173   40 Zaprudsky, George
+	1409     0  1192  297 Zarakis, Jim
+	   3g    0            Zhao, Michael
+	1166?    0  1675  401 Ziffer, Rocheleh
+	1691     0   546  132 Zileski, George
+	   3g    0            Zilinskas, Aidas
+	1393!    0  1234  308 Zivkovic, Sam
+	 Unr     0            Zivkovic, Steve
+	1896     6   230   55 Zoppi, Mario
+	1516     0   929  242 Zuccala, Chris
+*CAWA
+	   1g    0            Aikawa, Yuta
+	   2g    7            Allsop, Trevor
+	   3g    0            Anastasovski, Nikola
+	1418!!   8  1173   87 Arnold, Andrew
+	1372!    0  1275   98 Arnold, Matthew
+	 729!    7  2120  155 Bailey, Ben
+	1050!!  14  1823  143 Bailye, Ron
+	1307!    9  1415  104 Balaji, Shyam
+	1256     0  1516  115 Bannan, Tony
+	2122!    0    69    4 Barber, Haydn J [FM]
+	1744!!   9   443   40 Baumgartner, Robert
+	1507!    0   952   72 Bell, Tom
+	1312!!   9  1403  103 Benken, Dieter
+	1061?    0  1806  138 Blackman, Jaydon
+	 Unr     0            Bockmann, Chris
+	1378!!  12  1267   96 Boni, Christopher
+	1581!    0   766   61 Booth, Guy
+	2233!!   9    32    1 Boyd, Tristan
+	1520?    0   924   68 Brand, Drew
+	1333!    0  1353  100 Brooke, John
+	   1g    0            Brown, Amy
+	1475?    0  1021   78 Buckley, Andrew
+	1819?    0   324   30 Butcher, Robert
+	1632!!  18   662   54 Bwalya, Ricky
+	1053     7  1818  142 Carolin-Unkovich, George
+	1893?    0   234   21 Chin, Albert-Chao L
+	1972     0   167   14 Choong, Yita
+	 618?    0  2188  157 Chow, Melanie
+	1205!    0  1614  119 Clapin, Andrew
+	1147??   0  1702  126 Clarke, Daniel
+	1477!    7  1017   77 Cuellar, Chris
+	1711!    0   508   47 Curtis, Martin
+	   1g    0            Daube, Mike
+	 953     0  1916  147 De Vries, Hugh
+	1461!!  15  1063   81 Deheer, Alex
+	1713!!  10   505   46 Dix, Peter
+	 945!!   7  1926  149 Doherty, Tom
+	1407!    0  1197   89 Donaldson, Gary
+	2013!    0   144   10 Donaldson, Thomas
+	1883!!  18   247   22 Dunlop, Gordon
+	 843?    0  2028  153 Edland, Benjamin
+	 192?    0  2398  158 Edland, James
+	 715?    0  2130  156 Edland, Thomas
+	1910!!  18   209   16 Ellis, David
+	   6g    0            Everett, Chris
+	1855!!  18   278   27 Fedec, John
+	1171!    6  1664  123 Filose, Anthony
+	1112     0  1744  130 Frankland, David M
+	1796!!   0   361   32 Galvin, Robert
+	1152?    0  1698  125 Garcia, Eduardo
+	1468!    0  1042   79 Garcia, Mat
+	1276     0  1477  110 Gilleran, Sean
+	1514!    2   937   71 Gilmetdinov, Edik
+	2029!    0   133    8 Haasse, Adam
+	1997!!  17   154   12 Hardegen, Andrew
+	2033!!   8   128    7 Hare, Tim
+	 Unr     0            Hargrave, James
+	1899!    9   226   19 Haselgrove, Miles
+	1594     0   740   59 Hessing, Rod
+	1804!!   9   343   31 Holland, Dennis
+	1057??   0  1811  139 Hoolboom, Maarten
+	2196!    0    44    2 Horstmann, Michael
+	 893!    7  1979  151 Howard, Bryan
+	1433!    0  1124   83 Humphries, Ryan
+	1105?    5  1752  131 Hunt, Stewart
+	1031     0  1838  144 Ilmenstein, Horst
+	1673!!  18   587   52 Jahangirian, Mohammad
+	1762!    0   407   37 Janceski, Alex
+	1742!!  24   449   41 Johnstone, Ray
+	1503!!   7   964   73 Jones, Naison
+	   4g    0            Juckes, Chris
+	1293     0  1446  108 Keshwar, Adam
+	1875!!   0   257   25 Khan, Nazim
+	1411!    0  1188   88 Klimczak, Joe
+	1264!!   8  1508  112 Koch, Lucien
+	2010!    9   147   11 Kueh, Michael
+	1931!!   0   192   15 Kuklinski, Andrew
+	2144!    0    61    3 Kurniawan, Stephanus
+	2052!!   9   115    6 Lakner, Jay
+	1259!    7  1513  114 Laugery, Bernard A
+	 Unr     0            Lee, Anthony
+	1717     0   495   45 Lee, John L
+	1260?    0  1512  113 Lee, Jon
+	1394?    0  1229   92 Leeson, Robert
+	1073!    0  1786  136 Leinster-Mackay, Don
+	1883!    0   247   22 Leonhardt, Wolfgang
+	1393     0  1234   94 Lewis, Michael
+	1825!!  13   320   29 Lilly, Richard
+	   1g    8            Lim, Shihe
+	1502!!   9   967   74 Lintern, Melvyn
+	1794!    0   365   35 List, Ross
+	1055!!   9  1814  140 Lofthouse, Tony
+	1603!!  10   721   57 Lubtschenko, Wally
+	1757!!   0   416   38 Maris, Natalie A
+	1976!!   0   164   13 Maris, Robert
+	1397!    0  1225   91 Markou, Victor
+	1588!!   1   752   60 Massey, Reg
+	 861??   0  2012  152 McCracken, Scott
+	1515!!   9   933   70 Mcgregor, Mike
+	1427!!  10  1137   84 Mclean, Doug
+	1557!!   5   835   65 Mcmahon, Denis
+	1180!    5  1645  120 Mcquilkin, Graeme
+	1101!    7  1758  132 Moritz, John
+	1173!    0  1657  122 Motu, Ben
+	1492!    0   986   75 Muller, Norbert
+	1578     0   773   62 Nairn, Mike
+	1324     0  1377  101 Nie, Edwin
+	 753!    7  2101  154 O'brien, Daniel P
+	1690     0   549   49 O'Donohue, Brett
+	1424     0  1150   85 O'Shaughnessy, Dave
+	1681     0   570   51 Oh, Abel
+	1268?    0  1499  111 Oliver, Patrick
+	1402!    6  1214   90 Ottschoffski, Edward
+	2019!    0   140    9 Partis, Michael T
+	1730!    0   473   42 Patron, Andrzej
+	1572!!  12   786   64 Pavlovic, Michael
+	1688!    0   552   50 Payne, Sophie
+	   2g    0            Pepper, Dane
+	   4g    0            Perica, Andrew
+	1519!!   8   925   69 Pilgrim, Robert E
+	1319!    9  1387  102 Prunty, Jon
+	1306!    8  1416  105 Rabey, Kelvin
+	1394!    9  1229   92 Reichard, Sven
+	1489!!   7   992   76 Reynolds, Paul J
+	1725??   0   486   43 Robertson, Sean
+	1903!!   9   221   18 Roza, Peter
+	1619?    0   684   56 Rozells, Nathan
+	1796     0   361   32 Rufin, Joel
+	1905     0   217   17 Saffen, Jack
+	1278!!   1  1471  109 Sainsbury, Gerard
+	1602!    9   723   58 Sam, Ryan
+	1081!    8  1779  135 Saroha, Chirag
+	1065?    7  1800  137 Savory, Philip
+	1755!!  16   423   39 Saxon, Marc
+	1114?    0  1741  129 Schafer, Banner
+	   4g    0            Scheidler, Hermann
+	1896     9   230   20 Seah, Eddy
+	1795?    0   363   34 Severin, Michael
+	 Unr     0            Shah, Rohan
+	1145!    6  1706  127 Shannon, David
+	1725!!  17   486   43 Shaw, Robin A
+	1538!!  17   886   66 Sheridan, Wallace
+	1421!    0  1158   86 Slack-Smith, Blair
+	1628     0   668   55 Smith, Jonathan
+	1237!!   8  1557  116 Smyth, Vic A
+	   1g    0            Stepanovic, Nemonja
+	1874!    9   258   26 Stepanovic, Srdja
+	 Unr     0            Stevens-Tran, Benjamin
+	1438!    9  1116   82 Sticklen, Damien
+	1090     0  1767  133 Szente, Laszlo
+	1176!    0  1653  121 Taylor, Garry G
+	1526!!   8   912   67 Taylor, Kelvin
+	1463     0  1059   80 Taylor, Paul
+	 Unr     0            Teunisse, Rebecca
+	   1g    8            Thomas, Caleb
+	 933??   0  1939  150 Thompson, Harry
+	1055??   0  1814  140 Thurtell, Darby
+	1705!!   9   522   48 Tomic, Nedeljko
+	   1g    0            Tynas, Adam
+	1084?    0  1776  134 Vahala, Karel
+	1840!!   9   299   28 Viswanath, Ganesh
+	1878!!  23   253   24 Vlietstra, Marc
+	1298?    0  1435  107 Vlietstra, Seth
+	1302!    0  1427  106 Walker, Colin
+	1778     0   384   36 Wang, Zhengbo
+	1226!    0  1573  117 White, Alan
+	1576!    9   776   63 Whitehead, Paul
+	2103!    0    80    5 Wilkins, Michael
+	 989?    0  1879  146 Williams, Rudy
+	1135!    9  1718  128 Williams, Verity
+	 996     8  1873  145 Williams, Veronica
+	 947!    8  1923  148 Williams, William
+	1664     0   601   53 Wolstencroft, Alan
+	1376?    0  1270   97 Wong, George
+	1383     8  1257   95 Wood, Mark
+	 Unr     0            Wood, Tayla
+	 Unr     0            Xu, Ferris
+	1222!    7  1582  118 Yeung, Evan
+	1363?    0  1292   99 Young, Phil
+	1164!    0  1680  124 Zylstra, Peter
+*FOREIGN
+	   2g    0            Andre, Francois
+	2399!!   0            Ansell, Simon T [IM]
+	2490!!  33            Antic, Dejan [GM]
+	1803!    0            Arora, Neel
+	2432!!   0            Bakre, Tejas [GM]
+	2023!    0            Bennett, Hilton
+	2176!    0            Bernardino, Almario Marlon
+	2526!    0            Bluvshtein, Mark [GM]
+	1895?    0            Bomark, Nils Erik
+	2225     0            Brooks, Phil J
+	2285!    0            Bucher, Denis [FM]
+	 Unr     0            Bylund, Louise
+	 Unr     0            Bylund, Oscar
+	2107!    0            Campitelli, Guillermo
+	   1g    0            Chand, Alvis
+	2548!    0            Chandler, Murray G [GM]
+	1426     5            Charamova, Evgenia
+	1951!   13            Cheng, Bobby
+	2181!!   0            Chokshi, Manthan J
+	2134?    0            Cunanan, Homer
+	   4g    5            Dulay, Dave Patrick
+	1590?    0            Fairley, Natasha
+	2136!    0            Fancy, Stuart
+	2135!    0            Fischer, Andre
+	1907?    0            Flores, Imelda
+	1834!    0            Forster, William
+	 989??   0            Frentina, Andrea
+	   3g    6            Galve, Carmella Ysubel
+	2391!    0            Garbett, Paul [IM]
+	1940!    0            Gautam, Asheesh
+	2078!    0            Gibbons, Robert
+	   5g    0            Gonzalez, David
+	1851?    0            Goundar, Sanmogam
+	2142!!   0            Gutierrez Castillo, Paloma [WIM]
+	1924!    0            Hermann, Sebastian
+	2190!    0            Hisler, Thomas
+	1956     0            Hornsgaard, Jens Boe
+	1985!    0            Karenlampi, Pirkka
+	   2g    0            Kerriou, Gilles
+	 967??   0            Kimura, Takashi
+	 946?    0            Kimura, Tomoki
+	1474??   0            Kissel, Nina
+	2227!!  13            Klein, Felix
+	2005?    0            Koelln, Rasmus
+	1894?    0            Kumar, Manoj
+	2245     0            Lee, Wang-Sheng
+	2059!    0            Leimand, Peter
+	2348!    0            Lukey, Stephen G [FM]
+	1745     0            Maroroa, Sue [WFM]
+	   2g    0            Marquez, Cesar
+	1588     0            Marquez, Julius Caesar
+	2388!!   7            Mas, Hafizulhelmi [IM]
+	2520!!   0            Matamoros Franco, Carlos S [GM]
+	   3g    6            Mehta, Fujeet
+	2585!!   0            Mikhalevski, Victor [GM]
+	1988!    0            Milligan, Helen [WFM]
+	2220?    7            Morrison, Chris
+	1236?    7            Morrison, Duncan
+	1867!    0            Mortensen, Henrik
+	   2g    0            Mulambya, Adam
+	1944?    0            Munoz, Contreras Nelson
+	1535!    0            Neegam, Gor
+	1635     0            Nomat, Emil-Lion
+	 Unr     0            Ong, Sterling
+	2082!!  18            Pecak, Mariusz
+	1797     0            Prasad, Calvin
+	 Unr     0            Ram, Rachna
+	2225!    0            Repplinger, Marc
+	2280!!  23            Sales, Jesse Noel [FM]
+	2557!    7            Schmaltz, Roland [GM]
+	   4g    0            Selvam, Jonathon
+	1753?    0            Shah, Vipul
+	1482     0            Shankar, Aiswerya
+	1841??   0            Sharma, Roneel
+	2560!!   0            Shipov, Sergei [GM]
+	   1g    0            Sikivou, Taione
+	2344!    0            Smith, Robert W [FM]
+	1778!    0            Smith, Vivian
+	   3g    6            So Kua, Timothy John
+	2008     0            Spiller, Paul
+	2216!    0            Steadman, Michael
+	1603!    0            Sukhu, Gloria
+	2253!!   0            Swiercz, Dariusz [FM]
+	2206     0            Tabatt, Hendrik
+	   2g    0            Tacorda, Ely
+	   2g    0            Tamsot, Eddi
+	2269!    0            Teichmann, Erik [FM]
+	2324!    0            Thompson, Ian D [FM]
+	1890     0            Thornton, Giovanni Antonio
+	2564!!   0            Timoshenko, Georgy [GM]
+	2425!!   7            Toth, Andras [IM]
+	1908!    0            Uttam, Kumar Saha
+	2127     0            Vilaseca, Laurent
+	2343!    0            Wang, Puchen [IM]
+	1531     0            Wu, Shirley
+

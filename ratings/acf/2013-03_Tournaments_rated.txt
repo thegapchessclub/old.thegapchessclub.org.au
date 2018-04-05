@@ -1,0 +1,70 @@
+Tournaments Rated
+ACF
+	21/01/2013  41  9  2013 Australian Junior Championships - U10 Open
+	27/01/2013  63  9  2013 Australian Junior Championships - U12 Open
+	27/01/2013  20  9  2013 Australian Junior Championships - U12-U18 Girls
+	27/01/2013  35  9  2013 Australian Junior Championships - U14 Open
+	27/01/2013  14  9  2013 Australian Junior Championships - U16 Open
+	27/01/2013  15  9  2013 Australian Junior Championships - U18 Open
+	21/01/2013  17  9  2013 Australian Junior Championships - U8 Open
+	27/01/2013  19  9  2013 Australian Junior Championships - U8-U10 Girls
+	13/01/2013 112 11  2013 Australian Open Championships
+	13/01/2013  50 11  2013 Australian Open Minor
+	08/01/2013  14  7  2013 Norths Chess Classic
+ACT
+	02/12/2012  28  5  2012 ASTC Primary Girls Individual
+	02/12/2012  27  5  2012 ASTC Primary Open Individual
+	02/12/2012  26  5  2012 ASTC Secondary Girls Individual
+	02/12/2012  28  5  2012 ASTC Secondary Open Individual
+	05/12/2012  33  5  2012 Hellenic Cup
+	11/12/2012  18  6  2012 Swiss Festive Fun
+	24/02/2013  28  9  2013 ACT Championship
+	27/02/2013  35  7  2013 CCC Canberra Cup
+NSW
+	02/12/2012  41  6  2012 NSWCA Country Teams Championship Individual
+	12/12/2012   8  7  2012 Rooty Hill Club Championship Div A
+	12/12/2012   8  7  2012 Rooty Hill Club Championship Div B
+	12/12/2012   8  7  2012 Rooty Hill Club Championship Div C
+	12/12/2012   7  6  2012 Rooty Hill Club Championship Div D
+	22/01/2013  45  7  2012-2013 St. George Summer Open
+	27/01/2013  57  7  2013 NSW Australia Day Weekender
+	06/12/2012  15  9  East Sydney Spring Chess Challenge 2012
+	11/11/2012  17  7  Gosford Championship 2012
+	27/02/2013  17  6  Gosford Summer 2013
+	24/09/2012  11  7  Newcastle District 2012
+	10/02/2013  37  6  Newcastle Open 2013
+	05/12/2012  18  7  Ryde Eastwood Classic 2012
+QLD
+	02/12/2012  45  6  2012 Brisbane Open
+	20/02/2013  17  6  2013 Summer Swiss
+	27/11/2012  12  6  Buderim Spring
+	26/01/2013  20  7  DoublerooAus.Day Open
+	09/02/2013  47  6  Gold Coast Tin Cup 2013
+	27/02/2013  24  1  Redclife vs Bullwinkle
+SA
+	15/12/2012  10  9  Lidums Australian Junior Masters 2012
+	15/12/2012   8  7  Lidums Australian Young Masters 2012
+	15/12/2012  10  9  Lidums South Australian Junior Masters 2012
+VIC
+	16/12/2012  10  9  2012 Australasian Masters
+	05/12/2012   8  7  2012 Ballarat Arthur Koelle
+	05/12/2012  13  7  2012 Ballarat Arthur Koelle Reserves
+	30/12/2012  75  7  2012 Canterbury Summer Swiss
+	19/12/2012   6  5  2012 MCC Bob Brooking Group A
+	19/12/2012   6  5  2012 MCC Bob Brooking Group B
+	19/12/2012   6  5  2012 MCC Bob Brooking Group C
+	19/12/2012   6  5  2012 MCC Bob Brooking Group D
+	19/12/2012   6  5  2012 MCC Bob Brooking Group E
+	16/12/2012  42  6  2012 MCC Christmas Swiss
+	01/12/2012  39  7  2012 Noble Park Swiss
+	20/01/2013   8  7  2013 Australian Women's Masters
+	28/02/2013  15  5  2013 Croydon President's Cup
+	20/02/2013  27  5  2013 Dandenong Summer Swiss
+	27/01/2013  34  6  MCC Australia Day Weekender 2013
+WA
+	04/12/2012  24  6  2012 Christmas Open
+	05/12/2012   8  1  2012 Harris final
+	06/12/2012  10  9  2012 Metro Respini A
+	13/12/2012   9  9  2012 Metro Respini B
+	06/12/2012   9  9  2012 Metro Respini C
+	13/12/2012   9  9  2012 Metro Respini D

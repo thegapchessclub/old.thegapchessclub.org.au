@@ -1,0 +1,109 @@
+Tournaments Rated
+ACT
+	19/07/2006  40  9  2006 ACT Junior Championship
+	23/07/2006  78  7  2006 ANU Open
+	07/07/2006  10  9  2006 Belconnen First Division
+	07/07/2006  10  9  2006 Belconnen Premier
+	07/07/2006  10  9  2006 Belconnen Second Division
+	07/07/2006  14  4  2006 Swanson Sprint
+	02/06/2006  17  5  2006 Voldemort Goblet
+	02/08/2006  10  7  ANU Winter Tournament
+	02/08/2006  12  7  Cold Comfort Cup 2006
+NSW
+	12/06/2006  44  7  2006 NSW Open Champs
+	12/06/2006  40  7  2006 NSW Open U1600
+	25/07/2006  34 10  2006 NSWCA Grade Matches Open
+	20/07/2006  74  9  2006 NSWCA Grade Matches U1400
+	20/07/2006  69  9  2006 NSWCA Grade Matches U1600
+	26/07/2006  38 10  2006 NSWCA Grade Matches U1800
+	18/07/2006  26  9  2006 NSWCA Grade Matches U2000
+	06/06/2006   8  6  2006 Wollongong KO
+	11/04/2006   8  2  2006 Wollongong KO Preliminary 1
+	25/04/2006  16  2  2006 Wollongong KO Preliminary 2
+	06/06/2006  12  6  2006 Wollongong KO Swiss
+	19/05/2006  14  6  Albury Rated Tournament
+	02/07/2006  60  7  CJS Purdy Centenary Tournament 2006
+	25/07/2006  10  7  Central Coast District Championship 2006
+	01/08/2006  14  1  Central Coast Lagues CC Versus Coast 2006
+	06/08/2006  27  7  Coal City Open 2006
+	09/07/2006  22  7  Fischerbooks Over 40's Tournament 2006
+	03/07/2006  17  9  Hakoah Cup 2006
+	19/06/2006   2  3  Manly Club Champs C Grade 2006 Play-off
+	14/07/2006  52  8  NSW JUNIOR CHAMPIONSHIP  -  UNDER 12
+	14/07/2006  50  8  NSW JUNIOR CHAMPIONSHIP  -  UNDER 18
+	30/07/2006  51  7  NSWCA July Weekender 2006
+	08/08/2006  16  7  Wgong 2006 Grading Swiss
+QLD
+	29/06/2006  21  5  2006 BCC Autumn Swiss
+	25/05/2006  20  4  2006 BCC Lasker Memorial
+	27/07/2006  21  4  2006 BCC Tal Memorial
+	26/06/2006  26  7  2006 Gold Coast Open
+	26/06/2006  56  7  2006 Gold Coast Under 1600
+	06/08/2006  13  7  2006 NQ Open
+	12/06/2006   8  7  2006 Queensland Championship
+	30/06/2006  22  8  2006 Queensland Junior Championship
+	12/06/2006  44  7  2006 Queensland Reserve Championship
+	19/04/2006  16  7  2006 Tal Memorial
+	28/02/2006  19  6  2006 Townsville Summer Swiss
+	12/06/2006  13  8  Brisbane Young Champions
+	20/08/2006  10  5  Gold Coast Adults Only 2006
+	07/06/2006  38  8  Gold Coast Club Championship 2006
+	07/05/2006  48  7  Gold Coast Junior Championships 2006
+	12/06/2006  11  8  Gold Coast Junior Masters T2 A 2006
+	12/06/2006  12  8  Junior Masters T2 2006
+	30/07/2006   8  7  Mackay Open 2006
+	20/08/2006  12  5  Qld Vets and Disabled Chps 2006
+	09/07/2006  10  7  Queensland Girl's Championship 2006
+	06/06/2006  17  6  SCC Memorial Challenge
+	12/06/2006  10  9  Super Junior Masters T2 2006
+	18/04/2006   6  5  Townsville Autumn Round Robin A Grade
+	18/04/2006   6  5  Townsville Autumn Round Robin B Grade
+	18/04/2006   6  5  Townsville Autumn Round Robin C Grade
+	29/05/2006  18  5  Townsville Winter Swiss 2006
+SA
+	09/07/2006  44  7  2006 Lidums Checkmate Open
+	22/08/2006   8  7  City of Adelaide Major 2006
+	22/08/2006  19  7  City of Adelaide Minor 2006
+	27/06/2006  83  9  Interclub 2006
+	11/06/2006  17  6  Queen'S Birthday 2006
+	29/04/2006  31  8  SA State Junior U18 Championships - 2006
+TAS
+	28/08/2006  15 15  2006 HICC Championship
+	14/06/2006  17 17  Burnie Club Championship 2006
+	12/06/2006  25  6  Tasmanian Open 2006
+VIC
+	23/06/2006  64  9  2006 Box Hill Club Championship
+	26/06/2006  40  9  2006 City of Melbourne Open
+	25/06/2006  54  7  2006 Victorian Junior Under 12 Championship
+	29/06/2006  38  9  2006 Victorian Junior Under 18 Championship
+	12/06/2006  68  7  2006 Victorian Open
+	20/08/2006  16 15  Ballarat Club Championship
+	09/03/2006  13  7  Ballarat Spielvogel Memorial
+	22/08/2006  10  9  Box Hill FIDE Rated Tournament
+	26/08/2006   6  5  Box Hill Tuesday Grades Tournament (A Grade)
+	22/08/2006   6  5  Box Hill Tuesday Grades Tournament (B Grade)
+	22/08/2006   7  5  Box Hill Tuesday Grades Tournament (C Grade)
+	22/08/2006  13  5  Box Hill Tuesday Grades Tournament (D Grade)
+	20/06/2006  29  7  Box Hill Winter Swiss
+	15/06/2006  14  5  Croydon Fischer Tournament
+	24/08/2006  12  5  Croydon Kasparov Tournament
+	28/06/2006  56  7  Dandenong Autumn Open
+	30/08/2006  10  9  Dandenong Grades Tournament (A Grade)
+	30/08/2006  10  9  Dandenong Grades Tournament (B Grade)
+	30/08/2006  10  9  Dandenong Grades Tournament (C Grade)
+	30/08/2006  15  9  Dandenong Grades Tournament (D Grade)
+	30/08/2006  10  9  Dandenong Grades Tournament (Premier Grade)
+	05/06/2006  18  7  Hobsons Bay/Yarraville Cup
+	05/08/2006  12 11  Latrobe Valley Club Championship
+	21/08/2006  12  7  Melbourne Under 1600
+	21/08/2006  16  7  Melbourne Under 2000
+	15/06/2006  11  7  Mentone Open
+WA
+	27/08/2006  46  9  2006 WA State Championship
+	04/06/2006   8  5  Foundation Day 2006
+	30/05/2006  14  7  Fremantle Open 2006
+	14/07/2006   4  3  Huntingdale Challengers 2006 Part 2
+	26/06/2006   4  3  Huntingdale Challengers 2006 part 1
+	07/07/2006  10  9  Huntingdale Masters 2006
+	06/07/2006  36  7  Metro Open 2006
+

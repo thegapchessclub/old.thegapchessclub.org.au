@@ -1,0 +1,135 @@
+A00005, 14/04/2000, Norths Junior 2000 Term 1
+A00007, 16/06/2000, Norths Junior CC 2000 Term 2
+A00009, 18/06/2000, 2000 ACT U14
+A00014, 24/04/2000, Doeberl Cup Major
+A00016, 10/03/2000, Belconnen Open
+A00018, 06/03/2000, 2000 Woden Cup
+A00020, 24/04/2000, Doeberl Cup Open
+A00022, 24/04/2000, Doeberl Cup Minor
+A00024, 24/05/2000, Canberra Cup
+A00026, 05/04/2000, Canberra Chess Club Championsp
+A00028, 05/06/2000, Tuggeranong Club Championship
+A00030, 02/06/2000, Swanston Sprint
+A00032, 11/04/2000, ANU Chess Club Championship
+A00034, 05/05/2000, Belconnen Club Championship
+A00036, 04/05/2000, Southside Championship
+A00038, 05/03/2000, Kambah Summer Weekender
+A00040, 10/06/2000, Street Chess 10th June
+A00042, 20/05/2000, Street Chess 20th May
+A00044, 11/03/2000, Strret Chess 11th March
+A00046, 15/04/2000, Street Chess 15th April
+A00048, 01/01/2000, Street Chess 8th April
+A00050, 01/04/2000, Street Chess 1st April
+A00052, 06/05/2000, Street Chess 6th May
+A00054, 29/04/2000, Street Chess 29th April
+A00056, 13/05/2000, Street Chess 13th May
+A00058, 04/03/2000, Street Chess 4th March
+A00060, 03/06/2000, Street Chess 3rd June
+A00062, 17/06/2000, Street Chess 17th June
+A00064, 18/03/2000, Street Chess 18th March
+N00101, 28/05/2000, NSWCA May Weekender 2000
+N00102, 22/05/2000, Mingara May Rapid
+N00103, 08/05/2000, Wyong Shire Cup 2000
+N00104, 07/03/2000, Central Coast Summer Swiss
+N00105, 28/03/2000, Central Coast Summer Allegro
+N00106, 15/05/2000, Mingara V The World 2000
+N00107, 02/05/2000, Coffs Harbour Championship 
+N00108, 16/04/2000, Toukley 2000
+N00109, 01/02/2000, St George Summer Open 2000
+N00110, 12/06/2000, NSWCA Queens Birthday Open
+N00111, 12/06/2000, NSWCA Queens Birthday U1750
+N00112, 30/04/2000, City Of Sydney Open 2000
+N00113, 30/04/2000, City Of Sydney Open U1600
+N00114, 06/05/2000, City of Sydney Rapid 2000
+N00115, 18/04/2000, Central Coast Autumn Swiss
+N00116, 27/06/2000, Central Coast District Champ
+N00117, 17/06/2000, Parkroyal International 2000
+N00118, 06/06/2000, Taree Club Championship 2000
+N00119, 13/03/2000, Taree Club Rapid G15 Champ2000
+N00120, 09/05/2000, St George V Nth Sydney Big Brd
+N00121, 24/04/2000, Canterbury Easter Weekender
+N00122, 26/03/2000, Port Macquarie Open 2000
+N00123, 10/04/2000, Henry Greenfield Cup Open
+N00124, 10/04/2000, Henry Greenfield Cup U1600
+N00125, 17/04/2000, Hakoah Allegro March 2000
+N00126, 27/04/2000, Cardiff Club Championship 2000
+N00127, 02/07/2000, Noosa Open 2000
+N00128, 03/07/2000, Caravel Cup 2000 Open
+N00129, 03/07/2000, Caravel Cup 2000 U1750
+N00130, 08/05/2000, Manly-Warringah Club Champ
+N00131, 04/06/2000, Taree Rapid Open-Mid Nth Coast
+N00132, 25/06/2000, Taree RSL Open 2000
+N00133, 02/05/2000, St George Club Champ Div 1
+N00134, 02/05/2000, St George Club Champ Div 2
+N00135, 02/05/2000, St George Club Champ Div 3
+N00136, 02/05/2000, St George Club Champ Div 4
+N00137, 02/05/2000, St George Club Champ Div 5
+N00138, 09/05/2000, Western Suburbs Division A
+N00139, 09/05/2000, Western Suburbs Division B
+N00140, 09/05/2000, Western Suburbs Division C
+N00141, 09/05/2000, Western Suburbs Division D
+N00142, 09/05/2000, Western Suburbs Division E
+N00143, 04/04/2000, Colles Allegro Feb 2000
+N00144, 21/05/2000, Dorothy Dibley WA V QLD
+N00145, 21/05/2000, Dorothy Dibley NSW V VIC
+N00146, 21/05/2000, Dorothy Dibley ACT V SA
+N00147, 18/06/2000, Dorothy Dibley QLD V SA
+N00148, 18/06/2000, Dorothy Dibley VIC V ACT
+N00149, 18/06/2000, Dorothy Dibley WA V NSW
+Q00005, 08/02/2000, Toowoomba Champ - Reserve 1999
+Q00006, 08/02/2000, Toowoomba Champ - B Grade 1999
+Q00007, 24/02/2000, Brisbane Summer Swiss 2000
+Q00008, 12/03/2000, 2000 Hervey Bay Open
+Q00009, 14/03/2000, President's Challenge
+Q00010, 13/04/2000, 2000 City of Brisbane
+Q00011, 15/04/2000, Redcliffe Rapid 2000
+Q00012, 18/04/2000, SCC Life Members Tournament 
+Q00013, 19/04/2000, Tal 2000 Redcliffe
+Q00014, 24/04/2000, 2000 Darling Downs Open
+Q00015, 01/05/2000, 35th Peninsula Open
+Q00016, 17/05/2000, Gold Coast CC Millennium Cup
+Q00017, 06/06/2000, Gallipoli Tournament
+Q00018, 12/06/2000, The Gap Open 2000
+Q00019, 25/05/2000, BCC Autumn Swiss 2000
+Q00020, 25/06/2000, Gold Coast Open 2000
+Q99058, 15/04/1999, 1999 Noosa Rapid 
+Q99059, 05/08/1999, Noosa Deep Freeze 
+Q99060, 18/11/1999, Noosa Spring Rapid 1999 
+T00007, 06/03/2000, HICC Labour Day Tourney 2000
+T00008, 12/06/2000, Tasmanian Championships 2000
+T00009, 07/03/2000, L'ton Xmas Tourney 99-00
+T00010, 30/04/2000, L'ton Half Hour Tourney '00
+V00022, 22/03/2000, Dandenong Summer Swiss
+V00023, 10/04/2000, Melbourne CC Championship
+V00024, 31/03/2000, Box Hill Autumn Cup
+V00025, 28/02/2000, Dandenong Holiday Challenge
+V00026, 13/03/2000, Ballarat Begonia Open
+V00027, 03/05/2000, Dandenong Teams Event
+V00028, 07/05/2000, Hobson's Bay Open
+V00029, 14/05/2000, Basta Memorial Open
+V00030, 14/05/2000, Basta Memorial Under 2000
+V00031, 14/05/2000, Basta Memorial Under 1600
+V00032, 01/06/2000, Frankston Zimbabwe Farmer Open
+V00033, 06/05/2000, Elwood Club Championship
+V00034, 13/06/2000, Box Hill Rainbow Championships
+V00035, 16/04/2000, Melb FIDE Rating Tournament 
+V00036, 12/06/2000, Victorian Open
+V00037, 28/06/2000, Dandenong Autumn Open
+V00038, 15/04/2000, Frankston Mandatory Sentencing
+V00039, 03/05/2000, Hobson's Bay C J S Purdy Cup
+V00040, 28/06/2000, Hobson's Bay G Koshnitsky Cup
+V00041, 06/06/2000, Vic PS Girls Teams Balwyn Zone
+W00010, 27/02/2000, PERTH OPEN
+W00011, 13/03/2000, SW OPEN
+W00012, 31/03/2000, MIDLAND MASTERS
+W00013, 31/03/2000, MIDLAND CHALLENGERS
+W00014, 24/04/2000, GUFELD CUP
+W00015, 27/04/2000, Metro club 'A'
+W00016, 20/04/2000, Metro club 'B'
+W00017, 27/04/2000, Metro club 'C'
+W00018, 27/04/2000, Metro club 'D'
+W00019, 05/06/2000, Foundation Day
+W00020, 15/06/2000, Bunbury Club Championship
+W00021, 23/06/2000, MIDLAND CLUB CHAMPIONSHIP
+W00022, 23/04/2000, Fremantle club championship
+

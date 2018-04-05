@@ -1,0 +1,94 @@
+Tournaments Rated
+ACT
+	10/10/2014  62  9  2014 ACT Junior Championship
+	23/11/2014  36  7  2014 ACT U16 Championship
+	05/11/2014  19  6  2014 ANU Spring Swiss
+	21/07/2014  25  6  2014 Brindabella Snows
+	03/09/2014  30  7  2014 CCC Charity Cup
+	22/10/2014  34  7  2014 CCC Memorial Cup
+	28/10/2014  19  7  2014 Floriade Dark Knights
+	09/09/2014  15  7  2014 Korda Chess Classic
+	22/09/2014  29  9  2014 Murrumbidgee Masters
+	16/11/2014  22  7  2014 Vikings Weekender
+	16/11/2014  40  7  2014 Vikings Weekender Minor
+NSW
+	25/11/2014 102  1  2014 Big Boards Saints vs Norths Second Leg
+	02/09/2014  15  6  2014 Gosford CCLC Winter Swiss
+	26/10/2014  22  6  2014 Gosford Open
+	15/09/2014  26  7  2014 Inner West Swiss
+	13/10/2014  34  1  2014 Little Board Second Leg
+	02/09/2014   2  1  2014 NSW Championship Play-off
+	12/10/2014  43  6  2014 NSWCA Country Teams Championship
+	31/08/2014   8  2  2014 NSWJCL Secondary Girls Playoff
+	31/08/2014  13  3  2014 NSWJCL Secondary Open Playoff
+	21/09/2014  19  7  2014 Newcastle District Championship
+	11/11/2014  66  9  2014 Purdy Memorial Open
+	19/11/2014   6  5  2014 Ryde Eastwood Club Championship Final
+	06/10/2014  54  7  2014 Ryde Eastwood Open
+	04/11/2014  46  9  2014 St. George Swiss
+	21/09/2014  12  7  2014 UNSW Open
+	27/10/2014  10  9  2014 University of Sydney Club Championships
+	09/09/2014  12  5  2014 WGong Collies - AUGUST Swiss
+	04/11/2014  10  5  2014 WGong Collies - October Swiss
+QLD
+	28/09/2014  39  6  2014 2nd Leo Wilkinson Memorial
+	13/11/2014  43  7  2014 BCC Club Championship
+	25/09/2014  34  5  2014 BCC Lasker Memorial
+	16/11/2014  16  6  2014 Bill Powell Open
+	14/09/2014  13  6  2014 Bundaberg Club Championships
+	09/11/2014  18  7  2014 Gold Coast Junior Masters Term 4
+	30/11/2014  22  6  2014 Hemmingway Weekender
+	07/09/2014  13  7  2014 Junior Masters Term 3
+	21/09/2014  63  6  2014 Nell Van De Graaff Classic
+	12/10/2014  33  6  2014 October Open
+	05/10/2014  14  6  2014 QLD Womens and Girls
+	06/10/2014  24  9  2014 Queensland Championship
+	12/10/2014 128  6  2014 Queensland Interschool Finals Individuals - Primary
+	12/10/2014  84  6  2014 Queensland Interschool Finals Individuals - Secondary
+	06/10/2014  29  7  2014 Queensland Reserves
+	19/10/2014   9  4  2014 Queensland Veterans and Disabled
+	02/11/2014  19  6  2014 Rosalie Weekender_1
+	12/09/2014  12 11  2014 The Gap Chess Club - Stuart Wilson Trophy
+SA
+	16/09/2014  18  9  2014 City of Adelaide
+	05/10/2014  14  6  2014 Labour Day Weekender
+	04/11/2014  47  7  2014 Pennant Div 1
+	04/11/2014  56  7  2014 Pennant Div 2
+TAS
+	26/10/2014   9  6  2014 Burnie Shines
+	02/09/2014   9  9  2014 HICC Champs
+	11/09/2014   6  5  2014 HICC Club Champs Faster Div 2
+	11/09/2014   6  5  2014 HICC Club Champs Faster Division 1
+	17/11/2014  16  8  2014 HICC Spring Swiss
+	15/08/2014  12 11  2014 Robert Isted
+VIC
+	03/09/2014  13  7  2014 Ballarat Teters Memorial
+	10/09/2014   6  5  2014 Bendigo Chess Club Championship Finals
+	19/09/2014   3  3  2014 Bendigo Club Championship Playoff
+	19/09/2014  58  7  2014 Box Hill Friday Grades
+	20/11/2014  25  7  2014 Croydon Club Championship
+	04/09/2014  18  5  2014 Croydon The Frost Winter Warmer
+	17/09/2014  30  9  2014 Dandenong Club Championship
+	15/10/2014  25  5  2014 Dandenong Rating Prize
+	05/09/2014  22  7  2014 Glen Eira Qualifier 3
+	07/09/2014  88  5  2014 Hobsons Bay Best in the West
+	16/09/2014  21  7  2014 Hobsons Bay Koshnitsky Cup
+	04/11/2014  87  9  2014 MCC Hjorth Open
+	10/11/2014  36  9  2014 MCC Open
+	21/09/2014  59  7  2014 Noble Park Classic
+	22/11/2014  42  7  2014 Noble Park Spring Cup
+	09/09/2014  33  7  2014 Ranges Club Championship
+	12/10/2014  31  6  2014 Victorian Country Chess Championship
+	16/11/2014  16  5  2014 Warrnambool Open
+WA
+	08/11/2014  17  1  2014 Harris Edwardes Week 2
+	01/11/2014  17  1  2014 Harris Edwardes Week1
+	27/11/2014  10  9  2014 Metro Respini Div A
+	27/11/2014  11 11  2014 Metro Respini Div B
+	27/11/2014  12 11  2014 Metro Respini Div C
+	24/09/2014  32  7  2014 Perth Chess Club Open
+	26/11/2014  31  7  2014 Perth Mary Thomson Cup
+	05/10/2014  24  7  2014 WA Championship
+	08/10/2014   8  7  2014 WA Junior Championship under 18
+	08/10/2014   2  1  2014 WA Womens Playoff 1
+	15/10/2014   2  1  2014 WA Womens Playoff 2

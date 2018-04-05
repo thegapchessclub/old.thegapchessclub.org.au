@@ -1,0 +1,97 @@
+Tournaments Rated
+ACT
+	14/02/2010  34  6  2010 ACT Autumn Junior Weekender
+	08/03/2010  32  9  2010 ACT Championship
+	16/05/2010  22  6  2010 ACT Women and Girls Championship
+	15/04/2010  10  9  2010 ANU Masters
+	16/03/2010  31  6  2010 ANU Summer Swiss
+	24/03/2010   9  9  2010 Canberra CC Championship
+	26/03/2010   8  7  2010 Community Centre Cup
+	03/04/2010  38  6  2010 Doeberl Cup Under 1200
+	05/04/2010  72  7  2010 O2C Doeberl Cup Major
+	05/04/2010  68  7  2010 O2C Doeberl Cup Minor
+	05/04/2010  72  9  2010 O2C Doeberl Cup Premier
+	24/05/2010  21  9  2010 Tuggeranong CC Championship
+	01/03/2010  19  6  2010 Woden Cup
+NSW
+	29/04/2010  26 10  2010 Parramatta Club Champs Division A
+	29/04/2010   5 10  2010 ParramattaClub Champiuonship
+	11/04/2010  51  9  2010 Sydney International Challengers
+	11/04/2010  77  9  2010 Sydney International Open
+	11/05/2010 100  1  Big Boards First Leg Norths vs St. George 2010
+	24/03/2010  28  7  City of Sydney Chess Championships 2010
+	21/03/2010  48  6  Dubbo RSL Open 2010
+	29/03/2010  15  9  Easts Summer Chess Challenge 2010
+	06/04/2010   5  5  Gosford 2010 Round Robin Grades Div 1
+	11/04/2010  14  5  Gosford April 2010 - g90
+	16/04/2010   4  1  Gosford March 2010 Training match
+	06/04/2010   6  5  Gosford Round Robin Grades 2010 Div 2
+	02/03/2010  16  5  Gosford Summer 2010 Swiss
+	11/05/2010  12  1  Little Big Board Norths v Norths 2010
+	19/04/2010   8  7  Manly Club Championship 2010
+	19/04/2010  10  9  Manly Club Championship A Grade 2010
+	19/04/2010   8  7  Manly Club Championship B Grade 2010
+	20/04/2010  12 11  Norths Club Championships Candidates Division 2010
+	20/04/2010  12 11  Norths Club Championships Championship Division 2010
+	27/04/2010  11 11  Norths Club Championships Reserves A Division 2010
+	20/04/2010  12 11  Norths Club Championships Reserves B Division 2010
+	20/04/2010  11 11  Norths Club Championships Reserves C Division 2010
+	06/04/2010  10  9  Norths Club Championships Reserves D Division
+	06/04/2010  10  9  Norths Club Championships Reserves E1 Division 2010
+	20/04/2010  11 11  Norths Club Championships Reserves E2 Division 2010
+	04/05/2010  40  1  Norths V Manly Little Board 1st Leg 2010
+	07/05/2010   2  2  Norths cCub Championship B Division Playoff 2010
+	29/03/2010  33  7  Rooty Hill Autumn Swiss 2010
+	12/05/2010  12 11  Ryde Eastwood Prelim A 2010
+	12/05/2010  12 11  Ryde Eastwood Prelim B 2010
+	12/05/2010  12 11  Ryde Eastwood Prelim C 2010
+	27/04/2010   6 10  St. George Club Champs 2010 Championship Division
+	27/04/2010  10  9  St. George Club Champs 2010 Division 2
+	27/04/2010  10  9  St. George Club Champs 2010 Division 3
+	27/04/2010  10  9  St. George Club Champs 2010 Division 4
+	27/04/2010  10  9  St. George Club Champs 2010 Division 5
+	27/04/2010  10  9  St. George Club Champs 2010 Division 6
+	23/03/2010   6  1  Veterans-Young Guns
+QLD
+	03/05/2010  46  7  2010 45th Peninsula Open
+	22/04/2010  21  7  2010 BCC Autumn Swiss
+	04/03/2010  26  7  2010 BCC Summer Swiss
+	11/04/2010  28  6  2010 CAQ Teams Event (Interclub)
+	30/05/2010  15  7  2010 Qld Girls Championship
+	05/04/2010  42  8  2010 Queensland Open
+	23/05/2010  33  7  2010 Suncoast Open
+	18/04/2010  28  7  Gold Coast Junior Champs 2010
+	22/03/2010  13  7  Junior Masters A T1 2010
+	22/03/2010  16  7  Junior Masters B T1 2010
+	11/05/2010  15  6  SCC Memorial Challenge
+SA
+	30/03/2010  16  9  South Australian Candidates 2010
+	30/03/2010  10  9  South Australian Chess Championship 2010
+TAS
+	28/04/2010  13 13  2010 Burnie Club Championship
+	08/03/2010  22  7  Tasmanian Championship 2010
+VIC
+	08/03/2010 123  7  Ballarat Begonia Open
+	03/03/2010  18  7  Ballarat Spielvogel Memorial
+	26/03/2010  78  7  Box Hill Autumn Cup
+	23/03/2010  34  6  Canterbury New Season Swiss
+	25/03/2010  12  5  Croydon "The Waller"
+	05/05/2010  38  5  Dandenong Easter Cup
+	24/03/2010  42  9  Dandenong Summer Swiss
+	21/04/2010  20  5  Hobsons Bay/Yarraville Purdy Cup
+	25/04/2010  45  7  MCC ANZAC Day Weekender
+	15/04/2010   8  7  MCC Phoenix 1
+	19/04/2010  42  9  Melbourne Club Championship
+	17/04/2010  21  9  Noble Park Club Championship
+	25/05/2010  34  7  Ranges Open
+WA
+	11/04/2010  21  6  2010 Gufeld Cup
+	20/05/2010  10  9  2010 Metro Club Championship A division
+	13/05/2010  10  9  2010 Metro Club Championship B division
+	20/05/2010   9  9  2010 Metro Club Championship D division
+	08/04/2010   7  7  2010 Metro Club Championship E division R1
+	17/03/2010  27  7  2010 Perth Chess Club Championship
+	14/04/2010   6  5  2010 WA Junior Under 16 18
+	09/05/2010  24  7  2010 WA Open
+	13/05/2010  24  1  Harris-Edwardes Interclub @ Metro
+

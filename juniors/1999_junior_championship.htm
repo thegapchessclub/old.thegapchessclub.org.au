@@ -1,0 +1,836 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<meta name=Generator content="Microsoft Word 10 (filtered)">
+<title>GCC</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h1
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+h2
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:25.5pt;
+	margin-bottom:.0001pt;
+	text-indent:25.5pt;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+h3
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoDate, li.MsoDate, div.MsoDate
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:1.0cm 89.9pt 1.0cm 89.9pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=Section1>
+
+<p class=MsoNormal><span lang=EN-AU>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-AU style='font-size:14.0pt'>THE GAP CHESS
+CLUB</span></b></p>
+
+<p class=MsoNormal><span lang=EN-AU style='font-size:6.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-AU style='font-size:14.0pt'>Junior
+Championship - 199</span></b><b><span lang=EN-AU style='font-size:14.0pt'>9</span></b></p>
+
+<p class=MsoNormal><span lang=EN-AU style='font-size:6.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-AU>10</span><span lang=EN-AU> December 199</span></b><b><span
+ lang=EN-AU>9</span></b></p>
+
+<p class=MsoNormal><b><span lang=EN-AU>&nbsp;</span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=703
+ style='width:527.0pt;margin-left:5.4pt;border-collapse:collapse;border:none'>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:1.5pt;border-left:
+  1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;
+  border-style:solid;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>&nbsp;</span></b></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <h3 style='text-align:justify;text-justify:inter-ideograph'><span lang=EN-AU>Name</span></h3>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>&nbsp;</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>-1-</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>&nbsp;</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>-2-</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>&nbsp;</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>-3-</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>&nbsp;</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>-4-</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>&nbsp;</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>-5-</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>&nbsp;</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>-6-</span></b></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>Total</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>Points</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><i><span
+  lang=EN-AU>Tie</span></i></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><i><span
+  lang=EN-AU>Break</span></i></b></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoHeader align=center style='text-align:center'><span lang=EN-AU>1</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoHeader style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Ben Lazarus</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+8</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+6</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+4</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+2</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+3</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+7</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>6.0</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>19.5</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>2</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Phillip Jones</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+5</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+3</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+10</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-1</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+7</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>=4</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>4.5</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>21.5</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>3</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Leighton Stephens</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+11</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-2</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+5</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+6</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-1</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+8</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>4.0</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>20.0</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>4</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Tim Plunkett</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+7</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>=5</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-1</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>=7</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+6</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>=2</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>3.5</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>22.0</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>5</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Jon Smeathers</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-2</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>=4</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-3</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+11</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+10</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+9</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>3.5</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>17.0</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>6</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Anthony Ji</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+9</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-1</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+8</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-3</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-4</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+10</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>3.0</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>19.5</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>7</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Toby Martin</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-4</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+11</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+9</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>=4</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-2</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-1</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>2.5</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>20.5</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>8</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Arthur Stevens</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-1</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-9</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-6</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+B</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+11</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-3</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>2.0</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>16.0</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>9</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Thomas Robinson</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-6</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+8</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-7</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-10</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+B</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-5</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>2.0</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>13/9.5</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>10</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Falon Lawrence</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>=B</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>=B</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-2</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+9</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-5</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-6</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>2.0</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>13/8.5</span></i></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=46 valign=top style='width:34.65pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid windowtext 1.5pt;border-right:
+  solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>11</span></p>
+  </td>
+  <td width=189 valign=top style='width:141.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  lang=EN-AU>Lauren Beavan</span></b></p>
+  </td>
+  <td width=54 valign=top style='width:40.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-3</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-7</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>+B</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-5</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>-8</span></p>
+  </td>
+  <td width=54 valign=top style='width:40.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-AU>---</span></p>
+  </td>
+  <td width=76 valign=top style='width:56.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-AU>1.0</span></b></p>
+  </td>
+  <td width=70 valign=top style='width:52.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><i><span
+  lang=EN-AU>13.0</span></i></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span lang=EN-AU>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-AU>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-AU style='font-size:14.0pt'>PRIZES:</span><span
+lang=EN-AU style='font-size:14.0pt'> </span></p>
+
+<p class=MsoNormal><span lang=EN-AU style='font-size:14.0pt'>                    FIRST          BEN
+LAZARUS</span></p>
+
+<p class=MsoNormal><span lang=EN-AU style='font-size:14.0pt'>                    SECOND     PHILLIP
+JONES</span></p>
+
+<p class=MsoNormal><span lang=EN-AU style='font-size:14.0pt'>                    THIRD         LEIGHTON
+STEPHENS</span></p>
+
+<p class=MsoNormal><span lang=EN-AU>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-AU style='font-size:14.0pt'>Previous
+winners of Doug Foster’s FRIDAY KNIGHT TROPHY</span></b></p>
+
+<p class=MsoNormal><b><span lang=EN-AU style='font-size:14.0pt'> for the GAP
+CHESS CLUB JUNIOR CHAMPION</span></b></p>
+
+<p class=MsoNormal style='margin-left:25.5pt;text-indent:25.5pt'><span
+lang=EN-AU style='font-size:14.0pt'>1995   David Franklin</span></p>
+
+<p class=MsoNormal style='margin-left:25.5pt;text-indent:25.5pt'><span
+lang=EN-AU style='font-size:14.0pt'>1996   Robyn Gillett</span></p>
+
+<h2><span lang=EN-AU>          Andrew Herriman</span></h2>
+
+<p class=MsoNormal style='margin-left:25.5pt;text-indent:25.5pt'><span
+lang=EN-AU style='font-size:14.0pt'>1997   Ben Lazarus</span></p>
+
+<p class=MsoNormal style='margin-left:25.5pt;text-indent:25.5pt'><span
+lang=EN-AU style='font-size:14.0pt'>1998   Kieran Olm-Milligan</span></p>
+
+<p class=MsoNormal style='margin-left:51.0pt;text-indent:25.5pt'><span
+lang=EN-AU style='font-size:14.0pt'>   Michael Davidovici</span></p>
+
+<p class=MsoNormal><span lang=EN-AU style='font-size:14.0pt'>              </span><span
+lang=EN-AU style='font-size:14.0pt'>1</span><span lang=EN-AU style='font-size:
+14.0pt'>999</span><span lang=EN-AU style='font-size:14.0pt'>   </span><span
+lang=EN-AU style='font-size:14.0pt'>Ben Lazarus</span></p>
+
+<p class=MsoNormal><span lang=EN-AU>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>

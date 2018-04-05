@@ -1,0 +1,99 @@
+Tournaments Rated
+ACT
+	20/05/2012  14  7  2012 ACT Women and Girls' Championship
+	11/04/2012  10  9  2012 ANU Masters
+	14/03/2012  24  6  2012 ANU Summer Swiss
+	25/03/2012  14  6  2012 Autumn Junior Weekender
+	30/05/2012  28  9  2012 Canberra CC Championship
+	07/03/2012  28  7  2012 Canberra Cup
+	09/04/2012  67  7  2012 Doeberl Major
+	09/04/2012  60  7  2012 Doeberl Minor
+	09/04/2012  79  9  2012 Doeberl Premier
+	07/04/2012  44  6  2012 Doeberl Under 1200
+	15/05/2012  15  7  2012 Murphy Memorial
+	28/05/2012  22  9  2012 Tuggeranong Vikings CC  Championship
+	06/03/2012  13  7  2012 University Cup
+	12/03/2012  19  7  2012 Woden Cup
+NSW
+	15/05/2012 106  1  2012 Big Boards Saints v Norths First Leg
+	30/04/2012  15  7  2012 Canterbury Club Championship
+	19/03/2012  28  7  2012 City of Sydney Championship
+	25/03/2012  29  6  2012 Dubbo Open
+	29/03/2012  17  9  2012 East Sydney Summer Chess Challenge
+	08/05/2012  12  5  2012 Gosford April
+	17/04/2012   6  5  2012 Gosford March Grades Div A
+	17/04/2012   6  5  2012 Gosford March Grades Div B
+	17/04/2012   4  5  2012 Gosford March Grades Div C
+	28/02/2012  13  6  2012 Gosford Summer Swiss
+	23/04/2012  10  9  2012 HDCC Club Championships Grade A
+	23/04/2012   9  9  2012 HDCC Club Championships Grade B
+	01/05/2012  12 11  2012 Norths Club Championships - Candidates
+	01/05/2012  12 11  2012 Norths Club Championships - Championship
+	01/05/2012  12 11  2012 Norths Club Championships - Reserves A
+	01/05/2012  11 11  2012 Norths Club Championships - Reserves B
+	01/05/2012  12 11  2012 Norths Club Championships - Reserves C
+	10/04/2012   9  9  2012 Norths Club Championships - Reserves D1
+	10/04/2012   9  9  2012 Norths Club Championships - Reserves D2
+	08/05/2012   2  2  2012 Norths Club Championships 2012 - Reserves D Playoff
+	08/05/2012  30  1  2012 Norths v Harbord Little Board First Leg
+	29/03/2012  10  9  2012 Parramatta Club Championship
+	29/03/2012  38  9  2012 Parramatta Club Championship Major
+	11/04/2012  33  7  2012 Rooty Hill Autumn Teams
+	24/04/2012  10  9  2012 St. George Club Champs - Championship Division
+	24/04/2012  10  9  2012 St. George Club Champs Division 2
+	24/04/2012  10  9  2012 St. George Club Champs Division 3
+	24/04/2012  10  9  2012 St. George Club Champs Division 4
+	24/04/2012  10  9  2012 St. George Club Champs Division 5
+	24/04/2012  10  9  2012 St. George Club Champs Division 6
+	15/04/2012  65  9  2012 Sydney International Challengers
+	15/04/2012  76  9  2012 Sydney International Open
+	10/04/2012  12  6  2012 WGong March Swiss
+	09/05/2012  12 11  Ryde Eastwood Prelim A 2012
+	09/05/2012  11 11  Ryde Eastwood Prelim B 2012
+	09/05/2012  11 11  Ryde Eastwood Prelim C 2012
+QLD
+	03/05/2012  29  7  2012 BCC Autumn Swiss
+	15/03/2012  32  7  2012 BCC Summer Swiss
+	22/04/2012  38  7  2012 Gold Coast Junior Champs
+	09/04/2012  26  7  2012 Queensland Open
+	27/03/2012  17  7  2012 SCC Memorial Challenge
+	23/05/2012  12  6  2012 Viv Greenelsh Memorial
+	07/05/2012  48  7  47 Peninsula Open
+	11/03/2012  19  7  Junior Masters Term 1 2012
+SA
+	03/04/2012  23  9  South Australian Candidates 2012
+	03/04/2012  10  9  South Australian Chess Championship 2012
+TAS
+	22/04/2012  18  5  2012 Hobart Open
+	12/03/2012  10  7  2012 Tasmanian Championships
+VIC
+	07/12/2011   8  7  2011 Ballarat Arthur Koelle A Grade
+	07/12/2011  12  7  2011 Ballarat Arthur Koelle B Grade
+	30/03/2012  59  7  2012 BHCC Autumn Cup
+	12/03/2012 131  7  2012 Ballarat Begonia Open
+	11/12/2011   9  6  2012 Ballarat Eureka
+	07/03/2012  15  7  2012 Ballarat Spielvogel Memorial
+	27/03/2012  19  6  2012 Canterbury New Season Swiss
+	11/05/2012  22  7  2012 Croydon Open
+	08/03/2012  18  5  2012 Croydon The President's Cup
+	18/04/2012  33  5  2012 Dandenong Easter Cup
+	07/03/2012  27  7  2012 Dandenong Summer Swiss
+	24/04/2012  17  5  2012 Hobsons Bay CJ Purdy Cup
+	08/03/2012  16  5  2012 Hobsons Bay Honourable Bob
+	25/04/2012  32  7  2012 MCC ANZAC Day Weekender
+	17/04/2012  49  9  2012 Melbourne Club Championship
+	22/05/2012  13  7  2012 Mentone Club Championship
+	29/04/2012  38  9  2012 Noble Park CC Championship
+	13/04/2012  25  6  Frankston Chess Club Championships 2012
+WA
+	01/04/2012  14  6  2012 Gufeld Cup
+	10/05/2012  10  9  2012 Metro Club Championship A
+	10/05/2012  10  9  2012 Metro Club Championship B
+	17/05/2012  10  9  2012 Metro Club Championship C
+	17/05/2012  10  9  2012 Metro Club Championship D
+	17/05/2012  12 11  2012 Metro Club Championship E
+	09/05/2012  26  7  2012 Perth Club Championship
+	15/04/2012  20  6  2012 Perth Open
+	18/03/2012  20  7  2012 WA Open
+	17/05/2012  22  1  Harris-Edwardes Interclub part 1
+

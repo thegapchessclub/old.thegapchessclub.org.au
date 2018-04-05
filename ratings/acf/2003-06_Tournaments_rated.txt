@@ -1,0 +1,100 @@
+Tournaments Rated
+ACT
+	10/03/2003  24  5  2000 Woden Cup
+	15/02/2003  35  7  2003 ACT Under 16
+	15/03/2003  29  6  2003 Autumn Junior Weekender
+	02/04/2003  26  9  2003 Canberra Chess Club Championship
+	21/04/2003  55  7  2003 Doeberl Cup Major Division
+	21/04/2003  84  7  2003 Doeberl Cup Minor Division
+	21/04/2003  72  7  2003 Doeberl Cup Open Division
+	11/04/2003  56  4  2003 Ginninderra Cup Finals
+	16/05/2003  15  4  2003 Swanson Sprint
+	11/05/2003  22  6  2003 women and girls championships
+	21/04/2003  30  7  Ginninderra  Cup Group 2
+	21/03/2003  28  7  Ginninderra Cup grp1
+	28/03/2003  20  8  Norths Junior CC Term1
+NSW
+	27/04/2003  10  9  2003 Australian Young Masters
+	28/04/2003  23  8  2003 Canterbury Club Championship
+	27/04/2003  10  9  2003 NSW Junior Masters
+	21/04/2003  30  7  2003 Sydney Easter Cup
+	13/05/2003  82  1  Big Board First Leg North Sydney v St. George
+	27/03/2003  16  6  Central Coast Summer 2003
+	27/04/2003  29  9  City of Sydney 2003
+	27/04/2003  31  9  City of Sydney 2003 u1700
+	06/05/2003   2  2  City of Sydney Open Play-off
+	31/12/2002   7 14  Dubbo Chess Club Championship 2002
+	16/03/2003  19  6  Dubbo RSL Open 2003
+	31/03/2003  19  9  Henry Greenfield Cup 2003 Open
+	31/03/2003  12  9  Henry Greenfield Cup 2003 Under 1700
+	04/05/2003  24  7  Laurieton May Open
+	13/05/2003  12  1  Little Boards First Leg North Sydney v North Sydney
+	31/03/2003   9  7  Manly 2003 Championship C2 Division
+	12/05/2003  12 11  Manly 2003 Championship Division 1
+	12/05/2003  11 11  Manly 2003 Division B
+	31/03/2003   8  7  Manly Championship 2003 C1 Division
+	21/05/2003   2  1  Manly Grade C Play off No 1
+	21/05/2003   2  1  Manly Grade C Play off No 2
+	25/05/2003  47  6  Mingara May Major 2003
+	18/05/2003  59  7  NSWCA May Weekender
+	13/05/2003  13 11  North Sydney  Championships 2003 Reserves D Division
+	13/05/2003  12 11  North Sydney Championships 2003 Candidates Division
+	13/05/2003  12 11  North Sydney Championships 2003 Championsip Division
+	05/05/2003  11 11  North Sydney Championships 2003 Rererves B Division
+	06/05/2003  12 11  North Sydney Championships 2003 Reserves A Division
+	13/05/2003  12 11  North Sydney Championships 2003 Reserves C Division
+	13/05/2003  10  9  St. George Club Champs 2003 Championship Division
+	13/05/2003  10  9  St. George Club Champs 2003 Division 2
+	13/05/2003  10  9  St. George Club Champs 2003 Division 3
+	13/05/2003  10  9  St. George Club Champs 2003 Division 4
+	13/05/2003   6 10  St. George Club Champs 2003 Division 5
+	01/03/2003   9  2  St. George Club Champs Misc
+	25/11/2002  25  7  Sydney CBD Championship
+	06/05/2003  31 10  Sydney WSCP Division A
+	08/05/2003  56  9  Sydney WSCP Division B
+	07/04/2003  21  6  Sydney WSCP Division C
+	02/03/2003  50  7  Toukley 2003
+	14/04/2003  25  7  Wyong Shire Cup
+QLD
+	20/03/2003  33  7  2003 City of Brisbane Championship
+	26/02/2003  20  7  2003 Redcliffe Summer Swiss
+	05/05/2003  49  7  38 Peninsula Open
+	01/05/2003  23  5  BCC Summer Swiss 2003
+	21/04/2003  56  6  Gold Coast Easter Weekender
+	27/04/2003  59  7  Gold Coast Junior Championships
+	10/02/2003  17  9  Gold Coast Monday Classic A Grade
+	25/05/2003  16  6  Queensland Women's Championships 2003
+	23/04/2003  25  8  Redcliffe CC Tal Memorial 2003
+	07/04/2003  10  9  Ruth Coxhill Memorial FIDE Rated Tournament
+SA
+	18/05/2003  24  7  Adelaide Cup Weekend 2003
+	25/02/2003  20  7  SA CANDIDATES 2003
+	25/02/2003   6  5  SA CHAMPIONSHIP 2003
+	01/04/2003   2  2  SA Championship 2003 Playoff
+TAS
+	10/03/2003  22  6  Tasmanian Open Chess Championship 2003
+VIC
+	27/04/2003  29  7  Anzac Day Weekender
+	10/03/2003 119  7  Ballarat Begonia Open
+	06/03/2003  22  6  Ballarat Spielvogal Memorial
+	21/03/2003 115  7  Box Hill Autumn Cup
+	08/04/2003  23  9  Box Hill New Seasons Swiss
+	30/04/2003  46  5  Dandenong Easter Cup
+	19/03/2003  52  7  Dandenong Summer Swiss
+	04/05/2003   6  5  Emmanuel Basta Memorial
+	23/04/2003  21  5  Hobsons Bay CJS Purdy Cup
+	14/04/2003  41  9  Melbourne Club Championship
+	02/03/2003  10  9  Melbourne FIDE Rating Tournament (February)
+WA
+	26/03/2003  16  7  2003 PERTH CHESS CLUB CHAMPIONSHIP
+	23/02/2003  31  6  2003 Perth Open
+	06/12/2002  16  7  City of Fremantle 2002
+	01/04/2003  15  7  Fremantle Championship 2003
+	21/04/2003  24  6  Gufeld Cup 03
+	24/04/2003  11 11  Metro A
+	11/04/2003  13  7  Midland Challengers 2003
+	18/04/2003  10  9  Midland Masters 2003
+	09/03/2003  35  6  South West Open 2003
+	05/04/2003   4  3  State Women's Championship
+
+

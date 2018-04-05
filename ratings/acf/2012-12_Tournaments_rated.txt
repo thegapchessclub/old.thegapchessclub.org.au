@@ -1,0 +1,107 @@
+Tournaments Rated
+ACT
+	05/10/2012  51  9  2012 ACT Junior Championship
+	11/11/2012  22  6  2012 ACT Under 14 Championship
+	07/11/2012  32  6  2012 ANU Spring Swiss
+	12/09/2012  30  7  2012 Charity Cup
+	30/10/2012  21  7  2012 Floriade Dark Knights
+	11/09/2012  15  7  2012 Korda Chess Classic
+	31/10/2012  36  7  2012 Memorial Cup
+	08/10/2012  20  9  2012 Murrumbidgee Masters
+	18/11/2012  29  7  2012 Vikings Weekender Minor
+	18/11/2012  33  7  2012 Vikings Weekender Open
+NSW
+	27/11/2012  96  1  2012 Big Boards Norths v Saints Second Leg
+	05/10/2012  17  11  2012 City of Sydney Junior Championship – Under 12
+	05/10/2012  25  8  2012 City of Sydney Junior Championship – Under 15
+	05/10/2012  14  8  2012 City of Sydney Junior Championship – Under 18
+	19/11/2012  20  9  2012 Harbord Diggers Spring Tournament
+	27/11/2012  14  1  2012 Little Boards Norths v Norths
+	28/09/2012  11  6  2012 NSW Girls Championship – Under 18
+	23/09/2012  26  3  2012 National Schools Finals Playoffs
+	22/10/2012  32  1  2012 Norths v Harbord Little Board Second Leg
+	18/10/2012  31  9  2012 Parramatta Spring Cup
+	03/10/2012  39  9  2012 Rooty Hill Amateur u2200
+	01/10/2012  66  7  2012 Ryde-Eastwood Open
+	06/11/2012  52  9  2012 St. George Swiss
+	22/10/2012  10  7  2012 Sydney Chess Centre FIDE
+	20/11/2012  12  5  2012 WGong Nov Swiss
+	25/09/2012  10  5  2012 WGong September Swiss
+	26/11/2012  21  7  Canterbury Open 2012
+	10/09/2012  20  7  Canterbury Winter Swiss 2012
+	09/09/2012   7  7  Coffs Harbour 60 mins 2012
+	28/10/2012  23  7  Gosford Open 2012
+	04/09/2012  10  6  Gosford Winter 2012 g60 plus 15 secs increment
+	13/11/2012  73  9  John Purdy Memorial Open Tournament 2012
+	21/11/2012   6  5  Ryde Eastwood Club Championship Final 2012
+	21/10/2012   2  2  Ryde Eastwood Prelim C Playoff 2012
+QLD
+	15/11/2012  36  7  2012 BCC Club Championship
+	27/09/2012  27  5  2012 BCC Tal Memorial
+	25/11/2012  54  6  2012 Caloundra Open
+	28/11/2012  14  6  2012 Club Championship
+	29/10/2012   3  3  2012 Club Second Division Round One
+	09/09/2012  15  6  2012 Darling Downs Open
+	09/09/2012  20  6  2012 Darling Downs Open Under 1600
+	04/11/2012   6  5  2012 Disabled and Veterans Championship
+	01/10/2012  23  9  2012 Queensland Championship
+	29/10/2012   3  3  Amended Division Two Club Championships 2nd Round
+	29/10/2012   4  3  Club Senior Division Championship Round 2
+	29/10/2012   4  3  Club Senior Round Robin 2012
+	14/10/2012  28  6  Gladstone Open 2012
+	23/09/2012  58  6  Nell Van De Graaff Classic 2012
+	03/10/2012  17  5  Norm Braybrooke Classic 2012
+	31/08/2012   9  9  The Gap Chess Club – Stuart Wilson Trophy
+	07/10/2012  52  6  Wendy Terry Memorial 2012
+SA
+	18/09/2012  18  9  City of Adelaide 2012
+	30/09/2012  20  6  Labour Day Weekender 2012
+	06/11/2012  43  7  Pennant Div1_2012
+	06/11/2012  44  7  Pennant Div2_2012
+TAS
+	28/10/2012  20  6  2012 Burnie Shines
+	05/11/2012   6  5  2012 HICC Champs Top Division
+	05/11/2012   6  5  2012 HICC Champs Top Division 2
+	04/11/2012   3  6  2012 Tas Junior Under 18
+	17/10/2012  14  13  Robert Isted 2012
+VIC
+	14/09/2012  67  9  2012 BHCC Championship
+	03/10/2012  16  7  2012 Ballarat Arthur Teters Memorial
+	12/09/2012   6  5  2012 Bendigo Chess Club Championship Finals
+	21/09/2012   2  2  2012 Box Hill Club Championship B playoff
+	29/09/2012  10  9  2012 Box Hill Masters
+	16/11/2012  82  7  2012 Box Hill Open
+	07/10/2012  23  7  2012 CV Women Championship
+	22/11/2012  21  7  2012 Croydon Club Championship
+	06/09/2012  15  5  2012 Croydon Frost Winter Warrmer
+	05/09/2012  32  5  2012 Dandenong 40th Anniversary Tournament
+	27/11/2012  34  9  2012 Dandenong Club Championship
+	27/11/2012   9  7  2012 Hobsons Bay Club Championship
+	12/09/2012  16  5  2012 Hobsons Bay Koshnitsky Cup
+	27/11/2012   5  3  2012 Hobsons Bay Reserves Championship – 1
+	27/11/2012   4  3  2012 Hobsons Bay Reserves Championship -2
+	10/11/2012   7  5  2012 Hobsons Bay Yarraville Jnr CC Championship Cadets
+	10/11/2012   6  5  2012 Hobsons Bay Yarraville Jnr Championship Reserves
+	10/11/2012   6  5  2012 Hobsons Bay Yarraville Junior Championship
+	01/09/2012  18  5  2012 Hobsons Bay Yarraville Junior McCrakett Cup
+	06/11/2012  44  9  2012 MCC Melbourne Cup Weekender
+	12/11/2012  33  9  2012 Melbourne Chess Club Open
+	11/11/2012  18  5  2012 Mildura Open
+	08/09/2012  26  9  2012 Noble Park Challengers
+	23/09/2012  59  7  2012 Noble Park Chess Classic Weekender
+	08/09/2012  10  9  2012 Noble Park Masters
+	12/09/2012   2  2  2012 Playoff-Bendigo Chess Club Championship
+	27/11/2012  32  6  2012 Ranges Christmas Competition
+	11/09/2012  20  7  2012 Ranges Club Championship
+	07/10/2012  14  6  2012 Victorian Country Chess Championship
+	18/11/2012  32  6  2012 Victorian Teams Championship A Grade
+	18/11/2012  104  7  2012 Victorian Teams Championship B Grade
+	18/11/2012  15  5  2012 Warrnambool Chess Open
+WA
+	06/09/2012  10  9  2012 WA Closed
+	16/09/2012   7  7  2012 WA Qualifying
+	07/10/2012  14  6  2012 Willetton Open
+	10/10/2012   8  7  Perth club rating group A
+	10/10/2012   8  7  Perth club rating group B
+	10/10/2012   7  7  Perth club rating group C
+

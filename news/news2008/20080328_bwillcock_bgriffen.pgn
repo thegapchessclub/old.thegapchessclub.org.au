@@ -1,0 +1,32 @@
+[Event "The Gap Flood Cup"]
+[Site "The Gap Chess Club"]
+[Date "2008.03.28"]
+[Round "3"]
+[White "Wilcock, Brian"]
+[Black "Griffen, Brendan"]
+[Result "1/2-1/2"]
+[WhiteElo "1280"]
+[BlackElo "1290"]
+[Annotator "Griffen,Brendan"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "191"]
+[TimeControl "300+10"]
+
+{75MB, Fritz9.ctg, GRIFFVIRTUAL} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5.
+Be3 Qf6 6. c3 Nge7 7. Be2 O-O 8. O-O Bb6 9. Na3 d5 10. Nxc6 Qxc6 11. exd5 Nxd5
+12. Bxb6 Nxb6 13. Bf3 Qc5 14. Nc2 c6 15. Nd4 Nd5 16. Bg4 Nf6 17. Bxc8 Raxc8 18.
+Qf3 Rfe8 19. Rfe1 Re5 20. Rxe5 Qxe5 21. Qf5 Re8 22. Qxe5 Rxe5 23. Kf1 Nd5 24.
+Re1 Rxe1+ 25. Kxe1 Nf4 26. Kf1 Kf8 27. g3 Nd3 28. b3 c5 29. Nb5 Nc1 30. Nxa7
+Nxa2 31. Nb5 Ke7 32. Ke1 Nc1 33. b4 cxb4 34. Kd2 Nb3+ 35. Kc2 Nc5 36. cxb4 Ne4
+37. f3 Nd6 38. Nd4 g6 39. b5 Nc4 40. Kd3 Ne5+ 41. Ke4 Kd6 42. h3 h6 43. f4 f5+
+44. Ke3 Nc4+ 45. Kd3 Kd5 46. g4 fxg4 47. hxg4 h5 48. f5 Ne5+ 49. Kc3 hxg4 50.
+fxg6 Nxg6 51. Kd3 Nf4+ 52. Ke3 g3 53. Nf3 Nh3 54. Ne1 Ng5 55. Kf4 Ne4 56. Kf3
+Nd6 57. Kxg3 Nxb5 58. Kf3 Nd4+ 59. Ke3 b5 60. Nd3 Kc4 61. Ke4 Kc3 62. Ke3 Nc2+
+63. Ke2 Na3 64. Ke3 Nc4+ 65. Ke4 Nb2 66. Nf4 Kc4 67. Nd5 Nd1 68. Nb6+ Kc5 69.
+Nd5 Nf2+ 70. Ke5 Ng4+ 71. Ke4 Nf2+ 72. Ke5 Nd3+ 73. Ke4 Kc4 74. Nb6+ Kc3 75.
+Nd5+ Kc2 76. Kd4 Kd2 77. Ke4 Nc5+ 78. Kd4 Nb3+ 79. Ke4 Kc2 80. Ne3+ Kc3 81.
+Nd5+ Kd2 82. Ke5 Kd3 83. Nf4+ Kc4 84. Nd5 Nc1 85. Ke4 Ne2 86. Ke5 Nc3 87. Ne3+
+Kb3 88. Kd4 b4 89. Nc4 Ne4 90. Nb6 Nc3 91. Kd3 Ka3 92. Nc4+ Ka2 93. Nd2 Nd5 94.
+Kc4 Kb2 95. Kxd5 Kc3 96. Kc5 1/2-1/2
+

@@ -1,0 +1,91 @@
+ACT
+	15/04/2014  40  9  2014 ACT April Boot Camp
+	30/03/2014  32  9  2014 ACT Championship
+	19/03/2014  27  6  2014 ANU Summer Swiss
+	25/05/2014  41  7  2014 Autumn Junior Weekender
+	20/05/2014  30  9  2014 Canberra Club Championship
+	13/05/2014  14  7  2014 Murphy Memorial
+	19/05/2014  28  9  2014 Tuggeranong Club Championships
+	25/03/2014  12  7  2014 University Cup
+	10/03/2014  25  7  2014 Woden Cup
+	09/04/2014   8  7  ANU Masters 2014
+	14/04/2014  60  6  Games Capital Doeberl Cup 2014 U1200
+	21/04/2014  89  7  O2C Doeberl Cup 2014 Major
+	21/04/2014  68  7  O2C Doeberl Cup 2014 Minor
+	21/04/2014  94  9  O2C Doeberl Cup 2014 Premier
+NSW
+	20/05/2014  80  1  2014 Big Boards Norths vs Saints
+	14/04/2014  12  7  2014 Canterbury Championships
+	03/04/2014  54  7  2014 City of Sydney
+	06/04/2014  27  6  2014 Dubbo RSL Open
+	25/03/2014   4  3  2014 Gosford CCLC Round Robin A
+	15/04/2014   4  3  2014 Gosford CCLC Round Robin A1
+	15/04/2014   4  3  2014 Gosford CCLC Round Robin B
+	15/04/2014   4  3  2014 Gosford CCLC Round Robin B1
+	04/03/2014  16  6  2014 Gosford CCLC Summer Swiss
+	07/05/2014   8  7  2014 Harbord Diggers Club Championship Grade A
+	07/05/2014   6 10  2014 Harbord Diggers Club Championship Grade B
+	05/05/2014  10  9  2014 Inner West Open Premier
+	05/05/2014  22  9  2014 Inner West Open U1600
+	07/05/2014  26  1  2014 Little Board First Leg Norths v Harbord
+	06/05/2014  14  1  2014 Little Board May Norths v Norths
+	20/05/2014  16  1  2014 Little Boards Norths vs Norths
+	31/03/2014  12  7  2014 Newcastle Under 1200 & Novice (February)
+	06/05/2014  12 11  2014 Norths Club Championship
+	29/04/2014  12 11  2014 Norths Club Championship Candidates
+	29/04/2014  12 11  2014 Norths Club Championship Reserves A
+	29/04/2014  12 11  2014 Norths Club Championship Reserves B
+	29/04/2014  10  9  2014 Norths Club Championship Reserves C
+	29/04/2014  10  9  2014 Norths Club Championship Reserves D
+	29/04/2014   9  9  2014 Norths Club Championship Reserves E
+	31/03/2014   6  1  2014 Rooty Hill Club Games
+	31/03/2014  34  7  2014 Rooty Hill Club Teams Tournament Individual
+	28/05/2014  11 11  2014 Ryde Eastwood Prelim A
+	28/05/2014  11 11  2014 Ryde Eastwood Prelim B
+	28/05/2014  11 11  2014 Ryde Eastwood Prelim C
+	06/05/2014  10  9  2014 St. George Club Championship
+	06/05/2014  12 11  2014 St. George Club Championship Division 2
+	06/05/2014  10  9  2014 St. George Club Championship Division 3
+	06/05/2014  10  9  2014 St. George Club Championship Division 4
+	06/05/2014  10  9  2014 St. George Club Championship Division 5
+	06/05/2014  10  9  2014 St. George Club Championship Division 6
+	27/04/2014  46  9  2014 Sydney International Challengers
+	27/04/2014  72  9  2014 Sydney International Open
+	01/04/2014  18  7  2014 WGONG HANDICAP
+	27/05/2014  14  5  2014 WGong Collies - Grading Swiss
+QLD
+	22/04/2014  10  5  2014 Autumn Swiss
+	08/05/2014  39  7  2014 BCC Autumn Swiss
+	20/03/2014  34  7  2014 BCC Summer Swiss
+	16/03/2014   6 10  2014 Kangaroo Point Challenge
+	04/05/2014  11  6  2014 NQ Open
+	13/05/2014  19  6  2014 SCC Memorial Challenge
+	11/03/2014  10  5  2014 Summer Swiss
+	27/04/2014  40  6  2014 Wendy Terry Memorial
+SA
+	08/04/2014  34  9  2014 South Australian Candidates
+	08/04/2014  10  9  2014 South Australian Championship
+TAS
+	10/04/2014  10  7  2014 Tasmanian Championships
+VIC
+	10/03/2014 117  7  2014 Ballarat Begonia Open
+	05/03/2014  13  7  2014 Ballarat Spielvogel
+	04/04/2014  59  9  2014 Box Hill Autumn Cup
+	20/03/2014  20  7  2014 Croydon Open
+	30/05/2014  16  5  2014 Croydon President's Cup
+	16/04/2014  34  7  2014 Dandenong Easter Cup
+	04/03/2014  20  5  2014 Hobsons Bay Honourable Bob
+	15/04/2014  24  5  2014 Hobsons Bay Purdy Cup
+	27/04/2014  31  7  2014 MCC ANZAC Day Weekender
+	07/04/2014  47  9  2014 MCC Club Championship
+	22/05/2014   7  7  2014 Mentone Chess Club Championship
+	12/04/2014  52  9  2014 Noble Park Club Championship
+	23/03/2014  24  5  2014 Ranges Knox Cup
+	22/04/2014  13  6  2014 Ranges New Year Classic
+WA
+	20/04/2014  20  6  2014 Gufeld Cup
+	01/05/2014  10  9  2014 Metro Club Championship A
+	15/05/2014  10  9  2014 Metro Club Championship B
+	15/05/2014  10  9  2014 Metro Club Championship C
+	15/05/2014  11 11  2014 Metro Club Championship D
+	12/05/2014  35  7  2014 Perth Club Championship

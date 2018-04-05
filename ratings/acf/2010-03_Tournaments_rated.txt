@@ -1,0 +1,64 @@
+Tournaments Rated
+ACF
+	06/12/2009  29  5  2009 National Schools Finals Primary Girls
+	06/12/2009  28  5  2009 National Schools Finals Primary Open
+	06/12/2009  23  5  2009 National Schools Finals Secondary Girls
+	06/12/2009  28  5  2009 National Schools Finals Secondary Open
+	13/01/2010  28 11  2010 Australian Championships
+	25/01/2010  10  9  2010 Australian Juniors Under 12 Girls
+	25/01/2010  46 11  2010 Australian Juniors Under 12 Open
+	25/01/2010  14  9  2010 Australian Juniors Under 18 Girls
+	25/01/2010  47 11  2010 Australian Juniors Under 18 Open
+	13/01/2010  96 11  2010 Australian Major
+	13/01/2010  42 11  2010 Australian Minor
+	09/01/2010  21  7  2010 Norths Chess Classic
+ACT
+	18/09/2009  13  7  2009 Belconnen Premier
+	14/10/2009  11  7  2009 Charity Cup
+	02/12/2009  10  9  2009 Griffin King
+	04/12/2009  11  5  2009 Swanson Sprint
+NSW
+	30/01/2010   7  7  2009 Albury Chess Club Championship
+	21/12/2009  21  9  2009 Easts Spring Chess Challenge
+	08/12/2009  18  7  2009 Gosford Championship
+	02/12/2009  10  9  2009 NSW Championships Reserves
+	06/12/2009  43  6  2009 NSW CountryTeams
+	02/12/2009   6 10  2009 NSW State Championship
+	20/12/2009   8  7  2009 NSWJCL End of Year Tournament 1
+	20/12/2009   8  7  2009 NSWJCL End of Year Tournament 2
+	20/12/2009   7  7  2009 NSWJCL End of Year Tournament 3
+	20/12/2009   6  3  2009 NSWJCL End of Year Tournament 4
+	26/01/2010  49  7  2009 St. George Summer Open
+	24/01/2010  73  7  2010 Australia Day Weekender
+	14/02/2010  40  6  2010 Newcastle Open
+QLD
+	01/12/2009  27  7  2009 Gold Coast Beach Idol
+	26/01/2010  23  7  2010 Qld Australia Day Weekender
+	14/02/2010  49  6  Gold Coast Tin Cup 2010
+	24/02/2010  17  6  SummerSwiss
+SA
+	04/10/2009  16  6  Labour Day Weekender 2009
+TAS
+	14/02/2010  17  6  Launceston Cup 2010
+VIC
+	13/12/2009  10  9  Australasian Masters
+	13/12/2009  17  6  Ballarat Eureka Tournament
+	09/12/2009  16  7  Ballarat John Holmes Memorial
+	11/12/2009  44  5  Box Hill Xmas Swiss
+	15/12/2009  37  7  Canterbury Summer Swiss
+	29/12/2009  83  7  Canterbury Summer Swiss Weekender
+	02/12/2009  43  9  Dandenong Club Championship
+	26/01/2010  14  7  MCC Australia Day Weekender
+	21/12/2009   8  7  MCC Fitzroy Open (Group A)
+	21/12/2009   8  7  MCC Fitzroy Open (Group B)
+	21/12/2009   6  5  MCC Fitzroy Open (Group C)
+	22/12/2009   8  7  MCC Phoenix Invitational
+	07/02/2010  43  6  Ranges Summer Sizzler
+WA
+	09/12/2009  10  9  2009 Metro Respini A
+	09/12/2009  10  9  2009 Metro Respini B
+	09/12/2009   8  7  2009 Metro Respini C
+	09/12/2009   9  9  2009 Metro Respini D
+	06/12/2009  22  6  2009 Xmas Open
+	21/02/2010  23  6  2010 Kingsley Open
+

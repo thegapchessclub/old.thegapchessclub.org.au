@@ -1,0 +1,116 @@
+Tournaments Rated
+ACT
+	15/07/2015  34  6  2015 ACT July Boot Camp Tournament
+	17/06/2015  20  7  2015 ANU Autumn Swiss
+	26/07/2015  27  7  2015 ANU Open
+	26/07/2015  56  7  2015 ANU Open Under 1600
+	19/08/2015  19  6  2015 ANU Winter Swiss
+	30/06/2015  15  7  2015 BCC/UC Autumn Leaves
+	20/07/2015  24  7  2015 Brindabella Snows
+	08/07/2015  27  7  2015 CCC Cold Comfort Cup
+	08/07/2015  16  7  2015 Chisholm Invitational
+NSW
+	13/07/2015   4  3  2015 Burwood Club Finals Group 1
+	20/07/2015   4  6  2015 Burwood Club Finals Group 2
+	20/07/2015   3  3  2015 Burwood Club Finals Group 3
+	08/06/2015   5  5  2015 Burwood Club Qualifications Group 1
+	08/06/2015   6  5  2015 Burwood Club Qualifications Group 2
+	08/06/2015   5  5  2015 Burwood Club Qualifications Group 3
+	08/06/2015   6  5  2015 Burwood Club Qualifications Group 3
+	24/08/2015  12  7  2015 Canterbury Winter Swiss
+	04/08/2015  22  9  2015 Ford/Greenwood Seniors
+	21/07/2015   8  1  2015 Gosford Big Board
+	23/06/2015  11  7  2015 Gosford CCLC District Champ
+	04/08/2015  10  9  2015 NSW Championship
+	08/07/2015  54 10  2015 NSW Junior Championship - Under 12
+	10/07/2015  21  9  2015 NSW Junior Championship - Under 18
+	08/06/2015  52  7  2015 NSW Open
+	08/06/2015  58  7  2015 NSW Open Under 1600
+	28/07/2015  53 10  2015 NSWCA Grade U1500
+	31/07/2015  43 10  2015 NSWCA Grade U1700
+	09/08/2015  44 10  2015 NSWCA Grade U2100
+	10/07/2015  14  9  2015 Oceania Women's Zonal
+	10/07/2015 103  9  2015 Oceania Zonal Open
+	01/06/2015  46  7  2015 Rooty Hill Winter Swiss
+	28/07/2015  56  9  2015 St. George Internal Teams Individual
+	23/08/2015  27  7  2015 St. George Weekender
+	21/07/2015  14  7  2015 WGong Collies Club Champs
+QLD
+	09/08/2015  29  6  2015 August Open
+	25/06/2015  33  4  2015 BCC Tal Memorial
+	13/08/2015  36  7  2015 BCC Winter Swiss
+	26/07/2015  24  6  2015 Gladstone Open
+	28/06/2015  53  7  2015 Gold Coast Open
+	28/06/2015  46  7  2015 Gold Coast Open Under 1000
+	28/06/2015  46  7  2015 Gold Coast Open Under 1600
+	30/08/2015  10  9  2015 Helensvale Classic
+	21/06/2015  33  7  2015 Nudgee Junior Invitational Weekender 215
+	02/08/2015  31  7  2015 Nudgee Junior Invitational Weekender 315
+	19/07/2015  24  6  2015 Pelican Open
+	30/08/2015  10  7  2015 QLD Womens and Girls Championships
+	03/05/2015  23  8  2015 Queensland Junior Champs Under U14-U18
+	23/08/2015  37  6  2015 Queensland Open August
+	12/07/2015  41  7  2015 Queensland Reserves
+	11/08/2015  17  7  2015 SCC Championship
+	28/08/2015  18  8  2015 The Gap Chess Club - Stuart Wilson Trophy
+	08/06/2015  25  7  2015 The Wendy Terry Open
+	02/08/2015  14  6  2015 Townsville Open
+SA
+	12/07/2015  31  7  2015 EK Memorial Challengers
+	12/07/2015  45  7  2015 EK Memorial Checkmate Open
+	30/06/2015  53  9  2015 Inter-club A
+	30/06/2015  62  9  2015 Inter-club B Grade
+	24/07/2015  27  9  2015 Modbury Chess Championship
+	07/06/2015  21  6  2015 Queen's Birthday Weekender
+	16/07/2015  19  7  2015 The Evelyn
+TAS
+	22/07/2015  10  9  2015 Burnie CC Championship
+	13/08/2015  12 11  2015 DCC Club Championship
+	30/08/2015   7  7  2015 HICC August Masters Classical Weekender
+	08/06/2015  15  6  2015 Tasmanian Open
+VIC
+	01/12/2014   8  7  2014 Ballarat Koelle A
+	01/12/2014   8  7  2014 Ballarat Koelle B
+	27/08/2015  12 11  2015 50th Ballarat Chess Club Championships
+	27/08/2015  11 13  2015 50th Ballarat Chess Club Reserve Championships
+	05/03/2015  20  7  2015 Ballarat Spielvogel
+	19/06/2015  39  9  2015 Box Hill Club Championship
+	21/08/2015  36  9  2015 Box Hill Friday Grades
+	28/06/2015  17  7  2015 Box Hill Sunday Arvo 2
+	12/07/2015  42  5  2015 Croydon Chess Classic
+	13/04/2015  20  5  2015 Croydon Frost Winter Warmer
+	10/06/2015   7  7  2015 Dandenong A Grade
+	10/06/2015   8  7  2015 Dandenong B Grade
+	10/06/2015   7  7  2015 Dandenong Premier Grade
+	09/06/2015  21  7  2015 Hobsons Bay Cup
+	22/08/2015  31  6  2015 Hobsons Bay McCrakett Cup
+	29/06/2015  46  9  2015 MCC City of Melbourne Open
+	24/08/2015   8  7  2015 MCC Malitis Round Robin
+	24/08/2015  35  7  2015 MCC Malitis Swiss
+	25/05/2015   7  7  2015 Mentone Club Championship
+	29/08/2015  38  9  2015 Noble Park Challengers
+	29/08/2015  10  9  2015 Noble Park Masters
+	20/06/2015  40  7  2015 Noble Park Open
+	27/06/2015  12 11  2015 Victorian Championships
+	06/07/2015   4  3  2015 Victorian Juniors Girls U12
+	06/07/2015   4  3  2015 Victorian Juniors Girls U12 DRR
+	06/07/2015   5  5  2015 Victorian Juniors Girls U14
+	06/07/2015   4  3  2015 Victorian Juniors Girls U16
+	06/07/2015   4  3  2015 Victorian Juniors Girls U16 DRR
+	06/07/2015  34  7  2015 Victorian Juniors Open U12
+	06/07/2015  28  7  2015 Victorian Juniors Open U14
+	06/07/2015   9  7  2015 Victorian Juniors Open U18/U16
+	07/06/2015  79  7  2015 Victorian Open
+WA
+	12/07/2015  15  4  2015 Harris A
+	12/07/2015  12  4  2015 Harris B
+	12/07/2015  17  3  2015 Harris C
+	12/07/2015  16  1  2015 Harris C Final
+	02/07/2015  33  7  2015 Metro Open
+	08/07/2015   8  5  2015 Perth Club 5 Round D Division
+	08/07/2015   6  5  2015 Perth Club 6 Player A Division
+	08/07/2015   6  5  2015 Perth Club 6 Player B Division
+	08/07/2015   6  5  2015 Perth Club 6 Player C Division
+	14/06/2015  21  6  2015 South West Open
+	16/08/2015  19  6  2015 Willetton Open
+

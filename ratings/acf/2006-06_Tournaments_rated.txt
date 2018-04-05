@@ -1,0 +1,113 @@
+Tournaments Rated
+ACF
+	23/04/2006  10  9  2006 Stratagem Australian Girls Masters
+	23/04/2006  10  9  2006 Stratagem Australian Junior Masters
+	23/04/2006  10  9  2006 Stratagem Australian Young Masters
+ACT
+	28/05/2006  22  7  2006 ACT Women and Girls Championship
+	07/04/2006  46  1  2006 Adults vs Juniors
+	19/03/2006   7  7  2006 Autumn Junior Weekender
+	19/03/2006  36  7  2006 Autumn Junior Weekender Reserves
+	31/03/2006  47  9  2006 Belconnen Open
+	29/03/2006  17  7  2006 Canberra CC Championship
+	17/05/2006  16  7  2006 Canberra Cup
+	17/04/2006  53  7  2006 Doeberl Cup Major
+	17/04/2006  76  7  2006 Doeberl Cup Premier
+	17/04/2006  16  7  2006 Doeberl Fischerbooks Seniors
+	17/04/2006  83  7  2006 Doeberl Minor
+	22/05/2006  30  7  2006 Tuggeranong CC Championship
+	13/03/2006  20  5  2006 Woden Cup
+NSW
+	08/05/2006  19  7  2006 Canterbury Club Championship
+	30/04/2006  23  9  2006 City of Sydney Open
+	30/04/2006  24  9  2006 City of Sydney Under 1700
+	06/04/2006  24  6  2006 WSCP Division A
+	02/05/2006  38 10  2006 WSCP Division B
+	04/05/2006  41 10  2006 WSCP Division C
+	04/05/2006  42 10  2006 WSCP Division D
+	14/03/2006  14  9  2006-Wollongong-Handicap
+	10/04/2006  16  7  Campbelltown Autumn Championships 2006
+	30/05/2006  26  5  Central Coast Teams
+	26/03/2006  23  6  Dubbo RSL Open 2006
+	18/03/2006   7  7  Ettalong Brown Belts Grade Feb 2006
+	18/03/2006   4  3  Ettalong Green Belts Grade Feb 2006 - 1
+	18/03/2006   4  3  Ettalong Green Belts Grade Feb 2006 - 2
+	18/03/2006   4  3  Ettalong White Belts Grade Feb 2006 - 1
+	18/03/2006   4  3  Ettalong White Belts Grade Feb 2006 - 2
+	18/04/2006   4  3  Gosford Grades 2006 Division 1-1
+	09/05/2006   4  3  Gosford Grades 2006 Division 1-2
+	18/04/2006   4  3  Gosford Grades Champ Division 2006 - 1
+	09/05/2006   4  3  Gosford Grades Champ Division 2006 - 2
+	07/03/2006  14  6  Gosford Summer 2006
+	03/04/2006  23  9  Henry Greenfield Cup 2006
+	07/05/2006  26  7  Laurieton May Open 2006
+	09/05/2006  20  1  Little Board Norths v Manly First Leg May 2006
+	17/04/2006  10  9  Liverpool Club Championship
+	15/05/2006  12 11  Manly Club Champs A Grade 2006
+	15/05/2006  11 11  Manly Club Champs B Grade 2006
+	15/05/2006  11  9  Manly Club Champs C Grade 2006
+	21/05/2006  54  7  May Weekender 2006
+	28/05/2006  27  6  Mingara May Major 2006
+	24/04/2006  18  1  Mingara Versus the World
+	02/05/2006  11 11  North Sydney Championships 2006
+	02/05/2006  11 11  North Sydney Club Championships 2006 Candidates Division
+	02/05/2006  11 11  North Sydney Club Championships 2006 Reserves A Division
+	02/05/2006  12 11  North Sydney Club Championships 2006 Reserves B Division
+	02/05/2006  12 11  North Sydney Club Championships 2006 Reserves C Division
+	09/05/2006   6  1  Norths Little Board May 2006
+	16/05/2006 100  1  Norths V St. George Big Board 1st Leg 2006
+	19/04/2006   8  7  Ryde Eastwood Prelim A 2006
+	19/04/2006   8  7  Ryde Eastwood Prelim B 2006
+	19/04/2006   7  7  Ryde Eastwood Prelim C 2006
+	02/05/2006  10  9  St. George Club Champs 2006 Championship Division
+	02/05/2006  10  9  St. George Club Champs 2006 Division 2
+	02/05/2006  10  9  St. George Club Champs 2006 Division 3
+	02/05/2006  10  9  St. George Club Champs 2006 Division 4
+	02/05/2006  10  9  St. George Club Champs 2006 Division 5
+	02/05/2006  10  9  St. George Club Champs 2006 Division 6
+	17/04/2006  34  7  Sydney Easter Cup 2006
+	10/04/2006  22  7  Wyong Shire Cup
+QLD
+	23/11/2005  17  8  2005 Redcliffe Club Championship
+	20/04/2006  21  5  2006 BCC Summer Swiss
+	17/03/2006  35  7  2006 City of Brisbane Championship
+	01/05/2006  55  7  2006 Peninsula Open 41
+	17/04/2006  66  7  2006 Queensland Open Championship
+	22/02/2006  19  7  2006 Redcliffe Summer Swiss
+	01/12/2004  12  1  Bullwinkle-University Match
+	19/05/2006  18  7  Flood Cup 2006
+	27/03/2006  24  8  Junior Masters T1 2006
+	06/03/2006  22  6  Presidents Challenge
+	27/03/2006  10  9  Super Junior Masters T1 2006
+	27/03/2006   8  7  Young Champions T1 2006
+SA
+	11/04/2006  30  9  SA Candidates 2006
+	11/04/2006  10  9  South Australian Chess Championship 2006
+TAS
+	13/03/2006  23  6  Tasmanian Championship 2006
+VIC
+	10/11/2005  16  7  2005 Ballarat John Holmes Memorial
+	28/02/2006   6  1  2005 Victorian Teams Championship
+	13/03/2006 116  7  Ballarat Begonia Open
+	31/03/2006  80  7  Box Hill Autumn Cup
+	04/04/2006  31  6  Box Hill New Season Swiss
+	27/04/2006  13  5  Croydon Tal Tournament
+	03/05/2006  49  5  Dandenong Easter Cup
+	22/03/2006  58  8  Dandenong Summer Swiss
+	08/04/2006   8  7  Elwood Round Robin
+	08/04/2006  13  8  Elwood Round Robin Preliminary
+	11/04/2006  22  5  Hobsons Bay/Yarraville CJS Purdy Cup
+	23/04/2006  29  5  MCC Anzac Day Weekender
+	19/03/2006  13  5  MCC March Weekender
+	10/04/2006  33  9  Melbourne Club Championship
+WA
+	17/04/2006  17  6  2006 Gufeld
+	27/05/2006  15  6  2006 Kingsley
+	05/04/2006  14  7  2006 Perth Club Championship
+	04/04/2006  12  7  Chart Zylstra 2006
+	18/05/2006  12 11  Metro Club Championship 2006 A Division
+	18/05/2006  12 11  Metro Club Championship 2006 B Division
+	18/05/2006  12 11  Metro Club Championship 2006 C Division
+	18/05/2006  10  9  Metro Club Championship 2006 D Division
+	18/05/2006  10  9  Metro Club Championship 2006 E Division
+

@@ -1,0 +1,111 @@
+Tournaments Rated
+ACT
+	01/07/2005  10  9  2004 Belconnen Fourth Division
+	07/07/2005  42  9  2005 ACT Junior Championship
+	24/07/2005  71  7  2005 ANU Open
+	01/07/2005  10  9  2005 Belconnen First Division
+	01/07/2005  10  9  2005 Belconnen Premier
+	01/07/2005  10  9  2005 Belconnen Second Division
+	01/07/2005  10  9  2005 Belconnen Third Division
+	25/07/2005  27  7  2005 Brindabella Snows
+	13/07/2005  10  5  2005 Cold Comfort Cup
+	17/07/2005  15  5  2005 Winter Cup
+NSW
+	08/07/2005   8  7  2005 Australian Girls Masters
+	08/07/2005  10  9  2005 Australian Junior Masters
+	08/07/2005  10  9  2005 Australian Young Masters
+	17/07/2005  69  7  2005 Fairfield Winter Cup
+	20/07/2005  66  9  2005 NSW Grade Matches Under 1800
+	15/07/2005  57 10  2005 NSW Junior Championship  -  Under 12
+	15/07/2005  24  9  2005 NSW Junior Championship  -  Under 18
+	13/06/2005  58  7  2005 NSW Under 1600
+	07/06/2005   8  6  2005 Wollongong KO - Finals
+	12/04/2005  10  2  2005 Wollongong KO - Preliminary Round 1
+	26/04/2005  16  2  2005 Wollongong KO - Preliminary Round 2
+	07/06/2005  12  6  2005 Wollongong KO - Swiss
+	19/06/2005  16  7  Central Coast District Championship 2005
+	27/05/2005  28 15  Central Coast Teams 2005
+	07/08/2005  27  6  Coal City Open 2005
+	26/07/2005  24  1  Coast Leagues Vs the Rest of the Coast 2005
+	05/07/2005  12 11  Coffs Harbour Club Championship 2005
+	26/06/2005  16  6  CommonMan 2005
+	02/06/2005  11 11  Ettalong April 2005
+	13/03/2005  13  6  Gosford Summer Swiss 2005
+	04/07/2005  29  9  Hakoah Cup 2005
+	03/08/2005  80 11  NSW Grade Matches  2005  Under 1600
+	27/07/2005  31 10  NSW Grade Matches 2005  Under 2000
+	27/07/2005  54 10  NSW Grade Matches 2005 Open
+	20/07/2005  67  9  NSW Grade Matches 2005 Under 1400
+	13/06/2005  56  7  NSW Open Champs 2005
+	31/07/2005  36  7  NSWCA July Weekender 2005
+	06/06/2005   8  7  Newcastle Club Championship 2005
+QLD
+	21/06/2005  16  5  2005 Autumn Swiss
+	26/05/2005  62  7  2005 Caloundra Open
+	19/06/2005  25  7  2005 Gold Coast Open
+	19/06/2005  58  7  2005 Gold Coast Under 1600
+	07/08/2005  13  7  2005 NQ Open
+	20/07/2005   2  2  2005 Qld Junior Championship playoff
+	24/06/2005  13  8  2005 Qld Junior Championships
+	13/06/2005  12  7  2005 Queen's Birthday Weekender
+	24/07/2005   8  7  2005 Queensland Championship
+	24/07/2005  12  7  2005 Queensland Reserve Championship
+	20/04/2005  15  8  2005 Tal Memorial
+	09/08/2005  10  9  2005 Townsville Championships Reserve
+	09/08/2005   9  9  2005 Townsville Open Championships
+	15/06/2005  18  7  2005 Viv Greenelsh Memorial
+	21/08/2005  21  5  Adults Only 200805
+	30/06/2005  20  5  BCC Autumn Swiss 2005
+	25/08/2005  19  4  BCC Steinitz Memorial 2005
+	28/07/2005  18  4  BCC Winter Swiss 2005
+	03/06/2005  15  8  Flood Cup 2005
+	15/08/2005  10  9  Under 1300 tournament
+SA
+	21/06/2005  95  9  2005 Grade matches
+	23/08/2005  28  7  City of Adelaide Chess Championship 2005
+	12/08/2005  10  9  Modbury Championship 2005
+	19/08/2005   3  3  Modbury Championship Playoff 2005
+	10/07/2005  61  7  PAC Chess Challenge 2005
+	12/06/2005  15  6  Queen's Birthday 2005
+	23/07/2005  18  8  State Under 18 2005
+	10/07/2005  34  7  University Open 2005
+TAS
+	30/06/2005   7  7  BCC Champs 2005 Challengers Final
+	30/06/2005   5  5  BCC Champs 2005 Finals
+	30/06/2005  12 11  BCC Champs 2005 Preliminary
+	13/06/2005  35  6  Tasmanian Open Championships 2005
+VIC
+	07/10/2004  13  6  2004 Mentone Club Championship
+	08/07/2005  10  9  Australian Masters
+	17/06/2005 104  8  Box Hill Club Championship
+	05/07/2005  10  9  Box Hill FIDE Rated Tournament
+	23/08/2005   8  7  Box Hill Rainbow Championships (Blue Group)
+	23/08/2005   9  7  Box Hill Rainbow Championships (Green Group)
+	23/08/2005   6  5  Box Hill Rainbow Championships (Orange Group)
+	23/08/2005   6  5  Box Hill Rainbow Championships (Red Group)
+	23/08/2005   6  5  Box Hill Rainbow Championships (Yellow Group)
+	21/06/2005  36  8  Box Hill Winter Swiss
+	04/07/2005  32  9  City of Melbourne Open
+	09/06/2005  13  5  Croydon Fischer Tournament
+	29/06/2005  50  7  Dandenong Autumn Open
+	31/08/2005   8  7  Dandenong Grades Tournament (A Grade)
+	31/08/2005   8  7  Dandenong Grades Tournament (B Grade)
+	31/08/2005   8  7  Dandenong Grades Tournament (C Grade)
+	31/08/2005   8  7  Dandenong Grades Tournament (D Grade)
+	31/08/2005  12  7  Dandenong Grades Tournament (E Grade)
+	25/06/2005  17  7  Elwood Round Robin
+	14/06/2005  24  7  Hobsons Bay/Yarraville Cup
+	05/07/2005  12 11  Latrobe Valley Club Championship
+	22/08/2005   6  5  Melbourne Under 1600
+	22/08/2005  14  7  Melbourne Under 2000
+	08/07/2005  10  9  Victorian Junior Masters
+	13/06/2005  96  7  Victorian Open
+WA
+	25/05/2005  15  8  2005 Perth Club Championship
+	28/08/2005  35  9  2005 WA State Championship
+	06/06/2005  15  6  Foundation Day Tournament
+	01/06/2005  11  7  Fremantle Open 2005
+	30/06/2005  49  7  Metro Open 2005
+	22/06/2005   8  7  Midland Challengers
+	22/06/2005  10  9  Midland Masters 2005
+

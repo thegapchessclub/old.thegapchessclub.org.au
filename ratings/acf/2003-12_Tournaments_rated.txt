@@ -1,0 +1,94 @@
+Tournaments Rated
+ACT
+	07/09/2003  32  6  2003 ACT Under 14
+	05/09/2003  60 11  ACT Championship 2003
+	14/11/2003  55  9  Belconnen Club Championship 2003
+	10/09/2003  17  7  Charity Cup 2003
+	29/09/2003  24  7  Murrumbidgee Masters
+NSW
+	10/10/2003  27  8  2003 City of Sydney Junior Championship - Under 15
+	10/10/2003  16  8  2003 City of Sydney Junior Championship - Under 18
+	03/10/2003   6  5  2003 NSW Girls Championship - Under 18
+	26/10/2003  17  9  2003 NSW State Championship
+	26/10/2003  30  9  2003 NSW State Championship Major (Under 2000)
+	26/10/2003  26  9  2003 NSW State Championship Minor (Under 1600)
+	23/11/2003  62  6  2003 November Weekender
+	02/09/2003  19  9  2003 Wollongong Collegians Handicap
+	25/11/2003  78  1  Big Board Second Leg St. George v North Sydney
+	09/11/2003  30  7  Gosford Open
+	15/09/2003  17  9  Hakoah Chess Club Championship 2003 Open
+	15/09/2003  30  9  Hakoah Chess Club Championship 2003 Under 1700
+	11/11/2003  83  9  John Ford Memorial 2003
+	02/11/2003  17  7  Laurieton November Open 2003
+	22/09/2003  20  7  Mingara 2003 Club Championships
+	24/11/2003   8  7  Rooty Hill Club Championship Division 1
+	24/11/2003   8  7  Rooty Hill Club Championship Division 2
+	24/11/2003   7  7  Rooty Hill Club Championship Division 3
+	24/11/2003   9  7  Rooty Hill Club Championship Division 4
+	29/09/2003  36  7  Rooty Hill Open 2003
+	26/11/2003   5  5  Ryde Eastwood Club Champ Final
+	06/10/2003  54  7  Ryde Eastwood Open 2003
+	04/11/2003  22  9  St George Swiss
+	16/11/2003  19  7  Taree Spring (November) Open 2003
+	04/09/2003   6  5  UNSW Chess Club Championship 2003
+QLD
+	28/09/2003  48  6  13th. Redclife Challenge
+	25/09/2003   2  3  2002 Aust Ch Playoff
+	26/10/2003  10  5  2003 Brisbane Young Masters
+	21/09/2003  86  7  2003 Gold Coast Classic
+	23/11/2003  21  6  2003 Qld Under 1850 Championship
+	05/10/2003  41  7  2003 Tweed Heads Open
+	26/10/2003   8  5  2003 Veterans and Disabled
+	03/10/2003  58  5  Australian Teams Club Championships
+	06/11/2003  21  6  BCC Championship 2003
+	04/09/2003  15  5  BCC Steinitz Memorial 2003
+	29/09/2003  10  9  Hardys FIDE Rated Classic
+	09/09/2003  31  8  Junior Masters July 2003
+	28/09/2003  14  7  Qld Girls Champs 2003
+	17/09/2003  19  5  Redcliffe Winter Swiss
+	15/04/2003  16  5  Townsville Chess Club 2003 Autumn Swiss
+	11/03/2003   7  7  Townsville Chess Club 2003 Summer Round Robin
+	11/03/2003   7  7  Townsville Chess Club 2003 Summer Round Robin - B Grade
+SA
+	21/10/2003  82  7  2003 Pennants
+	02/09/2003  17  7  City of Adelaide Chess Championship 2003
+	05/10/2003  12  6  Labour Day Weekend 2003
+TAS
+	12/11/2003  16 15  HICC Championships 2003
+	20/08/2003   8  7  Isted Memorial Tournament 2003
+	07/09/2003  23  5  Launceston Weekender 2003
+	02/11/2003  30  7  November Weekender 03
+VIC
+	14/09/2003  13 13  Ballarat Club Championship (A Grade)
+	24/07/2003  12 11  Ballarat Club Championship (B Grade)
+	07/11/2003  86  9  Box Hill Open
+	19/08/2003  17  6  Box Hill Rainbow Championship (Green Group)
+	19/08/2003   6  5  Box Hill Rainbow Championship (Orange Group)
+	19/08/2003   6  5  Box Hill Rainbow Championship (Red Group)
+	19/08/2003   6  5  Box Hill Rainbow Championship (Yellow Group)
+	28/10/2003  40  8  Box Hill Spring Swiss
+	05/09/2003 142  8  CV Winter Interclub (Eastern Zone)
+	24/09/2003  47  8  CV Winter Interclub (Western Zone)
+	27/08/2003  51  7  Dandenong Grades Tournament
+	23/10/2003  23  7  Frankston Club Championship
+	16/11/2003  34  6  Geelong Open
+	17/11/2003  38  9  Melbourne Open
+	01/09/2003  10  7  Melbourne Under 1600
+	01/09/2003  20  7  Melbourne Under 2000
+	26/10/2003  11 11  Victorian Championship
+	13/07/2003  24  8  Victorian Junior Championships (Under 18)
+	26/10/2003  11 11  Victorian Qualifying Tournament #1
+	26/10/2003  11 11  Victorian Qualifying Tournament #2
+	26/10/2003  12 11  Victorian Reserves Championship
+WA
+	26/10/2003  18  6  2003 Kingsley Open
+	29/09/2003  16  7  Harris Edwardes 2003A
+	06/10/2003  23  6  Harris Edwardes 2003B
+	06/10/2003  20  7  Harris Edwardes 2003C
+	26/09/2003   5  5  Midland Winter A
+	26/09/2003   5  5  Midland Winter A2
+	26/09/2003   7  7  Midland Winter B
+	10/08/2003  14  6  The 2003 Chart / Zylstra Challenge
+	05/10/2003  22  6  Willetton Open 2003
+
+
